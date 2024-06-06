@@ -5,7 +5,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Vidisha Agarwal",
-  description: "Description",
+  description:
+    "NYC-based, Brand  Strategist and Designer who seeks to infuse purpose into every aspect of designs.",
 };
 
 export default function RootLayout({ children }) {

@@ -1,0 +1,85 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: public/images
+public_folder: images
+collections:
+  - name: "website_components"
+    label: "Components"
+    files:
+      - name: "top_nav"
+        label: "Top Navigation"
+        file: "content/components/top_nav.md"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - name: "links"
+            label: "Links"
+            widget: list
+            types:
+              - label: "Links"
+                name: "links"
+                widget: object
+                summary: "{{fields.display_text}}"
+                fields:
+                  - { name: "display_text", label: "Display Text", widget: "string" }
+                  - { label: "Link", name: "link", widget: "string" }
+      - name: "footer"
+        label: "Footer"
+        file: "content/components/footer.md"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - name: "links"
+            label: "Links"
+            widget: list
+            types:
+              - label: "Links"
+                name: "links"
+                widget: object
+                summary: "{{fields.display_text}}"
+                fields:
+                  - { name: "display_text", label: "Display Text", widget: "string" }
+                  - { label: "Link", name: "link", widget: "string" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "home"
+        label: "Home"
+        file: "content/home.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Headline", name: "headline", widget: "string" }
+          - { label: "Information", name: "information", widget: "markdown" }
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Headline", name: "headline", widget: "string" }
+          - { label: "Information", name: "information", widget: "markdown" }
+          - { label: "Image", name: "image", widget: "image" }
+          - name: "cta"
+            label: "Call To Action"
+            widget: object
+            summary: "{{fields.display_text}}"
+            fields:
+              - { name: "display_text", label: "Display Text", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+          - name: "resume"
+            label: "Resume"
+            widget: object
+            summary: "{{fields.display_text}}"
+            fields:
+              - {
+                  name: "resume_text",
+                  label: "Resume Display Text",
+                  widget: "string",
+                }
+              - { label: "Link", name: "link", widget: "string" }
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    create: true
+    identifier_field: name
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Description", name: "description", widget: "markdown" }

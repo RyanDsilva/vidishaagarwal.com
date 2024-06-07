@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  background-color: #f3f3f3;
+  white-space: pre-wrap;
+}
+
+.font-main-black {
+  color: #181717;
+}
+
+.font-main-gray {
+  color: #606060;
+}
+
+.bg-main-gray {
+  background-color: #606060;
+}
+
+.font-main-white {
+  color: #f3f3f3;
+}
+
+.font-secondary-blue {
+  color: #2429af;
+}

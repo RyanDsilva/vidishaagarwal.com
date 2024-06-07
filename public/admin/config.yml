@@ -47,7 +47,7 @@ collections:
         file: "content/home.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Headline", name: "headline", widget: "string" }
+          - { label: "Headline", name: "headline", widget: "markdown" }
           - { label: "Information", name: "information", widget: "markdown" }
       - label: "About"
         name: "about"
@@ -75,11 +75,22 @@ collections:
                   widget: "string",
                 }
               - { label: "Link", name: "link", widget: "string" }
-  - name: "projects"
-    label: "Projects"
-    folder: "content/projects"
+  - name: "featured"
+    label: "Featured Projects"
+    folder: "content/featured"
     create: true
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
-      - { label: "Description", name: "description", widget: "markdown" }
+      - { label: "Subtitle", name: "subtitle", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Image Text", name: "image_text", widget: "string" }
+      - name: "link"
+        label: "Link"
+        widget: object
+        summary: "{{fields.link_text}}"
+        fields:
+          - { name: "link_text", label: "Link Text", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
+      - { label: "In Progress?", name: "in_progress", widget: "boolean" }

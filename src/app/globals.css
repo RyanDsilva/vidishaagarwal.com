@@ -5,6 +5,7 @@
 body {
   background-color: #f3f3f3;
   white-space: pre-wrap;
+  font-size: 16px;
 }
 
 .font-main-black {
@@ -17,6 +18,10 @@ body {
 
 .bg-main-gray {
   background-color: #606060;
+}
+
+.bg-main-black {
+  background-color: #181717;
 }
 
 .font-main-white {

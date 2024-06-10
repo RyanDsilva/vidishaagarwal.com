@@ -2,15 +2,16 @@ import { DM_Sans } from "next/font/google";
 import { attributes } from "../../content/home.md";
 import { LucideArrowDown } from "lucide-react";
 import ProjectTile from "../components/projectTile";
+import { getAllItems } from "@/util";
 
 const dmsans = DM_Sans({ subsets: ["latin"] });
 
-export default function Home() {
-  const projects = [1];
-  const dummy = {
-    link: "#",
-    link_text: "View Case Study",
-  };
+async function fetchFeaturedProjects() {
+  return getAllItems("featured");
+}
+
+export default async function Home() {
+  const featured_projects = await fetchFeaturedProjects();
   const { headline, information } = attributes;
   return (
     <div className={`${dmsans.className} py-36`}>
@@ -23,17 +24,17 @@ export default function Home() {
       <div className="cta-icon mt-24 -m-2">
         <LucideArrowDown color="black" size={48} strokeWidth={2} />
       </div>
-      <div id="highlight-projects" className="my-24">
-        {projects.map((project, index) => (
+      <div id="highlight-projects" className="mt-40">
+        {featured_projects.map((project, index) => (
           <ProjectTile
             key={index}
-            projectName={`PayPal`}
-            body={`Goblin concept digital sculpture with human-like skin. Learned a lot of quick tips and look development.`}
-            subtitle={`Sculpted in ZBrush, Retopologized and UVs done in Maya, Textured in Mari, Rendered using Arnold.`}
-            imageSrc={``}
-            link={dummy}
-            imageAltText={"PayPal case study image"}
-            inProgress={false}
+            projectName={project.data.name}
+            body={project.data.body}
+            subtitle={project.data.subtitle}
+            imageSrc={project.data.image}
+            link={project.data.link}
+            imageAltText={project.data.image_text}
+            inProgress={project.data.in_progress}
           ></ProjectTile>
         ))}
       </div>

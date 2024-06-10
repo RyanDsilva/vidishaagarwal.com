@@ -57,24 +57,24 @@ collections:
           - { label: "Headline", name: "headline", widget: "string" }
           - { label: "Information", name: "information", widget: "markdown" }
           - { label: "Image", name: "image", widget: "image" }
+          - { label: "Clients", name: "clients", widget: "markdown" }
+          - name: "resume"
+            label: "Page Resume"
+            widget: object
+            summary: "{{fields.display_text}}"
+            fields:
+              - { name: "resume_text", label: "Resume Text", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
           - name: "cta"
             label: "Call To Action"
             widget: object
             summary: "{{fields.display_text}}"
             fields:
               - { name: "display_text", label: "Display Text", widget: "string" }
-              - { label: "Link", name: "link", widget: "string" }
-          - name: "resume"
-            label: "Resume"
-            widget: object
-            summary: "{{fields.display_text}}"
-            fields:
-              - {
-                  name: "resume_text",
-                  label: "Resume Display Text",
-                  widget: "string",
-                }
-              - { label: "Link", name: "link", widget: "string" }
+              - { name: "contact_text", label: "Contact Text", widget: "string" }
+              - { name: "contact_link", label: "Contact Link", widget: "string" }
+              - { name: "resume_text", label: "Resume Text", widget: "string" }
+              - { name: "resume_link", label: "Resume Link", widget: "string" }
   - name: "featured"
     label: "Featured Projects"
     folder: "content/featured"
@@ -94,3 +94,12 @@ collections:
           - { name: "link_text", label: "Link Text", widget: "string" }
           - { label: "Link", name: "link", widget: "string" }
       - { label: "In Progress?", name: "in_progress", widget: "boolean" }
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    create: true
+    identifier_field: name
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown" }

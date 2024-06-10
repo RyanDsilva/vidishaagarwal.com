@@ -1,4 +1,4 @@
-import { DM_Sans, Inter } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 const dmsans = DM_Sans({ subsets: ["latin"] });
 
 import { attributes } from "../../content/components/footer.md";
@@ -7,9 +7,9 @@ export default function Footer({}) {
   const { title, links } = attributes;
   return (
     <nav className={dmsans.className}>
-      <div className="flex justify-between items-center">
+      <div className="flex flex-col md:flex-row justify-between items-center">
         <div className={`font-secondary-blue font-medium text-base`}>{title}</div>
-        <div className="space-x-12">
+        <div className="flex flex-col md:flex-row md:space-x-12 text-center">
           {links.map((link, index) => (
             <a
               key={index}

@@ -14,17 +14,17 @@ export default async function Home() {
   const featured_projects = await fetchFeaturedProjects();
   const { headline, information } = attributes;
   return (
-    <div className={`${dmsans.className} py-36`}>
-      <div className="flex justify-between">
-        <h1 className="text-6xl font-main-black font-medium">{headline}</h1>
-        <h2 className="text-2xl font-main-gray font-light self-end">
+    <div className={`${dmsans.className} py-12 md:py-24 lg:py-36`}>
+      <div className="flex flex-col lg:flex-row lg:justify-between">
+        <h1 className="text-6xl font-main-black font-medium mb-8 lg:mb-0">{headline}</h1>
+        <h2 className="text-2xl font-main-gray font-light lg:self-end lg:w-1/2">
           {information}
         </h2>
       </div>
-      <div className="cta-icon mt-24 -m-2">
+      <div className="cta-icon mt-8 lg:mt-24 -m-2">
         <LucideArrowDown color="black" size={48} strokeWidth={2} />
       </div>
-      <div id="highlight-projects" className="mt-40">
+      <div id="highlight-projects" className="mt-32 md:mt-36 lg:mt-40">
         {featured_projects.map((project, index) => (
           <ProjectTile
             key={index}

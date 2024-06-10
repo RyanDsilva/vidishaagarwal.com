@@ -21,7 +21,9 @@ export default function RootLayout({ children }) {
           src="https://identity.netlify.com/v1/netlify-identity-widget.js"
         ></script>
       </Head>
-      <body className={`${inter.className} mx-40 my-12`}>
+      <body
+        className={`${inter.className} mx-12 my-8 md:mx-20 md:my-12 lg:mx-40 lg:my-12`}
+      >
         <Navbar />
         <main className="flex flex-col">{children}</main>
         <Footer />

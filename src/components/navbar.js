@@ -38,7 +38,7 @@ export default function Navbar({}) {
             aria-controls="mobile-menu"
             aria-expanded={isOpen}
           >
-            <Menu size={24} strokeWidth={1}></Menu>
+            <Menu size={28} strokeWidth={1}></Menu>
           </button>
         </div>
       </div>

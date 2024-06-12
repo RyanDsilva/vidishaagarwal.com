@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
+import { sendGTMEvent } from "@next/third-parties/google";
 
 export const Conditional = ({ showWhen, children }) => {
   if (showWhen) {
@@ -26,4 +27,8 @@ export function getAllItems(directory) {
       content,
     };
   });
+}
+
+export function sendAnalyticsEvent({ eventName, data }) {
+  sendGTMEvent({ event: eventName, value: data });
 }

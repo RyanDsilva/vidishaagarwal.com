@@ -3,7 +3,7 @@ import "./globals.css";
 import Navbar from "../components/navbar";
 import Footer from "../components/footer";
 import Head from "next/head";
-import { GoogleAnalytics, GoogleTagManager } from "@next/third-parties/google";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -75,7 +75,7 @@ export default function RootLayout({ children }) {
         className={`${inter.className} mx-12 my-8 md:mx-20 md:my-12 lg:mx-40 lg:my-12`}
       >
         <Navbar />
-        <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
+        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
         <main className="flex flex-col">{children}</main>
         <Footer />
       </body>

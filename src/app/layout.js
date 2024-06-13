@@ -4,6 +4,8 @@ import Navbar from "../components/navbar";
 import Footer from "../components/footer";
 import Head from "next/head";
 import { GoogleAnalytics } from "@next/third-parties/google";
+import { motion } from "framer-motion";
+import Template from "./template";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -76,7 +78,9 @@ export default function RootLayout({ children }) {
       >
         <Navbar />
         <GoogleAnalytics gaId={process.env.ANALYTICS} />
-        <main className="flex flex-col">{children}</main>
+        <Template>
+          <main className="flex flex-col">{children}</main>
+        </Template>
         <Footer />
       </body>
     </html>

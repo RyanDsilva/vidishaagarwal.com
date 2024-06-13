@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scroll-behavior: smooth !important;
+}
+
 body {
   background-color: #f3f3f3;
   white-space: pre-wrap;

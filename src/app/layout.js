@@ -75,7 +75,7 @@ export default function RootLayout({ children }) {
         className={`${inter.className} mx-12 my-8 md:mx-20 md:my-12 lg:mx-40 lg:my-12`}
       >
         <Navbar />
-        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
+        <GoogleAnalytics gaId={process.env.ANALYTICS} />
         <main className="flex flex-col">{children}</main>
         <Footer />
       </body>

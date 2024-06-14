@@ -93,15 +93,15 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Challenge", name: "challenge", widget: "markdown" }
       - { label: "Solution", name: "solution", widget: "markdown" }
-      - { label: "Cover Image", name: "image", widget: "image" }
-      - { label: "Image Text", name: "image_text", widget: "string" }
+      - { label: "Cover Image", name: "image", widget: "image", required: false }
+      - { label: "Image Text", name: "image_text", widget: "string", required: false }
       - name: "link"
         label: "Link"
         widget: object
         summary: "{{fields.link_text}}"
         fields:
-          - { name: "link_text", label: "Link Text", widget: "string" }
-          - { label: "Link", name: "link", widget: "string" }
+          - { name: "link_text", label: "Link Text", widget: "string", required: false }
+          - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "In Progress?", name: "in_progress", widget: "boolean" }
   - name: "projects"
     label: "Projects"
@@ -111,7 +111,7 @@ collections:
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Project Date", name: "date", widget: "string" }
+      - { label: "Project Date", name: "date", widget: "string", required: false }
       - { label: "Category", name: "category", widget: "string" }
       - name: accordion_sections
         label: Accordion Sections
@@ -135,8 +135,9 @@ collections:
             fields:
               - { name: header, label: Header, widget: string }
               - { name: content, label: Content, widget: markdown }
-              - { name: image, label: Image, widget: image }
+              - { name: image, label: Image, widget: image, required: false }
       - name: gallery
         label: Gallery
+        required: false
         widget: list
         field: { label: Image, name: image, widget: image }

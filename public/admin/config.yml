@@ -39,6 +39,15 @@ collections:
                 fields:
                   - { name: "display_text", label: "Display Text", widget: "string" }
                   - { label: "Link", name: "link", widget: "string" }
+      - name: "filters"
+        label: "Filters"
+        file: "content/components/filters.md"
+        fields:
+          - { name: "title", label: "Title", widget: "string" }
+          - name: filters
+            label: Filters
+            widget: list
+            field: { label: Filter, name: filter, widget: string }
   - name: "pages"
     label: "Pages"
     files:
@@ -102,5 +111,32 @@ collections:
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Subtitle", name: "subtitle", widget: "markdown" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Project Date", name: "date", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - name: accordion_sections
+        label: Accordion Sections
+        widget: list
+        types:
+          - name: section
+            label: Section
+            widget: object
+            summary: "{{fields.header}}"
+            fields:
+              - { name: header, label: Header, widget: string }
+              - { name: content, label: Content, widget: markdown }
+      - name: body_sections
+        label: Body Sections
+        widget: list
+        types:
+          - name: section
+            label: Section
+            widget: object
+            summary: "{{fields.header}}"
+            fields:
+              - { name: header, label: Header, widget: string }
+              - { name: content, label: Content, widget: markdown }
+              - { name: image, label: Image, widget: image }
+      - name: gallery
+        label: Gallery
+        widget: list
+        field: { label: Image, name: image, widget: image }

@@ -50,8 +50,8 @@ export default async function Home() {
           <ProjectTile
             key={index}
             projectName={project.data.name}
-            body={project.data.body}
-            subtitle={project.data.subtitle}
+            challenge={project.data.challenge}
+            solution={project.data.solution}
             imageSrc={project.data.image}
             link={project.data.link}
             imageAltText={project.data.image_text}

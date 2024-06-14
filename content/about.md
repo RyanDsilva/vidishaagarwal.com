@@ -1,13 +1,13 @@
 ---
 title: about
 headline: "Hello,\nI’m Vidisha."
-information: "A kaleidoscopic strategist and designer who interprets problems through a dynamic lens, navigating through data to mine hidden insights. She has collaborated with global brands across various industries and disciplines, designing purpose into the pixels."
+information: "A multilingual/multicultural strategist and designer who blends strategic thinking with compelling visual storytelling. She interprets brand problems through social and cultural lenses, navigating through data to uncover underlying human truths. With experience across diverse industries and disciplines, she infuses purpose into every detail of her designs."
 image: "/images/profile.png"
-clients: GJEPC India, Manchester City Football Club, Lewis Latimer House Museum, SVA Masters in Branding Department, Isha Life & more.
+clients: GJEPC India, Manchester City Football Club, Lewis Latimer House Museum, SVA Masters in Branding Department, Isha Life & more…
 cta:
   display_text: "I am thrilled to answer to\nyour next project"
-  contact_text: vidisha.agarwal212000@gmail.com
-  contact_link: "#"
+  contact_text: "work@vidishaagarwal.com"
+  contact_link: "mailto:work@vidishaagarwal.com"
   resume_text: "View Resume"
   resume_link: "#"
 resume:

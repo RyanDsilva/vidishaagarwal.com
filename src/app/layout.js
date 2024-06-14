@@ -4,8 +4,8 @@ import Navbar from "../components/navbar";
 import Footer from "../components/footer";
 import Head from "next/head";
 import { GoogleAnalytics } from "@next/third-parties/google";
-import { motion } from "framer-motion";
 import Template from "./template";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -14,7 +14,7 @@ export const metadata = {
   description:
     "NYC-based, Brand  Strategist and Designer who seeks to infuse purpose into every aspect of designs.",
   referrer: "origin-when-cross-origin",
-  keywords: ["design", "branding", "brand strategist"],
+  keywords: ["design", "branding", "brand strategy"],
   authors: [{ name: "Vidisha Agarwal" }],
   creator: "Vidisha Agarwal",
   publisher: "Vidisha Agarwal",
@@ -67,12 +67,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <Head>
-        <script
-          defer
-          src="https://identity.netlify.com/v1/netlify-identity-widget.js"
-        ></script>
-      </Head>
+      <Script
+        defer
+        src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+      ></Script>
       <body
         className={`${inter.className} mx-12 my-8 md:mx-20 md:my-12 lg:mx-40 lg:my-12`}
       >

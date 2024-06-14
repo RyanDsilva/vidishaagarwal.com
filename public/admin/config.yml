@@ -82,9 +82,9 @@ collections:
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
-      - { label: "Subtitle", name: "subtitle", widget: "markdown" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Challenge", name: "challenge", widget: "markdown" }
+      - { label: "Solution", name: "solution", widget: "markdown" }
+      - { label: "Cover Image", name: "image", widget: "image" }
       - { label: "Image Text", name: "image_text", widget: "string" }
       - name: "link"
         label: "Link"
@@ -101,5 +101,6 @@ collections:
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "markdown" }
       - { label: "Body", name: "body", widget: "markdown" }

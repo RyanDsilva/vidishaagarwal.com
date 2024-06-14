@@ -1,11 +1,11 @@
 ---
-name: PayPal
-subtitle: Sculpted in ZBrush, Retopologized and UVs done in Maya, Textured in Mari, Rendered using Arnold.
-body: Goblin concept digital sculpture with human-like skin. Learned a lot of quick tips and look development.
+name: paypal
+challenge: Recent fraud incidents leading to  damaged brand reputation and competition from Apple Pay threatens PayPal's dominance in the digital payments market.
+solution: Reposition the brand to emphasize PayPal’s distinct offerings, highlighting strengths, through strategic communication and marketing campaigns.
 image: ""
-image_text: PayPal case study image
+image_text: PayPal Case Study Image
 link:
   link_text: View Case Study
-  link: "#"
+  link: "/projects/paypal"
 in_progress: false
 ---

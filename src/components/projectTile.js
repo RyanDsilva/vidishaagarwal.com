@@ -11,8 +11,8 @@ const imageStyle = {
 
 export default function ProjectTile({
   projectName,
-  subtitle,
-  body,
+  challenge,
+  solution,
   imageSrc,
   imageAltText,
   link,
@@ -26,8 +26,8 @@ export default function ProjectTile({
             <h3 className="text-lg font-bold font-main-black mb-6">
               {projectName.toUpperCase()}
             </h3>
-            <p className="font-main-black text-lg font-normal mb-6">{body}</p>
-            <p className="font-main-gray text-sm">{subtitle}</p>
+            <p className="font-main-black text-lg font-normal mb-6">{challenge}</p>
+            <p className="font-main-gray text-sm">{solution}</p>
           </div>
           <Conditional showWhen={!inProgress}>
             <div className="mt-4 lg:mt-0 relative inline-flex underline underline-offset-4">

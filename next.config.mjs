@@ -2,6 +2,10 @@
 const nextConfig = {
   output: "export",
   images: { unoptimized: true },
+  compiler: {
+    removeConsole:
+      process.env.NODE_ENV === "production" ? { exclude: ["error"] } : false,
+  },
   webpack: (cfg) => {
     cfg.module.rules.push({
       test: /\.md$/,

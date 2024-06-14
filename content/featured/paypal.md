@@ -11,5 +11,5 @@ image_text: PayPal Case Study Image
 link:
   link_text: View Case Study
   link: /projects/paypal
-in_progress: false
+in_progress: true
 ---

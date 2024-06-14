@@ -35,3 +35,8 @@ body {
 .font-secondary-blue {
   color: #2429af;
 }
+
+.backdrop-filter-blur {
+  backdrop-filter: blur(2.5px);
+  -webkit-backdrop-filter: blur(2.5px);
+}

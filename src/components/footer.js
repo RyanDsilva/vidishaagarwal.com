@@ -8,16 +8,16 @@ export default function Footer({}) {
   const { title, links } = attributes;
   return (
     <footer className={dmsans.className}>
-      <div className="flex flex-col md:flex-row justify-between items-center">
+      <div className="flex flex-col items-center justify-between md:flex-row">
         <div className={`font-secondary-blue font-medium text-base mb-4 md:mb-0`}>
           {title}
         </div>
-        <div className="flex flex-col md:flex-row md:space-x-12 text-center">
+        <div className="flex flex-col text-center md:flex-row md:space-x-12">
           {links.map((link, index) => (
             <Link
               key={index}
               href={link.link}
-              className="font-main-black text-base font-medium"
+              className="text-base font-medium font-main-black"
             >
               {link.display_text}
             </Link>

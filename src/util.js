@@ -3,14 +3,6 @@ import path from "path";
 import matter from "gray-matter";
 import { sendGTMEvent } from "@next/third-parties/google";
 
-export const Conditional = ({ showWhen, children }) => {
-  if (showWhen) {
-    return <>{children}</>;
-  } else {
-    return <></>;
-  }
-};
-
 const contentDir = path.join(process.cwd(), "content");
 
 export function getAllItems(directory) {

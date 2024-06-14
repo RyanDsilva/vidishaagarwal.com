@@ -10,32 +10,32 @@ export default function About() {
   const { title, headline, information, clients, image, cta, resume } = attributes;
   return (
     <div className={`${dmsans.className} flex flex-col py-20 md:py-32`}>
-      <section className="flex flex-col md:flex-row justify-between">
-        <div className="flex-1 flex-grow flex-wrap">
-          <h1 className="font-medium text-5xl md:text-6xl font-main-black mb-8">
+      <section className="flex flex-col justify-between md:flex-row">
+        <div className="flex-wrap flex-1 flex-grow">
+          <h1 className="mb-8 text-5xl font-medium md:text-6xl font-main-black">
             {headline}
           </h1>
-          <p className="mb-8 font-main-gray text-xl md:text-2xl font-normal md:pr-12">
+          <p className="mb-8 text-xl font-normal font-main-gray md:text-2xl md:pr-12">
             {information}
           </p>
         </div>
-        <div className="flex-2 flex-grow-0 flex-shrink-0 md:pl-12 md:justify-items-end">
+        <div className="flex-grow-0 flex-shrink-0 flex-2 md:pl-12 md:justify-items-end">
           <Image src={image} width={350} height={500} alt="Profile Picture"></Image>
         </div>
       </section>
       <section className={`${inter.className} flex flex-col mt-12 font-main-black`}>
         <div className="flex flex-row">
-          <h3 className="underline underline-offset-4 font-medium">Clients</h3>
-          <p className="ml-24 w-full md:w-2/5 font-normal">{clients}</p>
+          <h3 className="font-medium underline underline-offset-4">Clients</h3>
+          <p className="w-full ml-24 font-normal md:w-2/5">{clients}</p>
         </div>
-        <div className="mt-24 underline underline-offset-4 font-medium">
+        <div className="mt-24 font-medium underline underline-offset-4">
           <a href={resume.link} target="_blank">
             {resume.resume_text}
           </a>
         </div>
       </section>
       <hr className="mt-36 md:mt-72 bg-main-black h-0.5"></hr>
-      <section className="flex flex-col md:flex-row mt-16 justify-between font-main-black">
+      <section className="flex flex-col justify-between mt-16 md:flex-row font-main-black">
         <h3 className={`${dmsans.className} text-xl md:text-2xl`}>
           {cta.display_text} <ArrowRight className="inline" size={24} />
         </h3>

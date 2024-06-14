@@ -1,7 +1,7 @@
-import { Conditional } from "@/util";
 import { Inter } from "next/font/google";
 import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
+import { Conditional } from "./conditional";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,27 +21,27 @@ export default function ProjectTile({
   return (
     <>
       <div className={`${inter.className} lg:flex`}>
-        <div className="flex-1 flex-grow flex flex-col justify-between lg:mr-20">
+        <div className="flex flex-col justify-between flex-1 flex-grow lg:mr-20">
           <div>
-            <h3 className="text-lg font-bold font-main-black mb-6">
+            <h3 className="mb-6 text-lg font-bold font-main-black">
               {projectName.toUpperCase()}
             </h3>
-            <p className="font-main-black text-lg font-normal mb-6">{challenge}</p>
-            <p className="font-main-gray text-sm">{solution}</p>
+            <p className="mb-6 text-lg font-normal font-main-black">{challenge}</p>
+            <p className="text-sm font-main-gray">{solution}</p>
           </div>
           <Conditional showWhen={!inProgress}>
-            <div className="mt-4 lg:mt-0 relative inline-flex underline underline-offset-4">
+            <div className="relative inline-flex mt-4 underline lg:mt-0 underline-offset-4">
               <a href={link.link}>{link.link_text}</a>
               <ArrowUpRight className="ml-0.5" size={20}></ArrowUpRight>
             </div>
           </Conditional>
           <Conditional showWhen={inProgress}>
-            <div className="mt-4 lg:mt-0 font-main-gray relative inline-flex underline underline-offset-4">
+            <div className="relative inline-flex mt-4 underline lg:mt-0 font-main-gray underline-offset-4">
               Project WIP
             </div>
           </Conditional>
         </div>
-        <div className="mt-8 lg:mt-0 flex-2 flex-grow-0 flex-shrink-0 w-full lg:w-3/5 lg:pl-12 flex justify-center items-center">
+        <div className="flex items-center justify-center flex-grow-0 flex-shrink-0 w-full mt-8 lg:mt-0 flex-2 lg:w-3/5 lg:pl-12">
           <Conditional showWhen={imageSrc != ""}>
             <Image
               width={300}
@@ -53,7 +53,7 @@ export default function ProjectTile({
             ></Image>
           </Conditional>
           <Conditional showWhen={imageSrc == ""}>
-            <div className="w-full h-48 md:h-96 bg-main-gray rounded-lg"></div>
+            <div className="w-full h-48 rounded-lg md:h-96 bg-main-gray"></div>
           </Conditional>
         </div>
       </div>

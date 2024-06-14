@@ -6,7 +6,7 @@ const nextConfig = {
     removeConsole:
       process.env.NODE_ENV === "production" ? { exclude: ["error"] } : false,
   },
-  webpack: (cfg) => {
+  webpack: (cfg, { isServer }) => {
     cfg.module.rules.push({
       test: /\.md$/,
       loader: "frontmatter-markdown-loader",

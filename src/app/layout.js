@@ -72,7 +72,6 @@ export default function RootLayout({ children }) {
       ></Script>
       <body className={`${inter.className}`}>
         <Navbar />
-        <GoogleAnalytics gaId={process.env.ANALYTICS} />
         <Template>
           <main className="flex flex-col mx-12 mt-2 mb-8 md:mx-20 md:mt-4 md:mb-12 lg:mx-40 lg:mt-4 lg:mb-12">
             {children}
@@ -81,6 +80,7 @@ export default function RootLayout({ children }) {
         <div className="mx-12 mt-2 mb-8 md:mx-20 md:mt-4 md:mb-12 lg:mx-40 lg:mt-4 lg:mb-12">
           <Footer />
         </div>
+        <GoogleAnalytics gaId="G-1L0NQ1MNZ9" />
       </body>
     </html>
   );

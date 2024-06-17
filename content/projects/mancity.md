@@ -3,6 +3,7 @@ name: mancity
 title: Manchester City Football Club
 date: April 2024
 category: Strategy
+cover_image: "/images/mcfc.jpg"
 accordion_sections:
   - type: section
     header: The Challenge
@@ -30,12 +31,13 @@ body_sections:
       3. Conceptualisation and Testing
       4. Activation Plan
       5. Creative Expression
+    image: "/images/mcfc.jpg"
   - type: section
     header: Intended Impact
     content: Transform MCFC into the most beloved team among millions of overlooked
       fans, bringing them into the community and fostering an overall positive
       brand image of inclusion and accessibility.
 gallery:
-  - images/logo_mcfc.png
-  - images/mcfc.jpg
+  - "/images/logo_mcfc.png"
+  - "/images/mcfc.jpg"
 ---

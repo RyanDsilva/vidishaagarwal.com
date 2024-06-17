@@ -70,15 +70,17 @@ export default function RootLayout({ children }) {
         defer
         src="https://identity.netlify.com/v1/netlify-identity-widget.js"
       ></Script>
-      <body
-        className={`${inter.className} mx-12 mt-2 mb-8 md:mx-20 md:mt-4 md:mb-12 lg:mx-40 lg:mt-4 lg:mb-12`}
-      >
+      <body className={`${inter.className}`}>
         <Navbar />
         <GoogleAnalytics gaId={process.env.ANALYTICS} />
         <Template>
-          <main className="flex flex-col">{children}</main>
+          <main className="flex flex-col mx-12 mt-2 mb-8 md:mx-20 md:mt-4 md:mb-12 lg:mx-40 lg:mt-4 lg:mb-12">
+            {children}
+          </main>
         </Template>
-        <Footer />
+        <div className="mx-12 mt-2 mb-8 md:mx-20 md:mt-4 md:mb-12 lg:mx-40 lg:mt-4 lg:mb-12">
+          <Footer />
+        </div>
       </body>
     </html>
   );

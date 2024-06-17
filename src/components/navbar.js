@@ -13,7 +13,7 @@ export default function Navbar({}) {
   const [isOpen, setIsOpen] = useState(false);
   const { title, links } = attributes;
   return (
-    <header className="sticky z-10 top-0 py-4 bg-[#f3f3f3] bg-opacity-65 backdrop-filter-blur bg-clip-padding">
+    <header className="sticky z-10 top-0 py-3 bg-[#f3f3f3] bg-opacity-65 backdrop-filter-blur bg-clip-padding px-12 mt-2 mb-8 md:px-20 md:mt-4 md:mb-12 lg:px-40 lg:mt-4 lg:mb-12">
       <nav className={`${dmsans.className}`}>
         <div className="flex justify-between text-center items-top lg:items-center">
           <Link

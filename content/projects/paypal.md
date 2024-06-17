@@ -1,4 +1,0 @@
----
-name: paypal
-title: PayPal
----

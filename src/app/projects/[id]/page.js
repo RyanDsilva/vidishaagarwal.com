@@ -34,7 +34,7 @@ export default async function Project({ params }) {
     <div className={`${dmsans.className} font-main-black`}>
       <section className="flex justify-center mb-12">
         <Image
-          className="rounded-lg"
+          className="w-full rounded-lg"
           alt={`${projectData.title}`}
           width={1200}
           height={400}
@@ -47,19 +47,17 @@ export default async function Project({ params }) {
         <div className="w-1/2">
           {projectData.accordion_sections.map((section, index) => (
             <details key={index} className="group" open={index == 0}>
-              <summary className="flex items-center justify-between border-t cursor-pointer border-[#181717] py-3 group-active">
+              <summary className="flex items-center justify-between mb-3 cursor-pointer group-active">
                 <h3 className="text-2xl font-medium">{section.header}</h3>
-                <Plus className="group-open:hidden" size={20} strokeWidth={1}></Plus>
+                <Plus className="group-open:hidden font-main-black" size={20}></Plus>
                 <Minus
-                  className="hidden group-open:block"
+                  className="hidden group-open:block font-main-black"
                   size={20}
-                  strokeWidth={1}
                 ></Minus>
               </summary>
-              <p className="pb-4 text-xl font-light">{section.content}</p>
+              <p className="pb-3 text-lg font-light">{section.content}</p>
             </details>
           ))}
-          <hr className="bg-main-black h-0.5"></hr>
         </div>
       </section>
       <section className="mb-8">

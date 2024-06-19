@@ -39,15 +39,15 @@ export default function ImageGallery({ galleryImages = [] }) {
   };
 
   return (
-    <div className="grid items-center grid-cols-2 gap-4">
+    <div className="grid items-center justify-center grid-cols-1 gap-2">
       {images.map((image, index) => (
         <div key={index}>
           <Image
             src={image}
-            width={400}
-            height={300}
+            width={1080}
+            height={720}
             alt="Gallery Images"
-            className="w-full h-96 object-cover hover:border hover:border-[#60606020] rounded-md"
+            className="w-full object-fill hover:border hover:border-[#60606020] rounded-md"
             onClick={() => handleOnClicked(image, index)}
           />
         </div>

@@ -39,18 +39,12 @@ export default function About() {
         <h3 className={`${dmsans.className} text-xl md:text-2xl`}>
           {cta.display_text} <ArrowRight className="inline" size={24} />
         </h3>
-        <div className="">
+        <div>
           <a
             href={cta.contact_link}
             className={`${dmsans.className} block text-xl md:text-2xl`}
           >
             {cta.contact_text}
-          </a>
-          <a
-            href={cta.resume_link}
-            className={`${inter.className} block mt-7 text-base`}
-          >
-            {cta.resume_text}
           </a>
         </div>
       </section>

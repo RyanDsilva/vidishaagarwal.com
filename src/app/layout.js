@@ -73,7 +73,7 @@ export default function RootLayout({ children }) {
       <body className={`${inter.className}`}>
         <Navbar />
         <Template>
-          <main className="flex flex-col mx-12 mt-2 mb-8 md:mx-20 md:mt-4 md:mb-12 lg:mx-40 lg:mt-4 lg:mb-12">
+          <main className="flex flex-col mx-12 mt-2 mb-8 md:mx-20 md:mt-4 md:mb-12 lg:mx-40 lg:mt-4 lg:mb-12 xl:mx-96 xl:mt-8 xl:mb-24">
             {children}
           </main>
         </Template>

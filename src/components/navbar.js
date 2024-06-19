@@ -13,7 +13,7 @@ export default function Navbar({}) {
   const [isOpen, setIsOpen] = useState(false);
   const { title, links } = attributes;
   return (
-    <header className="sticky z-10 top-0 py-3 bg-[#f3f3f3] bg-opacity-65 backdrop-filter-blur bg-clip-padding px-12 mt-2 mb-8 md:px-20 md:mt-4 md:mb-12 lg:px-40 lg:mt-4 lg:mb-12">
+    <header className="sticky z-10 top-0 py-3 md:py-5 bg-[#f3f3f3] bg-opacity-65 backdrop-filter-blur bg-clip-padding px-12 mb-8 md:px-20 md:mb-12 lg:px-40 lg:mb-12 xl:px-96 xl:mb-24">
       <nav className={`${dmsans.className}`}>
         <div className="flex justify-between text-center items-top lg:items-center">
           <Link
@@ -51,12 +51,13 @@ export default function Navbar({}) {
           </div>
         </div>
         <div className={`lg:hidden ${isOpen ? "block" : "hidden"}`} id="mobile-menu">
-          <div className="flex flex-col px-2 py-2 space-y-1">
+          <div className="flex flex-col px-2 py-8 space-y-4">
             {links.map((link, index) => (
               <Link
                 key={index}
                 href={link.link}
-                className="text-base font-medium font-main-black"
+                onClick={() => setIsOpen(!isOpen)}
+                className="text-lg font-medium font-main-black"
               >
                 {link.display_text}
               </Link>

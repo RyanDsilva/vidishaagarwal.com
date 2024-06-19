@@ -31,13 +31,12 @@ body_sections:
       3. Conceptualisation and Testing
       4. Activation Plan
       5. Creative Expression
-    image: "/images/mcfc.jpg"
   - type: section
     header: Intended Impact
     content: Transform MCFC into the most beloved team among millions of overlooked
       fans, bringing them into the community and fostering an overall positive
       brand image of inclusion and accessibility.
 gallery:
-  - "/images/logo_mcfc.png"
+  - "/images/mancity.webp"
   - "/images/mcfc.jpg"
 ---

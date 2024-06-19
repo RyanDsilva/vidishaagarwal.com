@@ -8,8 +8,6 @@ cta:
   display_text: "I am thrilled to answer to\nyour next project"
   contact_text: "work@vidishaagarwal.com"
   contact_link: "mailto:work@vidishaagarwal.com"
-  resume_text: "View Resume"
-  resume_link: "#"
 resume:
   resume_text: Resume
   link: "#"

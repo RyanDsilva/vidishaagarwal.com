@@ -82,8 +82,6 @@ collections:
               - { name: "display_text", label: "Display Text", widget: "string" }
               - { name: "contact_text", label: "Contact Text", widget: "string" }
               - { name: "contact_link", label: "Contact Link", widget: "string" }
-              - { name: "resume_text", label: "Resume Text", widget: "string" }
-              - { name: "resume_link", label: "Resume Link", widget: "string" }
   - name: "featured"
     label: "Featured Projects"
     folder: "content/featured"
@@ -94,13 +92,23 @@ collections:
       - { label: "Challenge", name: "challenge", widget: "markdown" }
       - { label: "Solution", name: "solution", widget: "markdown" }
       - { label: "Cover Image", name: "image", widget: "image", required: false }
-      - { label: "Image Text", name: "image_text", widget: "string", required: false }
+      - {
+          label: "Image Text",
+          name: "image_text",
+          widget: "string",
+          required: false,
+        }
       - name: "link"
         label: "Link"
         widget: object
         summary: "{{fields.link_text}}"
         fields:
-          - { name: "link_text", label: "Link Text", widget: "string", required: false }
+          - {
+              name: "link_text",
+              label: "Link Text",
+              widget: "string",
+              required: false,
+            }
           - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "In Progress?", name: "in_progress", widget: "boolean" }
   - name: "projects"

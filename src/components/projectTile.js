@@ -5,10 +5,6 @@ import { Conditional } from "./conditional";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const imageStyle = {
-  borderRadius: "10%",
-};
-
 export default function ProjectTile({
   projectName,
   challenge,
@@ -26,7 +22,9 @@ export default function ProjectTile({
             <h3 className="mb-6 text-lg font-bold font-main-black">
               {projectName.toUpperCase()}
             </h3>
-            <p className="mb-6 text-lg font-normal font-main-black">{challenge}</p>
+            <p className="mb-1.5 text-lg font-normal leading-6 font-main-black">
+              {challenge}
+            </p>
             <p className="text-sm font-main-gray">{solution}</p>
           </div>
           <Conditional showWhen={!inProgress}>
@@ -48,12 +46,11 @@ export default function ProjectTile({
               height={100}
               src={imageSrc}
               alt={imageAltText}
-              fill={true}
-              style={imageStyle}
+              className="object-cover w-full h-48 rounded-lg md:h-96 xl:h-[36rem]"
             ></Image>
           </Conditional>
           <Conditional showWhen={imageSrc == ""}>
-            <div className="w-full h-48 rounded-lg md:h-96 bg-main-gray"></div>
+            <div className="w-full h-48 rounded-lg md:h-96 bg-main-gray xl:h-[36rem]"></div>
           </Conditional>
         </div>
       </div>

@@ -8,7 +8,7 @@ information: A multilingual/multicultural strategist and designer who blends
   problems through social and cultural lenses, navigating through data to
   uncover underlying human truths. With experience across diverse industries and
   disciplines, she infuses purpose into every detail of her designs.
-image: /images/vidisha_edited_headshot.jpg
+image: /images/vidisha_web_headshot-copy.jpg
 clients: GJEPC India, Manchester City Football Club, Lewis Latimer House Museum,
   SVA Masters in Branding Department, Isha Life & more…
 resume:

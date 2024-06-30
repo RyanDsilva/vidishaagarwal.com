@@ -1,8 +1,6 @@
 ---
 title: about
-headline: |-
-  Hello,
-  I’m Vidisha.
+headline: Hello,I’m Vidisha :)
 information: A kaleidoscopic strategist and designer who blends strategic
   thinking with compelling visual storytelling. She interprets brand problems
   through social and cultural lenses, navigating through data to uncover

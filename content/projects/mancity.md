@@ -153,6 +153,22 @@ body_sections:
 
 
       ![](/images/screenshot-2024-06-30-at-6.28.37 pm.png)
+  - type: section
+    header: "Cohort 3: ESL Students"
+    content: >-
+      The 'City Culture Club' would bring together diverse communities to share
+      their passion for the team, both online and offline. It would encourage
+      participation in activities like watch parties, game nights, and local
+      football games.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.34.33 pm.png)
+
+
+      In the long run, this can expand to 'Cityzen World,' an open space for global fans to connect, interact, and support each other. Activities like cultural sports and potlucks would celebrate diversity. Seminars and workshops would introduce people to new cultures and allow them to share problems and solutions.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.34.48 pm.png)
 gallery:
   - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

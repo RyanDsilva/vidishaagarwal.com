@@ -49,6 +49,22 @@ body_sections:
 
 
       ![](/images/screenshot-2024-06-30-at-4.29.43 pm.png)
+  - type: section
+    header: Research
+    content: >-
+      There are millions of people in America who feel invisible. People like
+      those with disabilities. People like mothers. People like Immigrants. They
+      go through life every day feeling less than and unimportant.
+
+
+      ![](/images/screenshot-2024-06-30-at-4.36.36 pm.png)
+  - type: section
+    header: "The Insight: The overlooked are the most loyal"
+    content: "> When you’ve constantly been ignored and discounted, all you want is
+      to feel seen; when someone makes you feel like you matter, you love them
+      differently, supporting them however you can, defending them when they’re
+      being disparaged, doing anything for them, and loving them with everything
+      in you."
 gallery:
   - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

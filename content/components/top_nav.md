@@ -9,7 +9,7 @@ links:
     link: /about
   - type: links
     display_text: Email
-    link: "#"
+    link: mailto:work@vidishaagarwal.com
   - type: links
     display_text: Linked In
     link: https://www.linkedin.com/in/vidisha212000/

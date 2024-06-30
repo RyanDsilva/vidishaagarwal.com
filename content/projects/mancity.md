@@ -36,6 +36,5 @@ body_sections:
 
       ![Man City has been dominating the sport over the last decade. But winning is not the only measure of success for them. ( The Club’s purpose is to empower better lives through soccer and to make sure their efforts leave a positive impact for all )](/images/mancity-successmeasure.png)
 gallery:
-  - /images/mancity.webp
   - /images/mcfc.jpg
 ---

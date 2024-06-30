@@ -115,6 +115,44 @@ body_sections:
 
 
       This campaign will exist through various mediums including streaming platforms, social media platforms and out of home marketing such as billboards and digital displays. The City Sees You campaign will let audiences know Man City sees them, understands them, and is here for them, thus raising awareness for ManCity and acting as the first step in creating emotional connections with them.
+  - type: section
+    header: "Cohort 1: The Disabled"
+    content: >-
+      Many newer stadiums are accessible but still have obstacles. ManCity can
+      improve existing soccer venues to reduce logistical burdens for people
+      with disabilities.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.11.05 pm.png)
+
+
+      ManCity could explore adaptive football, adjusting rules or creating a new style to include people of all abilities. They could also help those with disabilities find, fund, or create the often expensive and non-mass-produced equipment needed to play football.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.11.29 pm.png)
+
+
+      Long-term engagement could enhance the football experience by introducing sensory activities focused on textures, colors, and smells. This inclusive activity would engage everyone, not just sports enthusiasts, and could especially appeal to people with certain disabilities without being exclusive to them. 
+
+
+      ![](/images/screenshot-2024-06-30-at-6.11.42 pm.png)
+  - type: section
+    header: "Cohort 2: Single Moms"
+    content: >-
+      In the short term, Mom City could offer moms a place to relax and meet
+      others while their kids are trained by world-class athletes. ManCity could
+      provide chairs, snacks, mocktails, and reclining massagers. Additionally,
+      moms could participate in fun family activities to alleviate any guilt
+      about being away from their children.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.28.22 pm.png)
+
+
+      In the long term, the 'Moms in Manchester' sweepstakes could let people nominate single mothers to win an all-expenses-paid trip to Manchester for their family. Winners would watch a game from a stadium suite with free food and drinks, and explore the city, enjoying a relaxing vacation without planning hassles.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.28.37 pm.png)
 gallery:
   - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

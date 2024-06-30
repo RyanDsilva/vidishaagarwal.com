@@ -60,11 +60,14 @@ body_sections:
       ![](/images/screenshot-2024-06-30-at-4.36.36 pm.png)
   - type: section
     header: "The Insight: The overlooked are the most loyal"
-    content: "> When you’ve constantly been ignored and discounted, all you want is
-      to feel seen; when someone makes you feel like you matter, you love them
-      differently, supporting them however you can, defending them when they’re
-      being disparaged, doing anything for them, and loving them with everything
-      in you."
+    content: >-
+      When people have constantly been ignored and discounted, all they want is
+      to feel seen; when someone makes them feel like they matter, they love
+      them differently, supporting them in every way they can, defending them
+      when they’re being disparaged and loving them with all their might.
+
+
+      ![](/images/screenshot-2024-06-30-at-4.46.27 pm.png)
 gallery:
   - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

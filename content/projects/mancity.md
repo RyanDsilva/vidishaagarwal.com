@@ -19,11 +19,11 @@ accordion_sections:
 
       2. Research and Insight Mining
 
-      3. Conceptualisation
+      3. Conceptualisation and Tissue Session
 
-      4. Activation Plan
+      4. Idea Development
 
-      5. Creative Expression
+      5. Activation Plan & Creative Expression
   - type: section
     header: Intended Impact
     content: Transform MCFC into the most beloved team among millions of overlooked

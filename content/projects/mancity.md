@@ -77,6 +77,44 @@ body_sections:
 
 
       City Sees You is a platform that allows Manchester City to champion the unseen, unheard and overlooked audiences in America that will gain the team their undying loyalty and love.
+
+
+      To start with, the platform will target people with disabilities, mothers and immigrants
+    image: /images/screenshot-2024-06-30-at-4.54.16 pm.png
+  - type: section
+    content: >-
+      Activations will include both short term (immediately implemented within
+      the next 2 years) and long term activations (developed over the next 5
+      years). Each activation will keep three things in mind: 
+
+
+      ![](/images/screenshot-2024-06-30-at-5.44.37 pm.png)
+    header: Activations
+  - type: section
+    header: City Sees You Campaign
+    content: >-
+      The City Sees You Campaign will be a series that highlights people from
+      our target audiences, empowering them by giving them the visibility they
+      deserve. It will show how ManCity can support its community through
+      emotional storytelling and connecting to them through the team’s tenets. 
+
+
+      ![](/images/screenrecording2024-06-30at6.00.39pm-ezgif.com-video-to-gif-converter.gif)
+
+
+      It will also feautre team members who resonate with these audiences and relate to their problems.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.04.07 pm.png)
+
+
+      The team’s tenets: audacity, authenticity, electricity, and tenacity will be communicated throughout the campaign alongside the phrase “City Sees You". While those will remain the same, images and other messages with change based on the audience and their pain points.
+
+
+      ![](/images/screenshot-2024-06-30-at-6.07.53 pm.png)
+
+
+      This campaign will exist through various mediums including streaming platforms, social media platforms and out of home marketing such as billboards and digital displays. The City Sees You campaign will let audiences know Man City sees them, understands them, and is here for them, thus raising awareness for ManCity and acting as the first step in creating emotional connections with them.
 gallery:
   - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

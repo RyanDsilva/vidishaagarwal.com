@@ -169,6 +169,16 @@ body_sections:
 
 
       ![](/images/screenshot-2024-06-30-at-6.34.48 pm.png)
+  - type: section
+    header: Conclusion
+    content: >-
+      The City Sees You platform will have Man City engage with **The
+      Overlooked.**\
+
+      Because when people feel invisible, **being seen is all they want.**
+
+
+      ![](/images/screenshot-2024-06-30-at-6.41.20 pm.png)
 gallery:
   - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

@@ -179,6 +179,5 @@ body_sections:
 
 
       ![](/images/screenshot-2024-06-30-at-6.41.20 pm.png)
-gallery:
-  - /images/screenshot-2024-06-30-at-4.29.43 pm.png
+gallery: []
 ---

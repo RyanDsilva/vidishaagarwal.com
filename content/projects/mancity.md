@@ -27,18 +27,14 @@ accordion_sections:
       brand image of inclusion and accessibility.
 body_sections:
   - type: section
-    header: The Approach
-    content: |-
-      1. Decoding the Brief
-      2. Research and Insights
-      3. Conceptualisation and Testing
-      4. Activation Plan
-      5. Creative Expression
-  - type: section
-    header: Intended Impact
-    content: Transform MCFC into the most beloved team among millions of overlooked
-      fans, bringing them into the community and fostering an overall positive
-      brand image of inclusion and accessibility.
+    header: "Situation "
+    content: >-
+      ##### Soccer is gaining popularity as a sport in The United States and
+      will continue to do so as the US hosts the 2024 Copa America, 2025 Club
+      World Cup, 2026 FIFA World Cup and  2028 Summer Olympics.
+
+
+      ![Man City has been dominating the sport over the last decade. But winning is not the only measure of success for them. ( The Club’s purpose is to empower better lives through soccer and to make sure their efforts leave a positive impact for all )](/images/mancity-successmeasure.png)
 gallery:
   - /images/mancity.webp
   - /images/mcfc.jpg

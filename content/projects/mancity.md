@@ -1,9 +1,9 @@
 ---
-name: mancity
+name: Mancity
 title: Manchester City Football Club
-date: April 2024
+date: Case Study for MPS Branding, SVA
 category: Strategy
-cover_image: "/images/mcfc.jpg"
+cover_image: /images/mcfc.jpg
 accordion_sections:
   - type: section
     header: The Challenge
@@ -37,6 +37,6 @@ body_sections:
       fans, bringing them into the community and fostering an overall positive
       brand image of inclusion and accessibility.
 gallery:
-  - "/images/mancity.webp"
-  - "/images/mcfc.jpg"
+  - /images/mancity.webp
+  - /images/mcfc.jpg
 ---

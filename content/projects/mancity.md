@@ -35,6 +35,20 @@ body_sections:
 
 
       ![](/images/mancity-successmeasure.png)
+  - type: section
+    header: Competitive Landscape
+    content: >-
+      Competing teams including Manchester United, Chelsea, Arsenal and
+      Barcelona are looking to expand their fan bases in The U.S.
+
+
+      ![](/images/mancity-competitors.png)
+
+
+      A lot of these teams are targeting audiences like younger people, sneaker-heads, fashion fiends and American football fans, to name a few. This is because these audiences have the most visibility.
+
+
+      ![](/images/screenshot-2024-06-30-at-4.29.43 pm.png)
 gallery:
-  - /images/mcfc.jpg
+  - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

@@ -29,12 +29,12 @@ body_sections:
   - type: section
     header: "Situation "
     content: >-
-      ##### Soccer is gaining popularity as a sport in The United States and
-      will continue to do so as the US hosts the 2024 Copa America, 2025 Club
-      World Cup, 2026 FIFA World Cup and  2028 Summer Olympics.
+      Soccer is gaining popularity as a sport in The United States and will
+      continue to do so as the US hosts the 2024 Copa America, 2025 Club World
+      Cup, 2026 FIFA World Cup and  2028 Summer Olympics.
 
 
-      ![Man City has been dominating the sport over the last decade. But winning is not the only measure of success for them. ( The Club’s purpose is to empower better lives through soccer and to make sure their efforts leave a positive impact for all )](/images/mancity-successmeasure.png)
+      ![](/images/mancity-successmeasure.png)
 gallery:
   - /images/mcfc.jpg
 ---

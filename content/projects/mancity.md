@@ -16,13 +16,9 @@ accordion_sections:
     header: The Approach
     content: |-
       1. Decoding the Brief
-
       2. Research and Insight Mining
-
       3. Conceptualisation and Tissue Session
-
       4. Idea Development
-
       5. Activation Plan & Creative Expression
   - type: section
     header: Intended Impact

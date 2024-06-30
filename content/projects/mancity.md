@@ -3,7 +3,7 @@ name: Mancity
 title: Manchester City Football Club
 date: Case Study for MPS Branding, SVA
 category: Strategy
-cover_image: /images/mancity1.png
+cover_image: /images/mancity1_1.png
 accordion_sections:
   - type: section
     header: The Challenge

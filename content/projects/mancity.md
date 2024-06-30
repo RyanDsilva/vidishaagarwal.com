@@ -61,13 +61,22 @@ body_sections:
   - type: section
     header: "The Insight: The overlooked are the most loyal"
     content: >-
-      When people have constantly been ignored and discounted, all they want is
+      *When people have constantly been ignored and discounted, all they want is
       to feel seen; when someone makes them feel like they matter, they love
       them differently, supporting them in every way they can, defending them
-      when they’re being disparaged and loving them with all their might.
+      when they’re being disparaged and loving them with all their might.*
 
 
       ![](/images/screenshot-2024-06-30-at-4.46.27 pm.png)
+  - type: section
+    header: "The Solution: City Sees You"
+    content: >-
+      Manchester City as a team knows what it is like to struggle and feel
+      overlooked owing to a history of losing and living in Manchester United's
+      shadow. Now that Man City is at the top, it is time to uplift others.
+
+
+      City Sees You is a platform that allows Manchester City to champion the unseen, unheard and overlooked audiences in America that will gain the team their undying loyalty and love.
 gallery:
   - /images/screenshot-2024-06-30-at-4.29.43 pm.png
 ---

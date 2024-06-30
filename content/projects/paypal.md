@@ -19,9 +19,9 @@ accordion_sections:
     content: >-
       1. Research and Problem Analysis
 
-      2. Repositioning\
+      2. Repositioning:\
          Identify attributes that resonate with the target audience, assess current perceptions, and craft a unique, compelling identity using PayPal's assets and experiences that will 
-      3. Creative Brief\
+      3. Creative Brief:\
          Convey the redefined brand position through targeted marketing initiatives and develop creative guidelines for consistent future messaging
   - type: section
     header: Intended Impact

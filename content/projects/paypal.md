@@ -103,4 +103,30 @@ body_sections:
   - type: section
     content: "![](/images/screenshot-2024-06-30-at-7.52.58 pm.png)"
     header: Brand Promise
+  - type: section
+    content: The creative materials should convey trust, security, versatility, and
+      global reach. The tone should be empathetic, innovative, and inspiring.
+      This tone must be consistently reflected in content as well as visuals.
+    header: Tone & Style
+  - type: section
+    header: Creative Execution
+    content: |-
+      ![](/images/screenshot-2024-06-30-at-7.58.27 pm.png)
+
+      ![](/images/screenshot-2024-06-30-at-7.58.38 pm.png)
+
+      ![](/images/screenshot-2024-06-30-at-7.58.46 pm.png)
+
+      ![](/images/screenshot-2024-06-30-at-7.58.57 pm.png)
+
+
+
+      ![](/images/screenshot-2024-06-30-at-7.59.24 pm.png)
+
+      ![](/images/screenshot-2024-06-30-at-7.59.32 pm.png)
+
+      ![](/images/screenshot-2024-06-30-at-7.59.48 pm.png)
+
+      ![](/images/screenshot-2024-06-30-at-8.00.01 pm.png)
+    image: /images/screenrecording2024-06-30at9.40.31pm-ezgif.com-video-to-gif-converter.gif
 ---

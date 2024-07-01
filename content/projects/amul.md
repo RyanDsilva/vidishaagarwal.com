@@ -52,6 +52,8 @@ body_sections:
     content: |-
       ![](/images/screenshot-2024-06-30-at-10.18.33 pm.png)
 
+
+
       ![](/images/screenshot-2024-06-30-at-10.26.47 pm.png)
 
       ![](/images/screenshot-2024-06-30-at-10.30.56 pm.png)
@@ -62,7 +64,7 @@ body_sections:
 
       ![](/images/screenshot-2024-06-30-at-10.33.02 pm.png)
 
-      ![]()
+
 
       ![](/images/screenshot-2024-06-30-at-10.36.09 pm.png)
     image: ""

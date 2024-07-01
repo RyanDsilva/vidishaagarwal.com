@@ -92,4 +92,41 @@ body_sections:
 
       A skincare and body care range of products made with India’s purest and most trusted milk.
     header: Brand Extension
+  - type: section
+    header: Naming
+    content: >-
+      Today, consumers gravitate towards the brand because Amul is pure. It is
+      known as a seal of freshness. Amul is accessible, as a market leader that
+      is affordable and made for the everyman. Amul aims at the mainstream
+      market in India and does not provide any luxury items; instead, they focus
+      on giving the highest possible quality goods at reasonable costs.
+
+
+      The brand extension must follow suit. Hence, a simple and easily accessible name that is for everybody - Amul Body.
+
+
+      The brand will launch three products with the goodness of Milk:
+
+
+      1. The Moisturizing face cream
+
+      2. Hydrating body butter
+
+      3. Soothing cleansing milk
+
+
+      These names are simple with a touch of quirk, like Amul's brand personality. They further establish the goodness of milk and paint a picture of the different textures of milk products that are desirable for the skin.
+  - type: section
+    header: The Products
+    content: >-
+      ![](/images/screenshot-2024-06-30-at-11.34.35 pm.png)
+
+
+      ![](/images/screenshot-2024-06-30-at-11.34.20 pm.png)
+
+
+      The products will be written in English on the front and Hindi on the back to ensure that the information is accessible to all. (This is borrowing from Amul's current dairy packaging)
+
+
+      ![](/images/screenshot-2024-06-30-at-11.36.50 pm.png)
 ---

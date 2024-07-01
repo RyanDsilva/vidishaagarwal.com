@@ -73,4 +73,23 @@ body_sections:
     content: |-
       ## In India, milk is more than just food.\
       It symbolizes nourishment and purity.
+  - type: section
+    content: >-
+      Milk has been used to soften, nourish, and revitalize skin for thousands
+      of years. The tradition of bathing in milk was started by queens and
+      noblewomen in ancient India. Milk bathing is an Ayurvedic practice that
+      cleanses the body, pampers the skin and calms the senses.
+
+
+      ![](/images/screenshot-2024-06-30-at-10.43.33 pm.png)
+
+
+      The Indian skincare market is growing, and represents a tremendous opportunity to enter the space. The market is expected to cross 10 billion dollars by the end of the decade. Despite this fast-paced growth, the market lacks an accessible, down-to-earth skin care brand that is for India, by India.
+
+
+      ![](/images/screenshot-2024-06-30-at-10.46.45 pm.png)
+
+
+      A skincare and body care range of products made with India’s purest and most trusted milk.
+    header: Brand Extension
 ---

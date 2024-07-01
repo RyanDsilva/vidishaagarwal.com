@@ -129,4 +129,25 @@ body_sections:
 
 
       ![](/images/screenshot-2024-06-30-at-11.36.50 pm.png)
+  - type: section
+    header: The Campaign
+    content: >-
+      Traditionally, along with its positive skincare benefits, milk has been
+      used as a form of a skin whitening in India. India has a long and
+      complicated history of colorism, discriminating against citizens with
+      darker skin tones, which stems from the history of the caste system,
+      colonialism, and conflicting religious ideologies. Light skin is
+      associated with power, elevated status, and beauty. 
+
+
+      Despite the lack of evidence, many people in India are impacted by the dark skin stigma, and seek remedies to change their bodies to conform to these outdated beauty norms.
+
+
+      ## Amul Body will fight this stigma. 
+
+
+      To counteract the colorism associated with milk-based products and confront the stigma around dark skin head-on, Amul will emulate the Dove “Real Beauty” campaign for our Amul Body launch to show that all skin tones are beautiful.
+
+
+      ![](/images/screenshot-2024-06-30-at-11.40.14 pm.png)
 ---

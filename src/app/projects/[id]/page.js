@@ -5,6 +5,7 @@ import { Minus, Plus } from "lucide-react";
 import Image from "next/image";
 import { DM_Sans, Inter } from "next/font/google";
 import ImageGallery from "@/components/gallery";
+import ReactMarkdown from "react-markdown";
 
 const dmsans = DM_Sans({ subsets: ["latin"] });
 const inter = Inter({ subsets: ["latin"] });
@@ -43,7 +44,10 @@ export default async function Project({ params }) {
         ></Image>
       </section>
       <section className="flex justify-between mb-12">
-        <h1 className="w-1/2 pr-4 text-6xl font-semibold">{projectData.title}</h1>
+        <div className="w-1/2 pr-4">
+          <h1 className="text-6xl font-semibold">{projectData.title}</h1>
+          <p className="mt-2 text-base font-main-gray">{projectData.date}</p>
+        </div>
         <div className="w-1/2">
           {projectData.accordion_sections.map((section, index) => (
             <details key={index} className="group" open={index == 0}>
@@ -64,7 +68,22 @@ export default async function Project({ params }) {
         {projectData.body_sections.map((section, index) => (
           <div className="mt-4" key={index}>
             <h3 className="mb-2 text-2xl font-medium">{section.header}</h3>
-            <p className="mb-4 text-lg font-light">{section.content}</p>
+            <ReactMarkdown
+              className="text-lg font-normal"
+              components={{
+                img: (props) => (
+                  <Image
+                    className="rounded-lg"
+                    src={props.src}
+                    alt={props.alt}
+                    width={1200}
+                    height={400}
+                  />
+                ),
+              }}
+            >
+              {section.content}
+            </ReactMarkdown>
             <Conditional showWhen={section.image}>
               <Image
                 className="w-full mt-4 mb-8"

@@ -31,7 +31,7 @@ export const metadata = {
     siteName: "Vidisha Agarwal",
     images: [
       {
-        url: "https://vidishaagarwal.com/images/og.png",
+        url: "https://vidishaagarwal.com/images/logo.png",
         width: 800,
         height: 600,
       },
@@ -53,12 +53,12 @@ export const metadata = {
     },
   },
   icons: {
-    icon: "/icon.png",
-    shortcut: "/shortcut-icon.png",
-    apple: "/apple-icon.png",
+    icon: "/images/favicon.png",
+    shortcut: "/images/favicon.png",
+    apple: "/images/favicon.png",
     other: {
-      rel: "apple-touch-icon-precomposed",
-      url: "/apple-touch-icon-precomposed.png",
+      rel: "/images/favicon.png",
+      url: "/images/favicon.png",
     },
   },
 };

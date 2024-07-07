@@ -8,6 +8,7 @@ import { attributes } from "../../content/components/top_nav.md";
 import { Menu, X } from "lucide-react";
 import Link from "next/link";
 import { Conditional } from "./conditional";
+import Image from "next/image";
 
 export default function Navbar({}) {
   const [isOpen, setIsOpen] = useState(false);
@@ -16,11 +17,13 @@ export default function Navbar({}) {
     <header className="sticky z-10 top-0 py-3 md:py-5 bg-[#f3f3f3] bg-opacity-65 backdrop-filter-blur bg-clip-padding px-12 mb-8 md:px-20 md:mb-12 lg:px-40 lg:mb-12 xl:px-96 xl:mb-24">
       <nav className={`${dmsans.className}`}>
         <div className="flex justify-between text-center items-top lg:items-center">
-          <Link
-            className={`${inter.className} text-2xl lg:text-3xl font-main-black font-extrabold`}
-            href="/"
-          >
-            {title}
+          <Link className="" href="/">
+            <Image
+              src="/images/logo.png"
+              width={220}
+              height={35}
+              alt="Navbar Logo"
+            ></Image>
           </Link>
           <div className="hidden space-x-12 lg:block">
             {links.map((link, index) => (

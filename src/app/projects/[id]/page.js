@@ -49,55 +49,62 @@ export default async function Project({ params }) {
           <p className="mt-2 text-base font-main-gray">{projectData.date}</p>
         </div>
         <div className="w-1/2">
-          {projectData.accordion_sections.map((section, index) => (
-            <details key={index} className="group" open={index == 0}>
-              <summary className="flex items-center justify-between mb-3 cursor-pointer group-active">
-                <h3 className="text-2xl font-medium">{section.header}</h3>
-                <Plus className="group-open:hidden font-main-black" size={20}></Plus>
-                <Minus
-                  className="hidden group-open:block font-main-black"
-                  size={20}
-                ></Minus>
-              </summary>
-              <p className="pb-3 text-lg font-light">{section.content}</p>
-            </details>
-          ))}
+          {projectData.accordion_sections &&
+            projectData.accordion_sections.map((section, index) => (
+              <details key={index} className="group" open={index == 0}>
+                <summary className="flex items-center justify-between mb-3 cursor-pointer group-active">
+                  <h3 className="text-2xl font-medium">{section.header}</h3>
+                  <Plus
+                    className="group-open:hidden font-main-black"
+                    size={20}
+                  ></Plus>
+                  <Minus
+                    className="hidden group-open:block font-main-black"
+                    size={20}
+                  ></Minus>
+                </summary>
+                <p className="pb-3 text-lg font-light">{section.content}</p>
+              </details>
+            ))}
         </div>
       </section>
       <section className="mb-8">
-        {projectData.body_sections.map((section, index) => (
-          <div className="mt-4" key={index}>
-            <h3 className="mb-2 text-2xl font-medium">{section.header}</h3>
-            <ReactMarkdown
-              className="text-lg font-normal"
-              components={{
-                img: (props) => (
-                  <Image
-                    className="rounded-lg"
-                    src={props.src}
-                    alt={props.alt}
-                    width={1200}
-                    height={400}
-                  />
-                ),
-              }}
-            >
-              {section.content}
-            </ReactMarkdown>
-            <Conditional showWhen={section.image}>
-              <Image
-                className="w-full mt-4 mb-8"
-                alt={`${section.header}`}
-                width={1000}
-                height={400}
-                quality={100}
-                src={`${section.image}`}
-              ></Image>
-            </Conditional>
-          </div>
-        ))}
+        {projectData.body_sections &&
+          projectData.body_sections.map((section, index) => (
+            <div className="mt-4" key={index}>
+              <h3 className="mb-2 text-2xl font-medium">{section.header}</h3>
+              <ReactMarkdown
+                className="text-lg font-normal"
+                components={{
+                  img: (props) => (
+                    <Image
+                      className="rounded-lg"
+                      src={props.src}
+                      alt={props.alt}
+                      width={1200}
+                      height={400}
+                    />
+                  ),
+                }}
+              >
+                {section.content}
+              </ReactMarkdown>
+              <Conditional showWhen={section.image}>
+                <Image
+                  className="w-full mt-4 mb-8"
+                  alt={`${section.header}`}
+                  width={1000}
+                  height={400}
+                  quality={100}
+                  src={`${section.image}`}
+                ></Image>
+              </Conditional>
+            </div>
+          ))}
       </section>
-      <Conditional showWhen={`${projectData.gallery.length} > 1`}>
+      <Conditional
+        showWhen={`${projectData.gallery && projectData.gallery.length} > 1`}
+      >
         <section className="mb-12">
           <ImageGallery galleryImages={projectData.gallery}></ImageGallery>
         </section>

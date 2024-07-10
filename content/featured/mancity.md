@@ -5,7 +5,7 @@ challenge: Creating a marketing platform for MCFC to garner a loyal fanbase
   Americans.
 solution: Brand Audit, Competitive analysis, Audience research, Brand
   Activations & Rollout Plan
-image: /images/mancity.webp
+image: /images/mancity1_1.png
 image_text: ""
 link:
   link_text: View Case Study

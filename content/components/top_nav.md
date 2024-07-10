@@ -11,7 +11,7 @@ links:
     display_text: Email
     link: mailto:work@vidishaagarwal.com
   - type: links
-    display_text: Linked In
+    display_text: LinkedIn
     link: https://www.linkedin.com/in/vidisha212000/
   - type: links
     display_text: Book A Call

@@ -9,5 +9,5 @@ links:
     link: https://www.behance.net/vidishaaga5727
   - type: links
     display_text: Instgram
-    link: https://www.instagram.com/vidishhaagarwal?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+    link: https://www.instagram.com/vidishhaagarwal
 ---

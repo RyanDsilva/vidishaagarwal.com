@@ -33,7 +33,7 @@ export default async function Project({ params }) {
 
   return (
     <div className={`${dmsans.className} font-main-black`}>
-      <section className="flex justify-center mb-12">
+      <section className="flex justify-center mb-4 md:mb-12">
         <Image
           className="w-full rounded-lg"
           alt={`${projectData.title}`}
@@ -43,17 +43,21 @@ export default async function Project({ params }) {
           src={`${projectData.cover_image}`}
         ></Image>
       </section>
-      <section className="flex justify-between mb-12">
-        <div className="w-1/2 pr-4">
-          <h1 className="text-6xl font-semibold">{projectData.title}</h1>
-          <p className="mt-2 text-base font-main-gray">{projectData.date}</p>
+      <section className="flex flex-col justify-between mb-6 md:md-12 md:flex-row">
+        <div className="w-full pr-4 md:w-1/2">
+          <h1 className="text-4xl font-semibold md:text-6xl">{projectData.title}</h1>
+          <p className="mt-1 mb-6 text-sm md:text-base font-main-gray">
+            {projectData.date}
+          </p>
         </div>
-        <div className="w-1/2">
+        <div className="w-full md:w-1/2">
           {projectData.accordion_sections &&
             projectData.accordion_sections.map((section, index) => (
               <details key={index} className="group" open={index == 0}>
-                <summary className="flex items-center justify-between mb-3 cursor-pointer group-active">
-                  <h3 className="text-2xl font-medium">{section.header}</h3>
+                <summary className="flex items-center justify-between mb-2 cursor-pointer md:mb-3 group-active">
+                  <h3 className="text-xl font-medium md:text-2xl">
+                    {section.header}
+                  </h3>
                   <Plus
                     className="group-open:hidden font-main-black"
                     size={20}
@@ -63,7 +67,9 @@ export default async function Project({ params }) {
                     size={20}
                   ></Minus>
                 </summary>
-                <p className="pb-3 text-lg font-light">{section.content}</p>
+                <p className="mb-3 -mt-2 text-base font-light md:-mt-3 md:text-lg">
+                  {section.content}
+                </p>
               </details>
             ))}
         </div>
@@ -74,7 +80,7 @@ export default async function Project({ params }) {
             <div className="mt-4" key={index}>
               <h3 className="mb-2 text-2xl font-medium">{section.header}</h3>
               <ReactMarkdown
-                className="text-lg font-normal"
+                className="text-base font-normal leading-5 md:leading-6 md:text-xl"
                 components={{
                   img: (props) => (
                     <Image

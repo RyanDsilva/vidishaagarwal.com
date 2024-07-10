@@ -1,7 +1,6 @@
 "use client";
 import { DM_Sans, Inter } from "next/font/google";
 const dmsans = DM_Sans({ subsets: ["latin"] });
-const inter = Inter({ subsets: ["latin"] });
 import { useState } from "react";
 
 import { attributes } from "../../content/components/top_nav.md";
@@ -12,15 +11,15 @@ import Image from "next/image";
 
 export default function Navbar({}) {
   const [isOpen, setIsOpen] = useState(false);
-  const { title, links } = attributes;
+  const { links } = attributes;
   return (
-    <header className="sticky z-10 top-0 py-3 md:py-5 bg-[#f3f3f3] bg-opacity-65 backdrop-filter-blur bg-clip-padding px-12 mb-8 md:px-20 md:mb-12 lg:px-40 lg:mb-12 xl:px-96 xl:mb-24">
+    <header className="sticky z-10 top-0 py-3 md:py-4 bg-[#f3f3f3] bg-clip-padding px-12 mb-8 md:px-20 md:mb-12 lg:px-40 lg:mb-12 xl:px-96 xl:mb-24">
       <nav className={`${dmsans.className}`}>
         <div className="flex justify-between text-center items-top lg:items-center">
           <Link className="" href="/">
             <Image
               src="/images/logo.png"
-              width={220}
+              width={215}
               height={35}
               alt="Navbar Logo"
             ></Image>

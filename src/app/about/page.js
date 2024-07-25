@@ -26,7 +26,12 @@ export default function About() {
               <p className="w-full ml-24 font-normal md:w-2/5">{clients}</p>
             </div>
             <div className="mt-6 font-medium underline underline-offset-4">
-              <a href={resume.link} target="_blank">
+              <a
+                href="/VidishaAgarwal.pdf"
+                target="_blank"
+                type="application/octet-stream"
+                download
+              >
                 {resume.resume_text}
               </a>
             </div>

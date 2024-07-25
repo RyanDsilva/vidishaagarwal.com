@@ -56,6 +56,8 @@ export default async function Home() {
             link={project.data.link}
             imageAltText={project.data.image_text}
             inProgress={project.data.in_progress}
+            index={index}
+            length={featured_projects.length}
           ></ProjectTile>
         ))}
       </section>

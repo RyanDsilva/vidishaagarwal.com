@@ -13,19 +13,21 @@ export default function ProjectTile({
   imageAltText,
   link,
   inProgress,
+  index,
+  length,
 }) {
   return (
     <>
       <div className={`${inter.className} lg:flex`}>
         <div className="flex flex-col justify-between flex-1 flex-grow lg:mr-20">
           <div>
-            <h3 className="mb-6 text-lg font-bold font-main-black">
+            <h3 className="mb-2 text-lg font-bold font-main-black">
               {projectName.toUpperCase()}
             </h3>
-            <p className="mb-1.5 text-lg font-normal leading-6 font-main-black">
+            <p className="mb-8 text-lg font-normal leading-6 font-main-black">
               {challenge}
             </p>
-            <p className="text-sm font-main-gray">{solution}</p>
+            <p className="text-lg leading-6 font-main-gray">{solution}</p>
           </div>
           <Conditional showWhen={!inProgress}>
             <div className="relative inline-flex mt-4 underline lg:mt-0 underline-offset-4">
@@ -46,15 +48,17 @@ export default function ProjectTile({
               height={100}
               src={imageSrc}
               alt={imageAltText}
-              className="object-cover w-full h-48 rounded-lg md:h-96 xl:h-[36rem]"
+              className="w-full h-48 rounded-lg object-fit md:h-96 xl:h-[40rem] xl:mx-48"
             ></Image>
           </Conditional>
           <Conditional showWhen={imageSrc == ""}>
-            <div className="w-full h-48 rounded-lg md:h-96 bg-main-gray xl:h-[36rem]"></div>
+            <div className="w-full h-48 rounded-lg md:h-96 bg-main-gray xl:h-[48]"></div>
           </Conditional>
         </div>
       </div>
-      <hr className="my-16 md:my-28 bg-main-black h-0.5"></hr>
+      <Conditional showWhen={index != length - 1}>
+        <hr className="my-16 md:my-28 bg-main-black h-0.5"></hr>
+      </Conditional>
     </>
   );
 }

@@ -1,6 +1,6 @@
 ---
 name: Mancity
-title: Manchester City Football Club
+title: Manchester City
 date: Case Study for MPS Branding, SVA
 category: Strategy
 cover_image: /images/mancity1_1.png

@@ -46,7 +46,7 @@ export default async function Project({ params }) {
       <section className="flex flex-col justify-between mb-6 md:md-12 md:flex-row">
         <div className="w-full pr-4 md:w-1/2">
           <h1 className="text-4xl font-semibold md:text-6xl">{projectData.title}</h1>
-          <p className="mt-1 mb-6 text-sm md:text-base font-main-gray">
+          <p className="mt-1 mb-6 text-sm md:text-xl font-main-gray">
             {projectData.date}
           </p>
         </div>
@@ -55,36 +55,37 @@ export default async function Project({ params }) {
             projectData.accordion_sections.map((section, index) => (
               <details key={index} className="group" open={index == 0}>
                 <summary className="flex items-center justify-between mb-2 cursor-pointer md:mb-3 group-active">
-                  <h3 className="text-xl font-medium md:text-2xl">
+                  <h3 className="text-xl font-medium md:text-3xl">
                     {section.header}
                   </h3>
                   <Plus
                     className="group-open:hidden font-main-black"
-                    size={20}
+                    size={24}
                   ></Plus>
                   <Minus
                     className="hidden group-open:block font-main-black"
-                    size={20}
+                    size={24}
                   ></Minus>
                 </summary>
-                <p className="mb-3 -mt-2 text-base font-light md:-mt-3 md:text-lg">
+                <p className="mb-4 -mt-2 text-xl font-light leading-5 md:mr-12 md:leading-6 md:-mt-3 md:text-xl">
                   {section.content}
                 </p>
               </details>
             ))}
         </div>
       </section>
+      <hr className="my-8 md:my-16  bg-main-black h-0.5"></hr>
       <section className="mb-8">
         {projectData.body_sections &&
           projectData.body_sections.map((section, index) => (
-            <div className="mt-4" key={index}>
-              <h3 className="mb-2 text-2xl font-medium">{section.header}</h3>
+            <div className="mt-10" key={index}>
+              <h3 className="mb-2 text-3xl font-medium">{section.header}</h3>
               <ReactMarkdown
-                className="text-base font-normal leading-5 md:leading-6 md:text-xl"
+                className="w-full text-base font-normal leading-5 md:leading-6 md:text-xl"
                 components={{
                   img: (props) => (
                     <Image
-                      className="rounded-lg"
+                      className="w-full rounded-lg"
                       src={props.src}
                       alt={props.alt}
                       width={1200}

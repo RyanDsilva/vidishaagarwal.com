@@ -9,13 +9,13 @@ const inter = Inter({ subsets: ["latin"] });
 export default function About() {
   const { headline, information, clients, image, cta, resume } = attributes;
   return (
-    <div className={`${dmsans.className} flex flex-col py-16 md:py-24`}>
+    <div className={`${dmsans.className} flex flex-col py-16 md:py-24 min-h-full`}>
       <section className="flex flex-col justify-between md:flex-row">
         <div className="flex-wrap flex-1 flex-grow">
           <h1 className="mb-8 text-5xl font-medium leading-[3.5rem] md:text-6xl font-main-black">
             {headline}
           </h1>
-          <p className="mb-8 text-xl font-normal font-main-gray md:text-2xl md:pr-12">
+          <p className="mb-8 text-xl font-light font-main-gray md:text-2xl md:pr-12">
             {information}
           </p>
           <section
@@ -25,7 +25,7 @@ export default function About() {
               <h3 className="font-medium underline underline-offset-4">Clients</h3>
               <p className="w-full ml-24 font-normal md:w-2/5">{clients}</p>
             </div>
-            <div className="mt-24 font-medium underline underline-offset-4">
+            <div className="mt-6 font-medium underline underline-offset-4">
               <a href={resume.link} target="_blank">
                 {resume.resume_text}
               </a>
@@ -42,7 +42,7 @@ export default function About() {
           ></Image>
         </div>
       </section>
-      <hr className="mt-36 md:mt-72 bg-main-black h-0.5"></hr>
+      {/* <hr className="mt-36 md:mt-72 bg-main-black h-0.5"></hr>
       <section className="flex flex-col justify-between mt-16 md:flex-row font-main-black">
         <h3 className={`${dmsans.className} text-xl md:text-2xl`}>
           {cta.display_text} <ArrowRight className="inline" size={24} />
@@ -55,7 +55,7 @@ export default function About() {
             {cta.contact_text}
           </a>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }

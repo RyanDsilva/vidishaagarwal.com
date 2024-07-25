@@ -24,7 +24,7 @@ export default function ProjectGalleryTile({ id, projectName, category, imageSrc
               height={100}
               src={imageSrc}
               alt={projectName}
-              className="object-fill w-full h-56 rounded-lg md:h-56 xl:h-64"
+              className="w-full h-56 rounded-lg object-fit md:h-56 xl:h-64"
             ></Image>
           </div>
         </div>

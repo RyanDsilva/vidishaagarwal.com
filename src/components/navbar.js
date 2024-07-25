@@ -1,7 +1,8 @@
 "use client";
-import { DM_Sans, Inter } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 const dmsans = DM_Sans({ subsets: ["latin"] });
 import { useState } from "react";
+import { PopupButton } from "react-calendly";
 
 import { attributes } from "../../content/components/top_nav.md";
 import { Menu, X } from "lucide-react";
@@ -12,6 +13,7 @@ import Image from "next/image";
 export default function Navbar({}) {
   const [isOpen, setIsOpen] = useState(false);
   const { links } = attributes;
+
   return (
     <header className="sticky z-10 top-0 py-3 md:py-4 bg-[#f3f3f3] bg-clip-padding px-12 mb-8 md:px-20 md:mb-12 lg:px-40 lg:mb-12 xl:px-96 xl:mb-24">
       <nav className={`${dmsans.className}`}>
@@ -26,13 +28,34 @@ export default function Navbar({}) {
           </Link>
           <div className="hidden space-x-12 lg:block">
             {links.map((link, index) => (
-              <Link
-                key={index}
-                href={link.link}
-                className="text-base font-medium font-main-black"
-              >
-                {link.display_text}
-              </Link>
+              <span key={index}>
+                <Conditional
+                  key={index}
+                  showWhen={link.display_text != "Book A Call"}
+                >
+                  <Link
+                    key={index}
+                    href={link.link}
+                    className="text-base font-medium font-main-black"
+                  >
+                    {link.display_text}
+                  </Link>
+                </Conditional>
+                <Conditional
+                  key={index}
+                  showWhen={link.display_text == "Book A Call"}
+                >
+                  {typeof window !== "undefined" && (
+                    <PopupButton
+                      key={"calendly"}
+                      className="text-base font-medium font-main-black"
+                      url="https://calendly.com/vidisha-agarwal212000/meet"
+                      rootElement={document.getElementById("root")}
+                      text="Book A Call"
+                    />
+                  )}
+                </Conditional>
+              </span>
             ))}
           </div>
           <div className="lg:hidden">

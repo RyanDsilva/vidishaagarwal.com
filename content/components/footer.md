@@ -8,6 +8,6 @@ links:
     display_text: Behance
     link: https://www.behance.net/vidishaaga5727
   - type: links
-    display_text: Instgram
+    display_text: Instagram
     link: https://www.instagram.com/vidishhaagarwal
 ---

@@ -67,11 +67,8 @@ body_sections:
       ![](/images/screenshot-2024-06-30-at-10.36.09 pm.png)
     image: ""
   - type: section
-    header: The Insight
-    content: |-
-      ## In India, milk is more than just food.
-
-      It symbolizes nourishment and purity.
+    header: "The Insight: In India, milk is more than just food."
+    content: It symbolizes nourishment and purity.
   - type: section
     content: >-
       Milk has been used to soften, nourish, and revitalize skin for thousands

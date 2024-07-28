@@ -11,11 +11,9 @@ accordion_sections:
       brand’s existing perception and image.
     header: The Challenge
   - type: section
-    content: >-
-      Designer & Strategist: Anthropological Study, Brand Audit, Concept,
-      Naming, Packaging and Advertising Design\
-
-      Team: Gloria Biggers, John Lytle, Natalie Marques
+    content: "Designer & Strategist: Anthropological Study, Brand Audit, Concept,
+      Naming, Packaging and Advertising Design (Team: Gloria Biggers, John
+      Lytle, Natalie Marques)"
     header: My Role
   - type: section
     content: |-

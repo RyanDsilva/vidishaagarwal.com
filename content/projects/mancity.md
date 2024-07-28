@@ -11,7 +11,10 @@ accordion_sections:
       the United States to increase loyalty and following for the club.
   - type: section
     header: My Role
-    content: "Designer & Strategist: Research, Conceptualisation, Creative Expression"
+    content: |-
+      Designer & Strategist: Research, Conceptualisation, Creative Expression
+
+      Team: Chanel Gilcrease, Marisa Goldberg, Leyi Duan, Olivia Grant
   - type: section
     header: The Approach
     content: |-

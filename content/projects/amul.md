@@ -19,7 +19,7 @@ accordion_sections:
     header: My Role
   - type: section
     content: |-
-      1. Anthropological analysis
+      1. Anthropological Analysis
       2. Market Study
       3. Brand Extension Strategy
       4. Brand Extension Design
@@ -71,7 +71,8 @@ body_sections:
   - type: section
     header: The Insight
     content: |-
-      ## In India, milk is more than just food.\
+      ## In India, milk is more than just food.
+
       It symbolizes nourishment and purity.
   - type: section
     content: >-

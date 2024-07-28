@@ -50,7 +50,7 @@ body_sections:
 
       ![](/images/screenshot-2024-06-30-at-4.29.43 pm.png)
   - type: section
-    header: Research
+    header: The Overlooked
     content: >-
       There are millions of people in America who feel invisible. People like
       those with disabilities. People like mothers. People like Immigrants. They

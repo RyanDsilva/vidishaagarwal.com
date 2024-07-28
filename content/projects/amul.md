@@ -83,6 +83,12 @@ body_sections:
       The Indian skincare market is growing, and represents a tremendous opportunity to enter the space. The market is expected to cross 10 billion dollars by the end of the decade. Despite this fast-paced growth, the market lacks an accessible, down-to-earth skin care brand that is for India, by India.
 
 
+      ![](/images/screenshot-2024-07-28-at-5.27.00 pm.png)
+
+
+      Although some Indian brands promote products that feature the ingredient or incorporate the word “milk” into their product offering, they have been slow to adopt milk as a main ingredient. This leaves white space to capture this market and introduce a product that connects Indian skincare with this deeply rooted tradition. 
+
+
       ![](/images/screenshot-2024-06-30-at-10.46.45 pm.png)
 
 

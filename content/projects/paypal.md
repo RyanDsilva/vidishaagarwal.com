@@ -80,30 +80,20 @@ body_sections:
       ![](/images/screenshot-2024-06-30-at-7.30.53 pm.png)
     header: Current Communication
   - type: section
-    header: Positioning
-    content: abc
-  - type: section
     content: "![](/images/screenshot-2024-06-30-at-7.52.49 pm.png)"
     header: Insights
   - type: section
-    content: >-
-      PayPal is your ultimate digital transaction **partner**, offering a
-      universal solution for payments **worldwide.** We are dedicated to
-      ceaseless innovation, ensuring seamless multi-platform experiences that
-      cater to your present and future needs.
+    header: Positioning
+    content: |-
+      ![](/images/screenshot-2024-07-28-at-6.56.53 pm.png)
 
+      ![](/images/screenshot-2024-07-28-at-6.57.02 pm.png)
 
-      We possess a deep understanding of your challenges, crafting tailored solutions for an enhanced user experience. Our commitment to **robust risk management and security** guarantees your safety and ease of payment.
+      ![](/images/screenshot-2024-07-28-at-6.57.09 pm.png)
 
+      ![](/images/screenshot-2024-07-28-at-5.38.29 pm.png)
 
-      At PayPal, we **nurture financial well-being** for all by providing education and support, eliminating digital finance fears. Our commitment to exceptional design enhances personal finance and **elevates every transaction.** Our white-glove assistance is always at your service.
-
-
-      As a global community, we are driven by the mission of democratizing financial services, **empowering individuals** for success in the global economy, and **fostering dreams** and aspirations in diverse communities worldwide.
-    header: Brand Manifesto
-  - type: section
-    content: "![](/images/screenshot-2024-06-30-at-7.52.58 pm.png)"
-    header: Brand Promise
+      ![](/images/screenshot-2024-06-30-at-7.52.58 pm.png)
   - type: section
     content: The creative materials should convey trust, security, versatility, and
       global reach. The tone should be empathetic, innovative, and inspiring.

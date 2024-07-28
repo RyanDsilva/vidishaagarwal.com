@@ -112,6 +112,10 @@ body_sections:
   - type: section
     header: The Products
     content: >-
+      Building upon the iconic mascot, The Amul Girl will be highlighted on the
+      packaging, further building the brand equity.
+
+
       ![](/images/screenshot-2024-06-30-at-11.34.35 pm.png)
 
 

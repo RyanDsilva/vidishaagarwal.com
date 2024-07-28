@@ -108,10 +108,10 @@ body_sections:
       ![](/images/screenshot-2024-06-30-at-6.04.07 pm.png)
 
 
-      The team’s tenets: audacity, authenticity, electricity, and tenacity will be communicated throughout the campaign alongside the phrase “City Sees You". While those will remain the same, images and other messages with change based on the audience and their pain points.
+      The team’s mission of striving for the best while remaining true to their values will be communicated throughout the campaign alongside the phrase “City Sees You". While those will remain the same, images and other messages with change based on the audience and their pain points.
 
 
-      ![](/images/screenshot-2024-06-30-at-6.07.53 pm.png)
+      ![](/images/screenshot-2024-07-28-at-4.40.27 pm.png)
 
 
       This campaign will exist through various mediums including streaming platforms, social media platforms and out of home marketing such as billboards and digital displays. The City Sees You campaign will let audiences know Man City sees them, understands them, and is here for them, thus raising awareness for ManCity and acting as the first step in creating emotional connections with them.

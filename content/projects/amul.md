@@ -98,17 +98,14 @@ body_sections:
       on giving the highest possible quality goods at reasonable costs.
 
 
-      The brand extension must follow suit. Hence, a simple and easily accessible name that is for everybody - Amul Body.
+      The brand extension must follow suit. Hence, a simple and easily accessible name that is for everybody - Amul Body. The brand will launch three products with the goodness of Milk:
 
 
-      The brand will launch three products with the goodness of Milk:
+      * The Moisturizing face cream
 
+      * Hydrating body butter
 
-      1. The Moisturizing face cream
-
-      2. Hydrating body butter
-
-      3. Soothing cleansing milk
+      * Soothing cleansing milk
 
 
       These names are simple with a touch of quirk, like Amul's brand personality. They further establish the goodness of milk and paint a picture of the different textures of milk products that are desirable for the skin.

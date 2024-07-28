@@ -51,8 +51,8 @@ body_sections:
   - type: section
     content: >-
       As PayPal offers a wide range of services spanning across the field of
-      digital payments, the audience is uniquely diverse. It includes:
-      1. Millennials and GenZs who are comfortable with the idea of online payments
+      digital payments, the audience is uniquely diverse. It includes: 1.
+      Millennials and GenZs who are comfortable with the idea of online payments
 
       2. Individuals getting used to paperless transactions as the world moves towards digital
 
@@ -79,6 +79,9 @@ body_sections:
 
       ![](/images/screenshot-2024-06-30-at-7.30.53 pm.png)
     header: Current Communication
+  - type: section
+    header: Positioning
+    content: abc
   - type: section
     content: "![](/images/screenshot-2024-06-30-at-7.52.49 pm.png)"
     header: Insights

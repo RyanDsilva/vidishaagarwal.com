@@ -133,10 +133,7 @@ body_sections:
       associated with power, elevated status, and beauty. 
 
 
-      Despite the lack of evidence, many people in India are impacted by the dark skin stigma, and seek remedies to change their bodies to conform to these outdated beauty norms.
-
-
-      ## Amul Body will fight this stigma. 
+      Despite the lack of evidence, many people in India are impacted by the dark skin stigma, and seek remedies to change their bodies to conform to these outdated beauty norms. Amul Body will fight this stigma.
 
 
       To counteract the colorism associated with milk-based products and confront the stigma around dark skin head-on, Amul will emulate the Dove “Real Beauty” campaign for our Amul Body launch to show that all skin tones are beautiful.

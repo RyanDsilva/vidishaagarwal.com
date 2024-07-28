@@ -1,7 +1,7 @@
 ---
 name: Mancity
 title: Manchester City
-date: Case Study for MPS Branding, SVA
+date: Pitch to MCFC via SVA MPS Branding
 category: Strategy
 cover_image: /images/mcfc-cover.jpg
 accordion_sections:

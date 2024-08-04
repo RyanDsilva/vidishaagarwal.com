@@ -1,11 +1,12 @@
 ---
 title: about
 headline: Hello, I’m Vidisha :)
-information: A kaleidoscopic strategist and designer who blends strategic
-  thinking with compelling visual storytelling. She interprets brand problems
-  through social and cultural lenses, navigating through data to uncover
-  underlying human truths. With experience across diverse industries and
-  disciplines, she infuses purpose into every detail of her designs.
+information: I am a multi-cultural and multi-faceted brand strategist and
+  designer who blends strategic thinking with compelling visual storytelling. I
+  interpret brand problems through social and cultural lenses, navigating
+  through data to uncover underlying human truths. With experience across
+  diverse industries and disciplines, I infuse purpose and intention into every
+  detail of design.
 image: /images/vidisha_web_headshot-copy.jpg
 clients: GJEPC India, Manchester City Football Club, Lewis Latimer House Museum,
   SVA Masters in Branding Department, Isha Life & more…

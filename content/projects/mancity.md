@@ -1,5 +1,5 @@
 ---
-name: Mancity
+name: Man City
 title: "MCFC: Entering USA Market Strategy"
 date: Pitched to MCFC via SVA MPS Branding
 category: Strategy
@@ -138,7 +138,7 @@ body_sections:
       Long-term engagement could enhance the football experience by introducing sensory activities focused on textures, colors, and smells. This inclusive activity would engage everyone, not just sports enthusiasts, and could especially appeal to people with certain disabilities without being exclusive to them. 
 
 
-      ![](/images/screenshot-2024-06-30-at-6.11.42 pm.png)
+      ![](/images/screenshot-2024-08-06-at-3.07.40 pm.png)
   - type: section
     header: "Cohort 2: Single Moms"
     content: >-

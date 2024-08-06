@@ -13,7 +13,7 @@ accordion_sections:
   - type: section
     header: My Role
     content: "Strategist: Problem analysis, Market study, Repositioning, Creative
-      Brief, Deliverable samples"
+      brief, Deliverable samples"
   - type: section
     header: The Approach
     content: >-

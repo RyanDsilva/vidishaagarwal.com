@@ -1,7 +1,8 @@
 ---
 name: Smiletribe
-title: "Kids' Clothing Brand: Startegy & Identity"
+title: "Kids' Clothing Brand: Strategy & Identity"
 date: Project with The Turtle Story, Mumbai
-category: Design
+category: Strategy & Design
 cover_image: /images/screenshot-2024-08-06-at-3.04.12 pm.png
+accordion_sections: []
 ---

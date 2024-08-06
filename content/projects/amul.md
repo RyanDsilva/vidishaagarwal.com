@@ -1,6 +1,6 @@
 ---
 name: Amul
-title: Amul Brand Extension
+title: "Dairy Brand: Brand Extension"
 date: Case Study for MPS Branding, SVA
 category: Strategy
 cover_image: /images/screenshot-2024-07-28-at-4.55.08 pm.png

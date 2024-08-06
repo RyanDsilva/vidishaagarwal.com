@@ -1,6 +1,6 @@
 ---
 name: Mancity
-title: Manchester City
+title: Entering USA Market Strategy
 date: Pitch to MCFC via SVA MPS Branding
 category: Strategy
 cover_image: /images/mcfc-cover.jpg

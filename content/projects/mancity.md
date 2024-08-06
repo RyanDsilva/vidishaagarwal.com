@@ -1,7 +1,7 @@
 ---
 name: Mancity
-title: Entering USA Market Strategy
-date: Pitch to MCFC via SVA MPS Branding
+title: "MCFC: Entering USA Market Strategy"
+date: Pitched to MCFC via SVA MPS Branding
 category: Strategy
 cover_image: /images/mcfc-cover.jpg
 accordion_sections:

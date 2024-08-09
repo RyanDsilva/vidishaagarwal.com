@@ -29,9 +29,46 @@ accordion_sections:
       and signals a change in the scale of the business.
 body_sections:
   - type: section
-    header: The Situation
-    content: |-
+    header: Positioning The Brand
+    content: >-
+      In India, the kids clothing market is saturated with brands that focus on
+      trendy looks and market trends rather than the kids' comfort and
+      development. A new age of parents are growing conscious of this and opting
+      for simpler, meaningful comfort clothing for their children. 
+
+
       ![](/images/screenshot-2024-08-09-at-3.08.12 pm.png)
 
+
+      While there are some brands that promise superior quality clothing, they are priced at a premium. Smiletribe is uniquely positioned to provide the best quality clothing with comparably affordable prices. It can build an image as a brand that is built to nurture the kid and elevate clothing to an experience that contributes to the development of the child.
+
+
       ![](/images/screenshot-2024-08-09-at-3.10.42 pm.png)
+
+
+      As Smiletribe is set on a mission to prioritise the children and encourage them to truly express themselves, it must be guided by the following values:
+
+
+      ![](/images/screenshot-2024-08-09-at-3.54.44 pm.png)
+
+
+      The tone of voice for the brand must communicate this ethos.
+
+
+      ![](/images/screenshot-2024-08-09-at-4.18.41 pm.png)
+    image: ""
+  - type: section
+    header: Identity Design
+    content: >-
+      A comprehensive identity design system was created to express the brand's
+      values and beliefs through every touchpoint.
+
+
+      ![](/images/screenshot-2024-08-09-at-4.25.32 pm.png)
+
+
+      ![](/images/screenshot-2024-08-09-at-4.31.51 pm.png)
+
+
+      ![](/images/screenshot-2024-08-09-at-4.35.43 pm.png)
 ---

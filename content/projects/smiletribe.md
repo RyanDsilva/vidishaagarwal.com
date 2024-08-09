@@ -27,4 +27,8 @@ accordion_sections:
     content: Develop a cohesive brand image with a unified personality expressed
       through the brand's voice and appearance such that it looks professional
       and signals a change in the scale of the business.
+body_sections:
+  - type: section
+    header: The Situation
+    content: "![](/images/screenshot-2024-08-09-at-3.08.12 pm.png)"
 ---

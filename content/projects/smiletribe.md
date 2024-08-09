@@ -30,5 +30,8 @@ accordion_sections:
 body_sections:
   - type: section
     header: The Situation
-    content: "![](/images/screenshot-2024-08-09-at-3.08.12 pm.png)"
+    content: |-
+      ![](/images/screenshot-2024-08-09-at-3.08.12 pm.png)
+
+      ![](/images/screenshot-2024-08-09-at-3.10.42 pm.png)
 ---

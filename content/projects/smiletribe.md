@@ -83,4 +83,20 @@ body_sections:
       ![](/images/screenshot-2024-08-15-at-3.24.14 pm.png)
 
       ![](/images/screenshot-2024-08-15-at-3.24.23 pm.png)
+  - type: section
+    header: Website Design
+    content: >-
+      The website design was created keeping in mind the colourful and playful
+      nature of the brand identity.
+
+
+
+
+      ![](/images/screenshot-2024-08-15-at-3.30.48 pm.png)
+
+
+      ![](/images/screenshot-2024-08-15-at-3.35.13 pm.png)
+
+
+      ![](/images/screenshot-2024-08-15-at-3.42.40 pm.png)
 ---

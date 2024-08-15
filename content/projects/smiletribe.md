@@ -99,4 +99,15 @@ body_sections:
 
 
       ![](/images/screenshot-2024-08-15-at-3.42.40 pm.png)
+  - type: section
+    header: Mascot Design
+    content: >-
+      The mascot was inspired by the imaginary characters that children create
+      with their imagination.
+
+
+      ![](/images/screenshot-2024-08-15-at-3.45.20 pm.png)
+
+
+      ![](/images/screenshot-2024-08-15-at-3.48.28 pm.png)
 ---

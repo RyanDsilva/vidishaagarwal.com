@@ -6,5 +6,8 @@ challenge: Creating the brand strategy and visual identity for a kids' clothing
 solution: Market Study, User Research, Brand Positioning, Brand Voice, Logo
   Design, Visual Language, Packaging Collaterals, Website Design, Mascot Design
 image: /images/screenshot-2024-08-06-at-3.04.12 pm.png
+link:
+  link: /projects/smiletribe
+  link_text: View Case Study
 in_progress: false
 ---

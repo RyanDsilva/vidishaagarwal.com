@@ -1,5 +1,5 @@
 ---
-index: 2
+index: 1
 name: Manchester City Football Club
 challenge: Creating a marketing platform for MCFC to garner a loyal fanbase
   while venturing The United States.To make it the most beloved soccer club

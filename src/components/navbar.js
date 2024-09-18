@@ -2,13 +2,19 @@
 import { DM_Sans } from "next/font/google";
 const dmsans = DM_Sans({ subsets: ["latin"] });
 import { useState } from "react";
-import { PopupButton } from "react-calendly";
-
 import { attributes } from "../../content/components/top_nav.md";
 import { Menu, X } from "lucide-react";
 import Link from "next/link";
 import { Conditional } from "./conditional";
 import Image from "next/image";
+import dynamic from "next/dynamic";
+
+export const ClientComponent = dynamic(
+  () => import("./calendly").then((mod) => mod.default),
+  {
+    ssr: false,
+  }
+);
 
 export default function Navbar({}) {
   const [isOpen, setIsOpen] = useState(false);
@@ -45,15 +51,7 @@ export default function Navbar({}) {
                   key={index}
                   showWhen={link.display_text == "Book A Call"}
                 >
-                  {typeof window !== "undefined" && (
-                    <PopupButton
-                      key={"calendly"}
-                      className="text-base font-medium font-main-black"
-                      url="https://calendly.com/vidisha-agarwal212000/meet"
-                      rootElement={document.getElementById("root")}
-                      text="Book A Call"
-                    />
-                  )}
+                  <ClientComponent />
                 </Conditional>
               </span>
             ))}

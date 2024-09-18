@@ -9,7 +9,9 @@ import Animated from "@/components/animated";
 const dmsans = DM_Sans({ subsets: ["latin"] });
 
 async function fetchFeaturedProjects() {
-  return getAllItems("featured");
+  const featured = getAllItems("featured");
+  featured.sort((a, b) => a.data.index - b.data.index);
+  return featured;
 }
 
 export default async function Home() {

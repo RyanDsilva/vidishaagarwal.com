@@ -88,6 +88,7 @@ collections:
     create: true
     identifier_field: name
     fields:
+      - { label: "Index", name: "index", widget: "number" }
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Challenge", name: "challenge", widget: "markdown" }
       - { label: "Solution", name: "solution", widget: "markdown" }

@@ -2,7 +2,7 @@
 name: Smiletribe
 title: "Smiletribe: Brand Strategy & Identity"
 date: Client Project with The Turtle Story, Mumbai
-category: Strategy & Design
+category: Design, Strategy
 cover_image: /images/screenshot-2024-08-06-at-3.04.12 pm.png
 accordion_sections:
   - type: section

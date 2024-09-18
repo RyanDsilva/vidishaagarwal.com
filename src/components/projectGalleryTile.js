@@ -8,25 +8,21 @@ const inter = Inter({ subsets: ["latin"] });
 export default function ProjectGalleryTile({ id, projectName, category, imageSrc }) {
   return (
     <>
-      <Link className={`${inter.className} lg:flex`} href={`/projects/` + id}>
-        <div className="flex flex-col justify-between">
-          <div>
-            <h3 className="-mb-1 text-lg font-bold font-main-black">
-              {projectName.toUpperCase()}
-            </h3>
-            <p className="mb-1.5 text-small font-light leading-6 font-main-gray">
-              {category}
-            </p>
-          </div>
-          <div className="flex items-center justify-center">
-            <Image
-              width={300}
-              height={100}
-              src={imageSrc}
-              alt={projectName}
-              className="w-full h-56 rounded-lg object-fit md:h-56 xl:h-64"
-            ></Image>
-          </div>
+      <Link className={`${inter.className}`} href={`/projects/` + id}>
+        <div>
+          <h3 className="-mb-1 text-lg font-bold font-main-black text-nowrap">
+            {projectName.toUpperCase()}
+          </h3>
+          <p className="mb-1.5 text-small font-light leading-6 font-main-gray">
+            {category}
+          </p>
+          <Image
+            width={300}
+            height={100}
+            src={imageSrc}
+            alt={projectName}
+            className="object-center w-full h-64 rounded-lg md:h-64 xl:h-64"
+          ></Image>
         </div>
       </Link>
     </>

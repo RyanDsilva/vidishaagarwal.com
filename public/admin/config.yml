@@ -146,6 +146,7 @@ collections:
               - { name: header, label: Header, widget: string }
               - { name: content, label: Content, widget: markdown }
               - { name: image, label: Image, widget: image, required: false }
+              - { name: video, label: Video ID, widget: string, required: false }
       - name: gallery
         label: Gallery
         required: false

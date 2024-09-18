@@ -6,6 +6,7 @@ import Image from "next/image";
 import { DM_Sans, Inter } from "next/font/google";
 import ImageGallery from "@/components/gallery";
 import ReactMarkdown from "react-markdown";
+import { YouTubeEmbed } from "@next/third-parties/google";
 
 const dmsans = DM_Sans({ subsets: ["latin"] });
 const inter = Inter({ subsets: ["latin"] });
@@ -74,7 +75,7 @@ export default async function Project({ params }) {
             ))}
         </div>
       </section>
-      <hr className="my-8 md:my-16  bg-main-black h-0.5"></hr>
+      <hr className="my-8 md:my-16 bg-main-black h-0.5"></hr>
       <section className="mb-8">
         {projectData.body_sections &&
           projectData.body_sections.map((section, index) => (
@@ -105,6 +106,16 @@ export default async function Project({ params }) {
                   quality={100}
                   src={`${section.image}`}
                 ></Image>
+              </Conditional>
+              <Conditional className="justify-center" showWhen={section.video}>
+                <br></br>
+                <div className="flex justify-center">
+                  <YouTubeEmbed
+                    videoid={section.video}
+                    height={300}
+                    width={720}
+                  ></YouTubeEmbed>
+                </div>
               </Conditional>
             </div>
           ))}

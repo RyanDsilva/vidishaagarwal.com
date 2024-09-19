@@ -1,5 +1,5 @@
 ---
-index: 3
+index: 2
 name: Paypal
 challenge: Repositioning PayPal in an era of damaged brand reputation and robust
   competition that threatens the brand's dominance in the digital payments

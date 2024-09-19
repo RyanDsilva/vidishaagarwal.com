@@ -182,6 +182,6 @@ body_sections:
 
 
       ![](/images/screenshot-2024-06-30-at-6.41.20 pm.png)
-    video: aQpJ7OgXVn8
+    video: ""
 gallery: []
 ---

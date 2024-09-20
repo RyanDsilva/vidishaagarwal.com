@@ -1,4 +1,5 @@
 ---
+index: 5
 name: Weber
 title: "Weber: Degendering Grilling"
 date: Thesis Project at SVA MPS Branding

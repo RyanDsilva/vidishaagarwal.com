@@ -1,15 +1,14 @@
 import { DM_Sans } from "next/font/google";
 import { getAllItems } from "@/util";
-import Filter from "@/components/filter";
 import ProjectGalleryTile from "@/components/projectGalleryTile";
 
 const dmsans = DM_Sans({ subsets: ["latin"] });
 
 const categories = ["All", "Design", "Branding", "Strategy", "Passion Projects"];
 
-async function selectCategory() {
-  console.log("test");
-}
+// async function selectCategory() {
+//   console.log("test");
+// }
 
 async function fetchAllProjects() {
   return getAllItems("projects");

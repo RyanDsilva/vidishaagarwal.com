@@ -87,6 +87,7 @@ collections:
     folder: "content/featured"
     create: true
     identifier_field: name
+    sortable_fields: ["index"]
     fields:
       - { label: "Index", name: "index", widget: "number" }
       - { label: "Name", name: "name", widget: "string" }
@@ -117,7 +118,9 @@ collections:
     folder: "content/projects"
     create: true
     identifier_field: name
+    sortable_fields: ["index"]
     fields:
+      - { label: "Index", name: "index", widget: "number" }
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Project Date", name: "date", widget: "string", required: false }

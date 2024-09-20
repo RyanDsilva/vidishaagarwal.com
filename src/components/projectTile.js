@@ -48,7 +48,7 @@ export default function ProjectTile({
               height={100}
               src={imageSrc}
               alt={imageAltText}
-              className="w-full h-48 rounded-lg object-fit md:h-96 xl:h-[40rem] xl:mx-48"
+              className="w-full h-48 rounded-lg object-center object-cover md:h-96 xl:h-[40rem] xl:mx-48"
             ></Image>
           </Conditional>
           <Conditional showWhen={imageSrc == ""}>

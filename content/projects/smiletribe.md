@@ -1,4 +1,5 @@
 ---
+index: 4
 name: Smiletribe
 title: "Smiletribe: Brand Strategy & Identity"
 date: Client Project with The Turtle Story, Mumbai

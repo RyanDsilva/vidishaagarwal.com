@@ -11,7 +11,9 @@ const categories = ["All", "Design", "Branding", "Strategy", "Passion Projects"]
 // }
 
 async function fetchAllProjects() {
-  return getAllItems("projects");
+  const projects = getAllItems("projects");
+  projects.sort((a, b) => a.data.index - b.data.index);
+  return projects;
 }
 
 export default async function Projects() {

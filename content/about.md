@@ -8,8 +8,8 @@ information: I am a multi-faceted brand strategist with a background in design
   disciplines, I seek to create strategy-led brands with intentional and
   purposeful designs.
 image: /images/vidisha_web_headshot-copy.jpg
-clients: GJEPC India, Manchester City Football Club, Lewis Latimer House Museum,
-  SVA Masters in Branding Department, Isha Life & more…
+clients: ChapStick, Suave, GJEPC India, Manchester City Football Club, Lewis
+  Latimer House Museum, SVA Masters in Branding Department, Isha Life & more…
 resume:
   resume_text: Resume
   link: "#"

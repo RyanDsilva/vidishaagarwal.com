@@ -13,7 +13,7 @@ accordion_sections:
       a commercial brand with multi-channel sales.
   - type: section
     header: My Role
-    content: "Brand Designer & Strategist: Research, Positioning, Concept
+    content: "Brand Strategist  & Designer: Research, Positioning, Concept
       Development,  Visual Identity Design, Website Design, Packaging Design"
   - type: section
     header: The Approach

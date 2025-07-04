@@ -26,4 +26,64 @@ accordion_sections:
       4. Brand Architecture
       5. Verbal Identity
       6. Visual Identity & Web Design
+  - type: section
+    header: Intended Impact
+    content: To increase the brand's awareness and relevance to a larger audience
+      and increase engagement and interaction within the space.
+body_sections:
+  - type: section
+    header: Background
+    content: >-
+      Located in Flushing, Queens, the Lewis Latimer House Museum honors the
+      life of Lewis Howard Latimer, a self-taught polymath who helped develop
+      major 19th-century inventions, including Edison’s incandescent light
+      bulb.\
+
+      \
+
+      For years, the brand honored Latimer’s life as the inspiration for a noble mission: helping close the gap in equitable patenting for minority innovators. ***However, this limited its relevance among a broader audience.***
+    image: /images/asset-1.png
+  - type: section
+    header: Discovery
+    content: >-
+      Despite his circumstances, Latimer demonstrated immense bravery and
+      courage - qualities that will always be needed in society, no matter how
+      much progress has been made socially or technologically.\
+
+      \
+
+      ***Lewis Latimer’s most powerful gift wasn’t his inventions; it was his fearless approach to life and learning.***
+  - type: section
+    header: The Lewis Latimer Mindset
+    content: >-
+      Born to formerly enslaved parents, Latimer navigated immense challenges to
+      become not only a renowned inventor, but a poet, father, and community
+      leader. To capture his unique disposition, we introduced the “Lewis
+      Latimer Mindset”: a kaleidoscopic approach that fearlessly engages with
+      the world, regardless of its obstacles.
+
+
+
+
+      ![](/images/screenshot-2025-07-04-at-10.31.39 pm.png)
+
+
+      This offered a powerful new anchor to ***evolve the brand*** and its operational model.
+
+
+      ![](/images/screenshot-2025-07-04-at-10.37.11 pm.png)
+  - type: section
+    header: Solution
+    content: >-
+      To reposition the brand from a ***static museum*** to a ***dynamic "Open
+      House"*** that creates a space where Latimer’s mindset comes to life.
+
+
+      The House empowers underrepresented thinkers by providing a thinking playground to nurture their own Lewis Latimer Mindset. A dynamic space of exploration, experimentation, and collaboration.
+
+
+      ![](/images/screenshot-2025-07-04-at-10.44.45 pm.png)
+
+
+      In turn, the House expands its lens beyond equitable patenting, ***granting it the flexibility to increase its impact*** through active engagement.
 ---

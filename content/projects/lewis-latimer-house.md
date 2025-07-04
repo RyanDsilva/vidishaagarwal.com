@@ -89,4 +89,16 @@ body_sections:
 
 
       In turn, the House expands its lens beyond equitable patenting, ***granting it the flexibility to increase its impact*** through active engagement.
+  - type: section
+    header: Visual Expression
+    content: The visual identity reflects Latimer’s ***kaleidoscopic philosophy,***
+      embodying a fluid and ever-evolving perspective that invites people to
+      see, think, and engage in new and unexpected ways.
+  - type: section
+    header: The Logo
+    content: The logo is a visual representation of Latimer’s profound belief in
+      fostering collaborative environments to generate innovation. Using
+      ***kaleidoscopic fragments*** to form the L, a geometric sans-serif, and a
+      Victorian-esque serif inspired by the home, the logo connects seemingly
+      disparate elements to create a cohesive unit.
 ---

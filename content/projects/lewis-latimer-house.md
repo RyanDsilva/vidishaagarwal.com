@@ -14,12 +14,9 @@ accordion_sections:
       underrepresented thinkers.
   - type: section
     header: My Role
-    content: >-
-      Strategist & Designer\
-
-      \
-
-      (Team: Jackson Dunn, Vidan Ristovic, Chanel Gilcrease, Olivia Qian, Marisa Goldberg)
+    content: "Strategist & Designer: Research, Stakeholder Facilitation,
+      Positioning, Creative Briefing, Visual Identity Design (Team: Jackson
+      Dunn, Vidan Ristovic, Chanel Gilcrease, Olivia Qian, Marisa Goldberg)"
   - type: section
     header: The Approach
     content: |-
@@ -27,7 +24,6 @@ accordion_sections:
       2. Cultural Audit
       3. Positioning
       4. Brand Architecture
-      5. Creative Briefing
-      6. Verbal Identity
-      7. Visual Identity & Web Design
+      5. Verbal Identity
+      6. Visual Identity & Web Design
 ---

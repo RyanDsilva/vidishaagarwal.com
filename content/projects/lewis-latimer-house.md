@@ -1,5 +1,5 @@
 ---
-index: 6
+index: 1
 name: Lewis Latimer House
 title: "Lewis Latimer House: Redefining a museum"
 date: Client Project with SVA Masters in Branding Honors Program

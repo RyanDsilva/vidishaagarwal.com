@@ -34,9 +34,10 @@ body_sections:
   - type: section
     header: Background
     content: >-
-      Located in Flushing, Queens, the Lewis Latimer House Museum honors the
-      life of Lewis Howard Latimer, a self-taught polymath who helped develop
-      major 19th-century inventions, including Edison’s incandescent light bulb.
+      ![](/images/screenshot-2025-07-09-at-9.23.51 pm.png)
+
+
+      Located in Flushing, Queens, the Lewis Latimer House Museum honors the life of Lewis Howard Latimer, a self-taught polymath who helped develop major 19th-century inventions, including Edison’s incandescent light bulb.
 
 
       ![](/images/asset-1.png)
@@ -104,7 +105,7 @@ body_sections:
       disparate elements to create a cohesive unit.
 
 
-      ![](/images/llh-logo-animation.gif)
+      ![](/images/llh-logo-animation-1-.gif)
 
 
       ![](/images/asset-3-2x.png)
@@ -114,4 +115,16 @@ body_sections:
 
 
       ![](/images/llh-exports.png)
+
+
+      ![](/images/llh-export-2-09.png)
+
+
+      ![](/images/asset-4-2x.png)
+
+
+      ![](/images/screenshot-2025-07-09-at-9.08.49 pm.png)
+
+
+      ![](/images/screenshot-2025-07-09-at-9.13.49 pm.png)
 ---

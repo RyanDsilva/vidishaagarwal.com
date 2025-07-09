@@ -39,7 +39,7 @@ body_sections:
       major 19th-century inventions, including Edison’s incandescent light bulb.
 
 
-      ![](/images/asset-1.png)
+      ![](/images/asset-9-2x.png)
 
 
       \

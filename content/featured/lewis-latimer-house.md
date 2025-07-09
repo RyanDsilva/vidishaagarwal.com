@@ -9,5 +9,5 @@ image: /images/llh-export.png
 link:
   link_text: View Case Study
   link: /projects/lewis-latimer-house
-in_progress: true
+in_progress: false
 ---

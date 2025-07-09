@@ -1,5 +1,5 @@
 ---
-index: 2
+index: 5
 name: Amul
 title: "Amul: Brand Extension"
 date: Case Study for MPS Branding, SVA

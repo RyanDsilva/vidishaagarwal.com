@@ -95,9 +95,9 @@ body_sections:
       embodying a fluid and ever-evolving perspective that invites people to
       see, think, and engage in new and unexpected ways.
   - type: section
-    header: The Logo
+    header: Visual Identity System
     content: >-
-      The logo is a visual representation of Latimer’s profound belief in
+      ***The logo*** is a visual representation of Latimer’s profound belief in
       fostering collaborative environments to generate innovation. Using
       ***kaleidoscopic fragments*** to form the L, a geometric sans-serif, and a
       Victorian-esque serif inspired by the home, the logo connects seemingly
@@ -105,4 +105,13 @@ body_sections:
 
 
       ![](/images/llh-logo-animation.gif)
+
+
+      ![](/images/asset-3-2x.png)
+
+
+      ![](/images/screenshot-2025-07-09-at-9.00.17 pm.png)
+
+
+      ![](/images/llh-exports.png)
 ---

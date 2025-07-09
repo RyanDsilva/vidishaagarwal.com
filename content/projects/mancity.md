@@ -1,5 +1,5 @@
 ---
-index: 1
+index: 2
 name: Man City
 title: "MCFC: Entering USA Market Strategy"
 date: Pitched to MCFC via SVA MPS Branding

@@ -1,5 +1,5 @@
 ---
-index: 3
+index: 4
 name: PayPal
 title: "PayPal: Repositioning"
 date: Case Study for MPS Branding, SVA

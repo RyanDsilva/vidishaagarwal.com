@@ -1,5 +1,5 @@
 ---
-index: 2
+index: 4
 name: Smiletribe
 challenge: Creating the brand strategy and visual identity for a kids' clothing
   brand that champions the unique personality of each kid and seeks to encourage

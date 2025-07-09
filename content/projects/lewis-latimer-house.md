@@ -96,9 +96,13 @@ body_sections:
       see, think, and engage in new and unexpected ways.
   - type: section
     header: The Logo
-    content: The logo is a visual representation of Latimer’s profound belief in
+    content: >-
+      The logo is a visual representation of Latimer’s profound belief in
       fostering collaborative environments to generate innovation. Using
       ***kaleidoscopic fragments*** to form the L, a geometric sans-serif, and a
       Victorian-esque serif inspired by the home, the logo connects seemingly
       disparate elements to create a cohesive unit.
+
+
+      ![](/images/symbol-animation.gif)
 ---

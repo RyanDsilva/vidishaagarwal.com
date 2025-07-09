@@ -104,5 +104,5 @@ body_sections:
       disparate elements to create a cohesive unit.
 
 
-      ![](/images/symbol-animation.gif)
+      ![](/images/llh-logo-animation.gif)
 ---

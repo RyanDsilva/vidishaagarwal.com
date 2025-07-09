@@ -32,9 +32,17 @@ accordion_sections:
       and increase engagement and interaction within the space.
 body_sections:
   - type: section
+    header: Accolades
+    content: |-
+      
+
+      ![](/images/asset-9-2x.png)
+  - type: section
     header: Background
     content: >-
-      ![](/images/screenshot-2025-07-09-at-9.23.51 pm.png)
+      
+
+      ![]()
 
 
       Located in Flushing, Queens, the Lewis Latimer House Museum honors the life of Lewis Howard Latimer, a self-taught polymath who helped develop major 19th-century inventions, including Edison’s incandescent light bulb.
@@ -60,13 +68,7 @@ body_sections:
   - type: section
     header: The Lewis Latimer Mindset
     content: >-
-      Born to formerly enslaved parents, Latimer navigated immense challenges to
-      become not only a renowned inventor, but a poet, father, and community
-      leader. To capture his unique disposition, we introduced the “Lewis
-      Latimer Mindset”: a kaleidoscopic approach that fearlessly engages with
-      the world, regardless of its obstacles.
-
-
+      ![](/images/llm-animation.gif)
 
 
       ![](/images/screenshot-2025-07-04-at-10.31.39 pm.png)
@@ -97,40 +99,6 @@ body_sections:
       see, think, and engage in new and unexpected ways.
   - type: section
     header: Visual Identity System
-    content: >-
-      ***The logo*** is a visual representation of Latimer’s profound belief in
-      fostering collaborative environments to generate innovation. Using
-      ***kaleidoscopic fragments*** to form the L, a geometric sans-serif, and a
-      Victorian-esque serif inspired by the home, the logo connects seemingly
-      disparate elements to create a cohesive unit.
-
-
-      ![](/images/llh-logo-animation-1-.gif)
-
-
-      ![](/images/asset-3-2x.png)
-
-
-      ![](/images/screenshot-2025-07-09-at-9.00.17 pm.png)
-
-
-      ![](/images/llh-exports.png)
-
-
-      ![](/images/llh-export-2-09.png)
-
-
-
-
-      ![](/images/screenshot-2025-07-09-at-9.08.49 pm.png)
-
-
-      ![](/images/asset-6-2x.png)
-
-
-      ![](/images/asset-5-2x.png)
-
-
-      ![](/images/asset-7-2x.png)
+    content: "![](/images/screenshot-2025-07-09-at-9.23.51 pm.png)"
     image: /images/asset-8-2x.png
 ---

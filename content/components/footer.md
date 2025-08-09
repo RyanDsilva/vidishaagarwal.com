@@ -1,6 +1,9 @@
 ---
-title: Vidisha Agarwal - 2024
+title: Vidisha Agarwal
 links:
+  - type: links
+    display_text: Email
+    link: mailto:vidisha.agarwal212000@gmail.com
   - type: links
     display_text: Linkedin
     link: https://www.linkedin.com/in/vidisha212000/

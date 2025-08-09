@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Vidisha Agarwal",
   description:
-    "NYC-based, Brand  Strategist and Designer who seeks to infuse purpose into every aspect of designs.",
+    "Multifaceted brand thinker with a background in design who seeks to infuse meaning into every pixel designed.",
   referrer: "origin-when-cross-origin",
   keywords: ["design", "branding", "brand strategy"],
   authors: [{ name: "Vidisha Agarwal" }],
@@ -26,7 +26,7 @@ export const metadata = {
   openGraph: {
     title: "Vidisha Agarwal",
     description:
-      "NYC-based, Brand  Strategist and Designer who seeks to infuse purpose into every aspect of designs.",
+      "Multifaceted brand thinker with a background in design who seeks to infuse meaning into every pixel designed.",
     url: "https://vidishaagarwal.com",
     siteName: "Vidisha Agarwal",
     images: [

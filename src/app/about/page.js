@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function About() {
   const { headline, information, clients, image, cta, resume } = attributes;
   return (
-    <div className={`${dmsans.className} flex flex-col py-16 md:py-24 min-h-full`}>
+    <div className={`${dmsans.className} flex flex-col py-16 md:py-16 min-h-full`}>
       <section className="flex flex-col justify-between md:flex-row">
         <div className="flex-wrap flex-1 flex-grow">
           <h1 className="mb-8 text-5xl font-medium leading-[3.5rem] md:text-6xl font-main-black">

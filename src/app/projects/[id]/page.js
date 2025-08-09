@@ -82,7 +82,7 @@ export default async function Project({ params }) {
             <div className="mt-10" key={index}>
               <h3 className="mb-2 text-3xl font-medium">{section.header}</h3>
               <ReactMarkdown
-                className="w-full text-base font-normal leading-5 md:leading-6 md:text-xl"
+                className="w-full text-base font-light leading-5 md:leading-6 md:text-xl"
                 components={{
                   img: (props) => (
                     <Image

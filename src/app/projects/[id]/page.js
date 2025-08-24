@@ -80,22 +80,22 @@ export default async function Project({ params }) {
         {projectData.body_sections &&
           projectData.body_sections.map((section, index) => (
             <div className="mt-10" key={index}>
-              <h3 className="mb-2 text-3xl font-medium">{section.header}</h3>
+              <h3 className="w-full mb-2 text-3xl font-medium">{section.header}</h3>
               {section.content && Array.isArray(section.content) ? (
-                <div className="flex flex-col gap-4 md:flex-row md:flex-wrap">
+                <div className="flex flex-col gap-8 md:flex-row md:flex-wrap">
                   {section.content.map((block, blockIndex) => {
                     const getFlexBasis = (lwidth) => {
                       switch (lwidth) {
                         case "1/2":
-                          return "md:flex-[0_0_calc(50%-0.5rem)]";
+                          return "md:flex-[0_0_calc(50%-1rem)]";
                         case "1/3":
-                          return "md:flex-[0_0_calc(33.333%-0.667rem)]";
+                          return "md:flex-[0_0_calc(33.333%-1.334rem)]";
                         case "2/3":
-                          return "md:flex-[0_0_calc(66.667%-0.333rem)]";
+                          return "md:flex-[0_0_calc(66.667%-0.666rem)]";
                         case "1/4":
-                          return "md:flex-[0_0_calc(25%-0.75rem)]";
+                          return "md:flex-[0_0_calc(25%-1.5rem)]";
                         case "3/4":
-                          return "md:flex-[0_0_calc(75%-0.25rem)]";
+                          return "md:flex-[0_0_calc(75%-0.5rem)]";
                         case "full":
                           return "md:flex-[0_0_100%]";
                         default:

@@ -38,7 +38,7 @@ body_sections:
         content_data: >-
           Soccer is gaining popularity as a sport in The United States and will continue to do so as the US hosts the 2024 Copa America, 2025 Club World Cup, 2026 FIFA World Cup and  2028 Summer Olympics.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/mancity-successmeasure.png)
   - type: section
@@ -49,16 +49,15 @@ body_sections:
         content_data: >-
           Competing teams including Manchester United, Chelsea, Arsenal and
           Barcelona are looking to expand their fan bases in The U.S.
+
+
+          A lot of these teams are targeting audiences like younger people, sneaker-heads, fashion fiends and American football fans, to name a few. This is because these audiences have the most visibility.
       - type: content_block
         lwidth: "1/2"
         content_data: >-
           ![](/images/mancity-competitors.png)
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          A lot of these teams are targeting audiences like younger people, sneaker-heads, fashion fiends and American football fans, to name a few. This is because these audiences have the most visibility.
-      - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-4.29.43 pm.png)
   - type: section
@@ -75,7 +74,7 @@ body_sections:
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-4.36.36 pm.png)
   - type: section
-    header: "The Insight: The overlooked are the most loyal"
+    header: "The Insight:\nThe overlooked are the most loyal"
     content:
       - type: content_block
         lwidth: "1/2"
@@ -97,15 +96,16 @@ body_sections:
           Manchester City as a team knows what it is like to struggle and feel
           overlooked owing to a history of losing and living in Manchester United's
           shadow. Now that Man City is at the top, it is time to uplift others.
-      - type: content_block
-        lwidth: "1/2"
-        content_data: >-
+
+
           City Sees You is a platform that allows Manchester City to champion the unseen, unheard and overlooked audiences in America that will gain the team their undying loyalty and love.
+
+
+          To start with, the platform will target people with disabilities, mothers and immigrants
       - type: content_block
         lwidth: "1/2"
         content_data: >-
-          To start with, the platform will target people with disabilities, mothers and immigrants
-    image: /images/screenshot-2024-06-30-at-4.54.16 pm.png
+          ![](/images/screenshot-2024-06-30-at-4.54.16 pm.png)
   - type: section
     header: Activations
     content:
@@ -130,17 +130,17 @@ body_sections:
           deserve. It will show how ManCity can support its community through
           emotional storytelling and connecting to them through the team’s tenets.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenrecording2024-06-30at6.00.39pm-ezgif.com-video-to-gif-converter.gif)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           It will also feautre team members who resonate with these audiences and relate to their problems.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
-          !![](/images/screenshot-2024-06-30-at-6.04.07 pm.png)
+          ![](/images/screenshot-2024-06-30-at-6.04.07 pm.png)
       - type: content_block
         lwidth: "1/2"
         content_data: >-
@@ -148,11 +148,12 @@ body_sections:
       - type: content_block
         lwidth: "1/2"
         content_data: >-
-          ![](/images/screenshot-2024-07-28-at-4.40.27 pm.png)
-      - type: content_block
-        lwidth: "1/2"
-        content_data: >-
           This campaign will exist through various mediums including streaming platforms, social media platforms and out of home marketing such as billboards and digital displays. The City Sees You campaign will let audiences know Man City sees them, understands them, and is here for them, thus raising awareness for ManCity and acting as the first step in creating emotional connections with them.
+      - type: content_block
+        lwidth: "full"
+        content_data: >-
+          ![](/images/screenshot-2024-07-28-at-4.40.27 pm.png)
+
   - type: section
     header: "Cohort 1: The Disabled"
     content:
@@ -234,10 +235,10 @@ body_sections:
         lwidth: "1/2"
         content_data: >-
           The City Sees You platform will have Man City engage with **The
-          Overlooked.**\
+          Overlooked.**
           Because when people feel invisible, **being seen is all they want.**
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-6.41.20 pm.png)
     video: ""

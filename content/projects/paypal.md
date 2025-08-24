@@ -39,7 +39,7 @@ body_sections:
         content_data: >-
           Over the past two decades, PayPal has revolutionized digital payments, making transactions seamless and accessible worldwide. Operating in over 200 countries and offering transactions in more than 25 currencies, PayPal has transformed financial services and established a lasting legacy. However, recent fraud incidents have tarnished its reputation, causing doubt among loyal customers.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-7.20.06 pm.png)
       - type: content_block
@@ -100,19 +100,19 @@ body_sections:
     header: Positioning
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-07-28-at-6.56.53 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-07-28-at-6.57.02 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-07-28-at-6.57.09 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-07-28-at-5.38.29 pm.png)
       - type: content_block
@@ -123,7 +123,7 @@ body_sections:
     header: Tone & Style
     content:
       - type: content_block
-        lwidth: "full"
+        lwidth: "1/2"
         content_data: >-
           The creative materials should convey trust, security, versatility, and global reach. The tone should be empathetic, innovative, and inspiring. This tone must be consistently reflected in content as well as visuals.
   - type: section
@@ -154,11 +154,11 @@ body_sections:
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-7.59.32 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-7.59.48 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-8.00.01 pm.png)
     image: /images/screenrecording2024-06-30at9.40.31pm-ezgif.com-video-to-gif-converter.gif

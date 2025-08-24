@@ -33,18 +33,18 @@ body_sections:
     header: Background
     content:
       - type: content_block
-        lwidth: "full"
+        lwidth: "1/2"
         content_data: >-
           Amul, short for Anand Milk Union Limited, is India's leading manufacturer of milk and dairy products, specializing in butter, yogurt, ice cream, and cheese. Amul originated in 1946, in response to the exploitative practices of Polson Dairy (which procured milk from local farmers at low rates). The farmers formed their own co-operative. It was a symbol of protest. Amul is a cooperative brand managed by a cooperative body. Today, it is jointly owned by 36 lakh milk producers in Gujarat.
   - type: section
     header: Brand Perception
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           Analysing the brand through the sign, signifier, signified framework.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.13.48 pm.png)
       - type: content_block
@@ -63,19 +63,19 @@ body_sections:
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.26.47 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.30.56 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.31.44 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.31.56 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.33.02 pm.png)
       - type: content_block
@@ -83,7 +83,7 @@ body_sections:
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.36.09 pm.png)
   - type: section
-    header: "The Insight: In India, milk is more than just food."
+    header: "The Insight:\nIn India, milk is more than just food."
     content:
       - type: content_block
         lwidth: "full"
@@ -109,11 +109,11 @@ body_sections:
         content_data: >-
           ![](/images/screenshot-2024-07-28-at-5.27.00 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           Although some Indian brands promote products that feature the ingredient or incorporate the word "milk" into their product offering, they have been slow to adopt milk as a main ingredient. This leaves white space to capture this market and introduce a product that connects Indian skincare with this deeply rooted tradition.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-10.46.45 pm.png)
       - type: content_block
@@ -131,15 +131,15 @@ body_sections:
         lwidth: "1/2"
         content_data: >-
           The brand extension must follow suit. Hence, a simple and easily accessible name that is for everybody - Amul Body. The brand will launch three products with the goodness of Milk:
-      - type: content_block
-        lwidth: "full"
-        content_data: >-
+
           1. The Moisturizing face cream
 
           2. Hydrating body butter
 
           3. Soothing cleansing milk
-
+      - type: content_block
+        lwidth: "full"
+        content_data: >-
           These names are simple with a touch of quirk, like Amul's brand personality. They further establish the goodness of milk and paint a picture of the different textures of milk products that are desirable for the skin.
   - type: section
     header: The Products
@@ -149,17 +149,17 @@ body_sections:
         content_data: >-
           Building upon the iconic mascot, The Amul Girl will be highlighted on the packaging, further building the brand equity.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-11.34.35 pm.png)
+      - type: content_block
+        lwidth: "full"
+        content_data: >-
+          ![](/images/screenshot-2024-06-30-at-11.34.20 pm.png)
       - type: content_block
         lwidth: "1/2"
         content_data: >-
           The products will be written in English on the front and Hindi on the back to ensure that the information is accessible to all. (This is borrowing from Amul's current dairy packaging)
-      - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-11.34.20 pm.png)
       - type: content_block
         lwidth: "full"
         content_data: >-
@@ -174,13 +174,9 @@ body_sections:
       - type: content_block
         lwidth: "1/2"
         content_data: >-
-          Despite the lack of evidence, many people in India are impacted by the dark skin stigma, and seek remedies to change their bodies to conform to these outdated beauty norms. Amul Body will fight this stigma.
+          Despite the lack of evidence, many people in India are impacted by the dark skin stigma, and seek remedies to change their bodies to conform to these outdated beauty norms. Amul Body will fight this stigma. To counteract the colorism associated with milk-based products and confront the stigma around dark skin head-on, Amul will emulate the Dove "Real Beauty" campaign for our Amul Body launch to show that all skin tones are beautiful.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          To counteract the colorism associated with milk-based products and confront the stigma around dark skin head-on, Amul will emulate the Dove "Real Beauty" campaign for our Amul Body launch to show that all skin tones are beautiful.
-      - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2024-06-30-at-11.40.14 pm.png)
 gallery: []

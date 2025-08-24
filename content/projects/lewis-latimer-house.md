@@ -45,42 +45,40 @@ body_sections:
         lwidth: "1/2"
         content_data: >-
           Located in Flushing, Queens, the Lewis Latimer House Museum honors the life of Lewis Howard Latimer, a self-taught polymath who helped develop major 19th-century inventions, including Edison's incandescent light bulb.
+
+
+          For years, the brand honored Latimer's life as the inspiration for a noble mission: helping close the gap in equitable patenting for minority innovators. ***However, this limited its relevance among a broader audience.***
       - type: content_block
         lwidth: "1/2"
         content_data: >-
           ![](/images/asset-1.png)
-      - type: content_block
-        lwidth: "full"
-        content_data: >-
-          For years, the brand honored Latimer's life as the inspiration for a noble mission: helping close the gap in equitable patenting for minority innovators. ***However, this limited its relevance among a broader audience.***
   - type: section
     header: Discovery
     content:
       - type: content_block
-        lwidth: "full"
+        lwidth: "1/2"
         content_data: >-
           Despite his circumstances, Latimer demonstrated immense bravery and courage - qualities that will always be needed in society, no matter how much progress has been made socially or technologically.
-      - type: content_block
-        lwidth: "full"
-        content_data: >-
+
+
           ***Lewis Latimer's most powerful gift wasn't his inventions; it was his fearless approach to life and learning.***
   - type: section
     header: The Lewis Latimer Mindset
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/llm-animation.gif)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2025-07-04-at-10.31.39 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           This offered a powerful new anchor to ***evolve the brand*** and its operational model.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2025-07-04-at-10.37.11 pm.png)
   - type: section
@@ -90,18 +88,16 @@ body_sections:
         lwidth: "1/2"
         content_data: >-
           To reposition the brand from a ***static museum*** to a ***dynamic "Open House"*** that creates a space where Latimer's mindset comes to life.
-      - type: content_block
-        lwidth: "1/2"
-        content_data: >-
+
+
           The House empowers underrepresented thinkers by providing a thinking playground to nurture their own Lewis Latimer Mindset. A dynamic space of exploration, experimentation, and collaboration.
+
+
+          In turn, the House expands its lens beyond equitable patenting, ***granting it the flexibility to increase its impact*** through active engagement.
       - type: content_block
         lwidth: "1/2"
         content_data: >-
           ![](/images/screenshot-2025-07-04-at-10.44.45 pm.png)
-      - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          In turn, the House expands its lens beyond equitable patenting, ***granting it the flexibility to increase its impact*** through active engagement.
   - type: section
     header: Visual Expression
     content:
@@ -110,7 +106,7 @@ body_sections:
         content_data: >-
           The visual identity reflects Latimer's ***kaleidoscopic philosophy,*** embodying a fluid and ever-evolving perspective that invites people to see, think, and engage in new and unexpected ways.
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/screenshot-2025-07-09-at-9.00.17 pm.png)
   - type: section
@@ -125,11 +121,11 @@ body_sections:
         content_data: >-
           ![](/images/asset-3-2x.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/llh-logo-animation-1-.gif)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/llh-exports.png)
       - type: content_block
@@ -149,7 +145,7 @@ body_sections:
         content_data: >-
           ![](/images/screenshot-2025-07-09-at-9.08.49 pm.png)
       - type: content_block
-        lwidth: "1/2"
+        lwidth: "full"
         content_data: >-
           ![](/images/asset-7-2x.png)
       - type: content_block

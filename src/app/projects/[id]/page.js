@@ -81,22 +81,73 @@ export default async function Project({ params }) {
           projectData.body_sections.map((section, index) => (
             <div className="mt-10" key={index}>
               <h3 className="mb-2 text-3xl font-medium">{section.header}</h3>
-              <ReactMarkdown
-                className="w-full text-base font-light leading-5 md:leading-6 md:text-xl"
-                components={{
-                  img: (props) => (
-                    <Image
-                      className="w-full rounded-lg"
-                      src={props.src}
-                      alt={props.alt}
-                      width={1200}
-                      height={400}
-                    />
-                  ),
-                }}
-              >
-                {section.content}
-              </ReactMarkdown>
+              {section.content && Array.isArray(section.content) ? (
+                <div className="flex flex-col gap-4 md:flex-row md:flex-wrap">
+                  {section.content.map((block, blockIndex) => {
+                    const getFlexBasis = (lwidth) => {
+                      switch (lwidth) {
+                        case "1/2":
+                          return "md:flex-[0_0_calc(50%-0.5rem)]";
+                        case "1/3":
+                          return "md:flex-[0_0_calc(33.333%-0.667rem)]";
+                        case "2/3":
+                          return "md:flex-[0_0_calc(66.667%-0.333rem)]";
+                        case "1/4":
+                          return "md:flex-[0_0_calc(25%-0.75rem)]";
+                        case "3/4":
+                          return "md:flex-[0_0_calc(75%-0.25rem)]";
+                        case "full":
+                          return "md:flex-[0_0_100%]";
+                        default:
+                          return "md:flex-[0_0_100%]";
+                      }
+                    };
+
+                    return (
+                      <div
+                        key={blockIndex}
+                        className={`w-full ${getFlexBasis(block.lwidth)}`}
+                      >
+                        <ReactMarkdown
+                          className="text-base font-light leading-5 md:leading-6 md:text-xl"
+                          components={{
+                            img: (props) => (
+                              <Image
+                                className="w-full rounded-lg"
+                                src={props.src}
+                                alt={props.alt}
+                                width={1200}
+                                height={400}
+                              />
+                            ),
+                          }}
+                        >
+                          {block.content_data}
+                        </ReactMarkdown>
+                      </div>
+                    );
+                  })}
+                </div>
+              ) : (
+                /* Fallback for old format */
+                <ReactMarkdown
+                  className="w-full text-base font-light leading-5 md:leading-6 md:text-xl"
+                  components={{
+                    img: (props) => (
+                      <Image
+                        className="w-full rounded-lg"
+                        src={props.src}
+                        alt={props.alt}
+                        width={1200}
+                        height={400}
+                      />
+                    ),
+                  }}
+                >
+                  {section.content}
+                </ReactMarkdown>
+              )}
+
               <Conditional showWhen={section.image}>
                 <Image
                   className="w-full mt-4 mb-8"

@@ -6,10 +6,6 @@ const dmsans = DM_Sans({ subsets: ["latin"] });
 
 const categories = ["All", "Design", "Branding", "Strategy", "Passion Projects"];
 
-// async function selectCategory() {
-//   console.log("test");
-// }
-
 async function fetchAllProjects() {
   const projects = getAllItems("projects");
   projects.sort((a, b) => a.data.index - b.data.index);

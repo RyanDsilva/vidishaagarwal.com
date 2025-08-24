@@ -147,7 +147,22 @@ collections:
             summary: "{{fields.header}}"
             fields:
               - { name: header, label: Header, widget: string }
-              - { name: content, label: Content, widget: markdown }
+              - name: content
+                label: Content
+                widget: list
+                types:
+                  - name: content_block
+                    label: Content Block
+                    widget: object
+                    summary: "{{fields.content}}"
+                    fields:
+                      - { name: content_data, label: Content Data, widget: markdown }
+                      - {
+                          name: lwidth,
+                          label: Layout Width,
+                          widget: string,
+                          default: "full",
+                        }
               - { name: image, label: Image, widget: image, required: false }
               - { name: video, label: Video ID, widget: string, required: false }
       - name: gallery

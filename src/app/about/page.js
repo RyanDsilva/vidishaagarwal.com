@@ -1,7 +1,9 @@
+"use client";
 import { DM_Sans, Inter } from "next/font/google";
 import { attributes } from "../../../content/about.md";
 import Image from "next/image";
 import { ArrowRight } from "lucide-react";
+import { sendGAEvent } from "@next/third-parties/google";
 
 const dmsans = DM_Sans({ subsets: ["latin"] });
 const inter = Inter({ subsets: ["latin"] });
@@ -23,13 +25,16 @@ export default function About() {
           >
             <div className="flex flex-row">
               <h3 className="font-medium underline underline-offset-4">Clients</h3>
-              <p className="w-full ml-24 font-normal md:w-2/5">{clients}</p>
+              <p className="ml-24 w-full font-normal md:w-2/5">{clients}</p>
             </div>
             <div className="mt-6 font-medium underline underline-offset-4">
               <a
                 href="/VidishaAgarwal.pdf"
                 target="_blank"
                 type="application/octet-stream"
+                onClick={() =>
+                  sendGAEvent("event", "buttonClicked", { value: "resume" })
+                }
                 download
               >
                 {resume.resume_text}
@@ -47,7 +52,7 @@ export default function About() {
           ></Image>
         </div>
       </section>
-      {/* <hr className="mt-36 md:mt-72 bg-main-black h-0.5"></hr>
+      {/* <hr className="mt-36 h-0.5 md:mt-72 bg-main-black"></hr>
       <section className="flex flex-col justify-between mt-16 md:flex-row font-main-black">
         <h3 className={`${dmsans.className} text-xl md:text-2xl`}>
           {cta.display_text} <ArrowRight className="inline" size={24} />

@@ -17,4 +17,25 @@ cta:
   display_text: Let's chat about branding
   contact_text: work@vidishaagarwal.com
   contact_link: mailto:work@vidishaagarwal.com
+testimonials:
+  - type: testimonial
+    name: "Mark Kingsley"
+    title: "Ogilvy >> Landor >> COLLINS >> Malcontent"
+    date: "August 21st, 2024"
+    avatar: "https://media.licdn.com/dms/image/v2/C5603AQFiAomr11t3VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516353085843?e=1758758400&v=beta&t=KAM9u7YEyf6f_rlZytDkNqwHU6d6eRxrjv5G6M6l4Jc"
+    content: >-
+      Vidisha is all the good things. And if I list in alphabetical order... she's diligent, intelligent, talented, tasteful, thoughtful... you get the idea. And she constantly demonstrates the ability to make larger connections. It was a great pleasure meeting and working with her.
+  - type: testimonial
+    name: "Kedaar Naik"
+    title: "Founder & CEO at The Turtle Story"
+    date: "September 9th, 2024"
+    avatar: "https://media.licdn.com/dms/image/v2/D4D03AQGaivdQrwHrgA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721572302211?e=1758758400&v=beta&t=sx6hCCfA3SlmWeK5jJ9taVnwyn_mN1v32hsrS82KnLY"
+    content: >-
+      Vidisha has been one of the most talented designers we had at The Turtle Story. Her passion and energy were contagious, uplifting the entire team and driving success in every project she was involved in. Vidisha's enthusiasm not only inspired her colleagues but also had a direct and positive impact on the outcomes we achieved.
+      
+
+      Vidisha's contributions to key projects like the IIJS exhibition, Smile Tribe, and TSDC have been invaluable. For a young designer with just a couple of years of experience, Vidisha demonstrates remarkable maturity in her thought process. Her ability to grasp complex design requirements is truly commendable. What really sets her apart, though, is her calm and composed approach towards any challenging situation—always with a smile. It's no surprise that she quickly became a favorite amongst our clients.
+      
+
+      Vidisha truly is an asset to any team, consistently bringing her fine blend of creativity, professionalism, and a client-focused approach.
 ---

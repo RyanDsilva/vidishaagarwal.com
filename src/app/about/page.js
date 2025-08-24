@@ -2,14 +2,14 @@
 import { DM_Sans, Inter } from "next/font/google";
 import { attributes } from "../../../content/about.md";
 import Image from "next/image";
-import { ArrowRight } from "lucide-react";
+import ReactMarkdown from "react-markdown";
 import { sendGAEvent } from "@next/third-parties/google";
 
 const dmsans = DM_Sans({ subsets: ["latin"] });
 const inter = Inter({ subsets: ["latin"] });
 
 export default function About() {
-  const { headline, information, clients, image, cta, resume } = attributes;
+  const { headline, information, clients, image, resume, testimonials = [] } = attributes;
   return (
     <div className={`${dmsans.className} flex flex-col py-16 md:py-16 min-h-full`}>
       <section className="flex flex-col justify-between md:flex-row">
@@ -17,7 +17,7 @@ export default function About() {
           <h1 className="mb-8 text-5xl font-medium leading-[3.5rem] md:text-6xl font-main-black">
             {headline}
           </h1>
-          <p className="mb-8 text-xl font-light font-main-gray md:text-2xl md:pr-12">
+          <p className="mb-8 text-xl font-light font-main-gray md:text-xl md:pr-12">
             {information}
           </p>
           <section
@@ -52,20 +52,40 @@ export default function About() {
           ></Image>
         </div>
       </section>
-      {/* <hr className="mt-36 h-0.5 md:mt-72 bg-main-black"></hr>
-      <section className="flex flex-col justify-between mt-16 md:flex-row font-main-black">
-        <h3 className={`${dmsans.className} text-xl md:text-2xl`}>
-          {cta.display_text} <ArrowRight className="inline" size={24} />
-        </h3>
-        <div>
-          <a
-            href={cta.contact_link}
-            className={`${dmsans.className} block text-xl md:text-2xl`}
-          >
-            {cta.contact_text}
-          </a>
+      <hr className="my-16 md:my-20 bg-main-black h-0.5"></hr>
+      <section className="-mb-12">
+        <h2 className="mb-10 text-5xl font-medium leading-[3.5rem] md:text-6xl font-main-black">
+          Don&apos;t take my word for it.
+        </h2>
+        <div className="space-y-12">
+          {testimonials.map((t) => (
+            <article key={`${t.name}-${t.date}`} className="flex flex-col md:grid md:grid-cols-[56px_1fr_auto] md:gap-x-4">
+              <div className="flex items-start md:contents">
+                <Image
+                  src={t.avatar}
+                  alt={`${t.name} avatar`}
+                  width={56}
+                  height={56}
+                  className="rounded-full mr-4 md:mr-0 md:col-start-1 md:row-start-1"
+                />
+                <div className="md:col-start-2 md:row-start-1 md:pr-24">
+                  <h3 className="text-2xl md:text-3xl font-medium leading-tight font-main-black">{t.name}</h3>
+                  <p className="italic font-main-gray">{t.title}</p>
+                  <div className="mt-1 md:mt-1">
+                    <ReactMarkdown 
+                      className="text-lg md:text-xl font-main-black">
+                      {t.content}
+                    </ReactMarkdown>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-2 md:mt-0 md:col-start-3 md:row-start-1">
+                <p className="font-main-gray">{t.date}</p>
+              </div>
+            </article>
+          ))}
         </div>
-      </section> */}
+      </section>
     </div>
   );
 }

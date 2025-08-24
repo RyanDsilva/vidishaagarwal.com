@@ -7,7 +7,7 @@ challenge: Creating a pitch for a marketing platform for MCFC to garner a loyal
 solution: Brand Audit, Competitive analysis, Audience research, Brand
   Activations & Rollout Plan
 image: /images/mcfc-cover.jpg
-image_text: ""
+image_text: "Manchester City Football Club"
 link:
   link_text: View Case Study
   link: /projects/mancity

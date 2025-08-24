@@ -1,8 +1,7 @@
-import { DM_Sans } from "next/font/google";
+import { dmsans } from "@/app/fonts";
 import { getAllItems } from "@/util";
 import ProjectGalleryTile from "@/components/projectGalleryTile";
 
-const dmsans = DM_Sans({ subsets: ["latin"] });
 
 async function fetchAllProjects() {
   const projects = getAllItems("projects");

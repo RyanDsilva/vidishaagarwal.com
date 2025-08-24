@@ -45,7 +45,9 @@ export default function ImageGallery({ galleryImages = [] }) {
           <Image
             src={image}
             width={1080}
-            height={720}
+            height={0}
+            sizes="100vw"
+            style={{ height: "auto" }}
             alt="Gallery Images"
             className="w-full object-fill hover:border hover:border-[#60606020] rounded-md"
             onClick={() => handleOnClicked(image, index)}

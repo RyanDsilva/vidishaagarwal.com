@@ -6,6 +6,7 @@ challenge: To evolve the 'Lewis Latimer House Museum' brand from a standard
 solution: Brand Audit, Cultural Audit, Positioning, Brand Architecture, Verbal
   Identity, Visual Identity & Web Design
 image: /images/llh-export.png
+image_text: "Lewis Latimer House"
 link:
   link_text: View Case Study
   link: /projects/lewis-latimer-house

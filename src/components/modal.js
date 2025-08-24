@@ -29,7 +29,7 @@ export default function ModalComponent({ selectedImage, onClose, onNext, onPrev 
               src={selectedImage}
               alt="Selected Image"
               fill={true}
-              quality={100}
+              quality={85}
               className="object-contain rounded-lg"
             />
             <button

@@ -1,4 +1,4 @@
-import { DM_Sans } from "next/font/google";
+import { dmsans } from "./fonts";
 import { attributes } from "../../content/home.md";
 import { LucideArrowDown } from "lucide-react";
 import ProjectTile from "../components/projectTile";
@@ -6,7 +6,6 @@ import { getAllItems } from "@/util";
 import Link from "next/link";
 import Animated from "@/components/animated";
 
-const dmsans = DM_Sans({ subsets: ["latin"] });
 
 async function fetchFeaturedProjects() {
   const featured = getAllItems("featured");

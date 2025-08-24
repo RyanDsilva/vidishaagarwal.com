@@ -1,12 +1,10 @@
-"use client";
-import { DM_Sans, Inter } from "next/font/google";
+import { dmsans, inter } from "@/app/fonts";
 import { attributes } from "../../../content/about.md";
 import Image from "next/image";
 import ReactMarkdown from "react-markdown";
-import { sendGAEvent } from "@next/third-parties/google";
+import ResumeLink from "./ResumeLink";
 
-const dmsans = DM_Sans({ subsets: ["latin"] });
-const inter = Inter({ subsets: ["latin"] });
+// Using imported font instances directly
 
 export default function About() {
   const { headline, information, clients, image, resume, testimonials = [] } = attributes;
@@ -28,17 +26,7 @@ export default function About() {
               <p className="ml-24 w-full font-normal md:w-2/5">{clients}</p>
             </div>
             <div className="mt-6 font-medium underline underline-offset-4">
-              <a
-                href="/VidishaAgarwal.pdf"
-                target="_blank"
-                type="application/octet-stream"
-                onClick={() =>
-                  sendGAEvent("event", "buttonClicked", { value: "resume" })
-                }
-                download
-              >
-                {resume.resume_text}
-              </a>
+              <ResumeLink href="/VidishaAgarwal.pdf" text={resume.resume_text} />
             </div>
           </section>
         </div>

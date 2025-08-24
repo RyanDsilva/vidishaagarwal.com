@@ -1,9 +1,8 @@
-import { Inter } from "next/font/google";
+import { inter } from "@/app/fonts";
 import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
 import { Conditional } from "./conditional";
 
-const inter = Inter({ subsets: ["latin"] });
 
 export default function ProjectTile({
   projectName,
@@ -48,6 +47,7 @@ export default function ProjectTile({
               height={100}
               src={imageSrc}
               alt={imageAltText}
+              sizes="(max-width: 1024px) 100vw, 60vw"
               className="w-full h-48 rounded-lg object-center object-cover md:h-96 xl:h-[40rem] xl:mx-48"
             ></Image>
           </Conditional>

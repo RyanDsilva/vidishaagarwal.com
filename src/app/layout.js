@@ -1,12 +1,10 @@
-import { Inter } from "next/font/google";
 import "./globals.css";
+import { inter } from "./fonts";
+import Script from "next/script";
 import Navbar from "../components/navbar";
 import Footer from "../components/footer";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import Template from "./template";
-import Script from "next/script";
-
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Vidisha Agarwal",

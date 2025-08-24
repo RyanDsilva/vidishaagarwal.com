@@ -3,13 +3,11 @@ import { Project404 } from "@/components/project404";
 import { getAllItems } from "@/util";
 import { Minus, Plus } from "lucide-react";
 import Image from "next/image";
-import { DM_Sans, Inter } from "next/font/google";
+import { dmsans, inter } from "@/app/fonts";
 import ImageGallery from "@/components/gallery";
 import ReactMarkdown from "react-markdown";
 import { YouTubeEmbed } from "@next/third-parties/google";
 
-const dmsans = DM_Sans({ subsets: ["latin"] });
-const inter = Inter({ subsets: ["latin"] });
 
 async function fetchProject(id) {
   const projects = getAllItems("projects");
@@ -40,6 +38,7 @@ export default async function Project({ params }) {
           alt={`${projectData.title}`}
           width={1200}
           height={400}
+          sizes="100vw"
           priority={true}
           src={`${projectData.cover_image}`}
         ></Image>
@@ -117,7 +116,9 @@ export default async function Project({ params }) {
                                 src={props.src}
                                 alt={props.alt}
                                 width={1200}
-                                height={400}
+                                height={0}
+                                sizes="100vw"
+                                style={{ height: "auto" }}
                               />
                             ),
                           }}
@@ -139,7 +140,9 @@ export default async function Project({ params }) {
                         src={props.src}
                         alt={props.alt}
                         width={1200}
-                        height={400}
+                        height={0}
+                        sizes="100vw"
+                        style={{ height: "auto" }}
                       />
                     ),
                   }}
@@ -153,8 +156,10 @@ export default async function Project({ params }) {
                   className="w-full mt-4 mb-8"
                   alt={`${section.header}`}
                   width={1000}
-                  height={400}
-                  quality={100}
+                  height={0}
+                  sizes="100vw"
+                  quality={85}
+                  style={{ height: "auto" }}
                   src={`${section.image}`}
                 ></Image>
               </Conditional>
@@ -171,9 +176,7 @@ export default async function Project({ params }) {
             </div>
           ))}
       </section>
-      <Conditional
-        showWhen={`${projectData.gallery && projectData.gallery.length} > 1`}
-      >
+      <Conditional showWhen={(projectData.gallery?.length ?? 0) > 1}>
         <section className="mb-12">
           <ImageGallery galleryImages={projectData.gallery}></ImageGallery>
         </section>

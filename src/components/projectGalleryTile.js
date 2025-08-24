@@ -1,8 +1,7 @@
-import { Inter } from "next/font/google";
+import { inter } from "@/app/fonts";
 import Image from "next/image";
 import Link from "next/link";
 
-const inter = Inter({ subsets: ["latin"] });
 
 export default function ProjectGalleryTile({ id, projectName, category, imageSrc }) {
   return (
@@ -20,6 +19,7 @@ export default function ProjectGalleryTile({ id, projectName, category, imageSrc
             height={100}
             src={imageSrc}
             alt={projectName}
+            sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 25vw"
             className="object-cover object-center w-full rounded-lg h-54 md:h-64 xl:h-64"
           ></Image>
         </div>

@@ -1,5 +1,4 @@
-import { DM_Sans } from "next/font/google";
-const dmsans = DM_Sans({ subsets: ["latin"] });
+import { dmsans } from "@/app/fonts";
 
 import { attributes } from "../../content/components/footer.md";
 import Link from "next/link";

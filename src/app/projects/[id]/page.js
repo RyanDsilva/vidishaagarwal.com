@@ -44,10 +44,10 @@ export default async function Project({ params }) {
           src={`${projectData.cover_image}`}
         ></Image>
       </section>
-      <section className="flex flex-col justify-between mb-6 md:md-12 md:flex-row">
-        <div className="w-full pr-4 md:w-1/2">
+      <section className="flex flex-col justify-between gap-8 mb-6 md:md-12 md:flex-row">
+        <div className="w-full md:w-1/2">
           <h1 className="text-4xl font-semibold md:text-6xl">{projectData.title}</h1>
-          <p className="mt-1 mb-6 text-sm md:text-xl font-main-gray">
+          <p className="mt-6 mb-6 text-lg leading-6 font-main-gray md:text-xl">
             {projectData.date}
           </p>
         </div>
@@ -55,8 +55,8 @@ export default async function Project({ params }) {
           {projectData.accordion_sections &&
             projectData.accordion_sections.map((section, index) => (
               <details key={index} className="group" open={index == 0}>
-                <summary className="flex items-center justify-between mb-2 cursor-pointer md:mb-3 group-active">
-                  <h3 className="text-xl font-medium md:text-3xl">
+                <summary className="flex items-center justify-between mb-1 cursor-pointer md:mb-3 group-active">
+                  <h3 className="mb-2 text-xl font-medium md:text-3xl">
                     {section.header}
                   </h3>
                   <Plus
@@ -68,7 +68,7 @@ export default async function Project({ params }) {
                     size={24}
                   ></Minus>
                 </summary>
-                <p className="mb-4 -mt-2 text-xl font-light leading-5 md:mr-12 md:leading-6 md:-mt-3 md:text-xl">
+                <p className="mb-4 -mt-2 text-lg font-normal leading-6 md:mr-12 md:leading-6 md:-mt-3 md:text-xl">
                   {section.content}
                 </p>
               </details>
@@ -109,7 +109,7 @@ export default async function Project({ params }) {
                         className={`w-full ${getFlexBasis(block.lwidth)}`}
                       >
                         <ReactMarkdown
-                          className="text-base font-light leading-5 md:leading-6 md:text-xl"
+                          className="text-lg font-normal leading-6 md:leading-6 md:text-xl"
                           components={{
                             img: (props) => (
                               <Image

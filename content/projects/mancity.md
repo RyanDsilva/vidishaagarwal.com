@@ -1,7 +1,7 @@
 ---
 index: 2
 name: Man City
-title: "MCFC: Entering USA Market Strategy"
+title: "Manchester City FC: Entering USA Market Strategy"
 date: Pitched to MCFC via SVA MPS Branding
 category: Strategy
 cover_image: /images/mcfc-cover.jpg

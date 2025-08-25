@@ -5,9 +5,6 @@ links:
     display_text: Work
     link: /projects
   - type: links
-    display_text: Play
-    link: /play
-  - type: links
     display_text: About
     link: /about
 ---

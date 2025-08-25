@@ -184,3 +184,25 @@ collections:
         required: false
         widget: list
         field: { label: Image, name: image, widget: image }
+  - name: "play"
+    label: "Play Cards"
+    folder: "content/play"
+    create: true
+    identifier_field: title
+    sortable_fields: ["index"]
+    fields:
+      - { label: "Index", name: "index", widget: "number", required: false }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Alt Text", name: "alt", widget: "string", required: false }
+      - { label: "Link", name: "href", widget: "string", required: false }
+      - { label: "Caption (shows on hover)", name: "caption", widget: "text", required: false }
+      - { label: "Show Tape?", name: "show_tape", widget: "boolean", default: false, required: false }
+      - { label: "Tape Edge", name: "tape_edge", widget: "select", options: ["top","right","bottom","left"], default: "top", required: false }
+      - { label: "Tape Rotate (deg)", name: "tape_rotate", widget: "number", value_type: "int", default: 0, required: false }
+      - { label: "Size", name: "size", widget: "select", options: ["xs","sm","md","lg","xl"], default: "md" }
+      - { label: "Aspect Ratio", name: "ratio", widget: "select", options: ["square","portrait","landscape"], default: "portrait" }
+      - { label: "Rotate (deg)", name: "rotate", widget: "number", value_type: "int", default: 0, required: false }
+      - { label: "X Position (px)", name: "x", widget: "number", value_type: "int", default: 0 }
+      - { label: "Y Position (px)", name: "y", widget: "number", value_type: "int", default: 0 }
+      - { label: "Z-Index", name: "z", widget: "number", value_type: "int", default: 1, required: false }

@@ -41,6 +41,61 @@ body {
   -webkit-backdrop-filter: blur(5px);
 }
 
+/* Moodboard utilities */
+.moodboard-grid {
+  position: relative;
+}
+
+.moodboard-card {
+  filter: drop-shadow(0 8px 16px rgba(0,0,0,0.12));
+}
+
+.moodboard-card .note {
+  position: absolute;
+  right: -2rem;
+  top: 50%;
+  transform: rotate(-90deg) translateY(-50%);
+  transform-origin: right top;
+}
+
+/* Hover overlay caption */
+.caption-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 1.75rem;
+  color: #f3f3f3;
+  background: rgba(0,0,0,0.75);
+  opacity: 0;
+  transition: opacity 180ms ease-out;
+  z-index: 15;
+  pointer-events: none;
+}
+.moodboard-card:hover .caption-overlay { opacity: 1; }
+
+/* Subtle hover overlap: tiny nudge */
+.moodboard-card { transition: transform 200ms ease-out, filter 200ms ease-out; }
+.moodboard-card:hover { transform: translate(3px, -3px); filter: drop-shadow(0 10px 18px rgba(0,0,0,0.14)); }
+
+.tape {
+  position: absolute;
+  width: 60%;
+  height: 24px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.3), rgba(255,255,255,0.1)), #f3d067;
+  opacity: 0.9;
+  border-radius: 2px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15) inset;
+  z-index: 20;
+  pointer-events: none;
+}
+
+.tape-top { top: -10px; left: 50%; transform: translateX(-50%); }
+.tape-bottom { bottom: -10px; left: 50%; transform: translateX(-50%); }
+.tape-left { left: -10px; top: 50%; transform: translateY(-50%); width: 18px; height: 60%; }
+.tape-right { right: -10px; top: 50%; transform: translateY(-50%); width: 18px; height: 60%; }
+
 ol {
   list-style: decimal;
   padding-left: 2rem;

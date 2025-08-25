@@ -5,8 +5,8 @@ image: /images/play3.png
 alt: drawing
 href: /#
 caption: ""
-show_tape: false
-tape_edge: right
+show_tape: true
+tape_edge: top
 tape_rotate: 0
 size: md
 ratio: square

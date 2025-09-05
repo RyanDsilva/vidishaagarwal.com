@@ -57,4 +57,18 @@ testimonials:
     avatar: https://media.licdn.com/dms/image/v2/C4D03AQFofzRL0sYVGQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1655118276038?e=1759968000&v=beta&t=YNwMkDZCnQlKXsY33KSN_AcwQiDouUb_-_uqhcoqLQQ
     title: Founder & CEO at The Skin Diet Company
     date: August 2024
+  - type: testimonial
+    content: >-
+      I had the pleasure of working with Vidisha on many projects, but the one
+      that stands out was the JCK event in Las Vegas. From the outset, it was
+      clear that she possessed a unique blend of vision and passion, which set
+      her apart from the rest.
+
+      Vidisha has a great eye for detail and coordinates exceptionally well with vendors. During the JCK, Las Vegas event, her ability to truly grasp the space and understand the intricacies of the project contributed immensely in making it a smooth experience . She didn’t just look at the big picture; she saw the details, ensuring that everything aligned perfectly.
+
+      Vidisha brings passion, vision, and a deep understanding of her work to the table, making her an invaluable asset to any team. I highly recommend her to anyone seeking someone who can both lead and contribute meaningfully to any project.
+    avatar: https://media.licdn.com/dms/image/v2/C5603AQG8pRLJMh0kzQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517745188034?e=1759968000&v=beta&t=vjFaJkami1G1jy2Uv4ZsKUSLg1p_se61LwieHe4x7Yw
+    date: August 2024
+    title: Head - Space design, The Turtle story
+    name: Ar. Ketaki Paunikar
 ---

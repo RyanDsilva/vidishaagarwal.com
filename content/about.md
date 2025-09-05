@@ -98,4 +98,30 @@ testimonials:
       again. She would take one thing at a time giving each problem its own
       process, yet multi-task her way to perfection for a quick turnaround. She
       is full of passion, creativity and love for what she does the best!
+  - type: testimonial
+    name: Tom Guarriello
+    title: Psychologist. Founding Faculty, Masters in Branding Program SVA. Co-host
+      of BrandBox.
+    date: August 2024
+    avatar: https://media.licdn.com/dms/image/v2/C4E03AQGxYTibiMFYHQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1593551416265?e=1759968000&v=beta&t=SSgrrbXCGO_K8-bHzyFsy0DV8EOE09Tfw8IZTjJbtx0
+    content: >-
+      Vidisha Agarwal entered our Masters in Branding program at the School of
+      Visual Arts in September, 2023. I teach a course called, “The Meaning of
+      Branded Objects” in the program’s first semester, so I get to see all our
+      students in their very earliest days of classes. From the first week,
+      Vidisha’s work showed a clear thinker’s comprehension of reading
+      assignments and their relevance for the overall class objective to
+      observe, reflect on, and understand human behavior. 
+
+      The class requires students to make weekly posts about the most interesting brand activity (ad, video, social post) they’ve come upon in the last week. Vidisha’s posts were incisive and showed her semester-long growth in developing a frame of reference on brand psychology. The class’ main project calls on students to explore their own relationships with branded objects. Vidisha’s work in the weekly and long-term assignments was exemplary. I graded her performance as Exceeding Expectations for the semester.
+
+      Second semester, Vidisha volunteered to be part of our annual Honors project. This is an elective course (held on Saturdays, in addition to their five-day-per-week classes) that students apply for based on their interest in the particular project. Honors projects entail working on a re-branding initiative with an actual client company or organization. 
+
+      This year, that client was the \[Lewis Latimer House](https://www.lewislatimerhouse.org/about), a Flushing, Queens museum dedicated to raising public awareness of Latimer’s remarkable life and achievements. Latimer was an African-American son of enslaved parents who went on to extraordinary accomplishments, including being awarded several patents. Among his other inventions, he is credited with perfecting the filament element in Edison’s first lightbulb. 
+
+      Vidisha’s application essay for the Honors project highlighted both her strategic and design talents as well as her passion for calling attention to the accomplishments of a person of color. Vidisha played a key role in developing the project’s strategy and creating the final re-branded design products. She was a confident member of the Honors team’s final presentation to the client’s executive group. The Latimer team was delighted with the results. 
+
+      A few weeks ago, Vidisha asked to become one of my two Teaching Assistants for the Fall, 2024 semester. I enthusiastically accepted her request and look forward to her being a strong member of my teaching team and a key resource for students. 
+
+      Vidisha is an intelligent, creative, enthusiastic, conscientious young woman. She is open to new ideas and eager to learn. Her warm, engaging personality quickly puts others at ease, making her an ideal teammate. She would be a valuable addition to strategic or implementation teams in practically any setting. I give her my highest recommendation.
 ---

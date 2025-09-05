@@ -21,7 +21,7 @@ testimonials:
   - type: testimonial
     name: Mark Kingsley
     title: Ogilvy >> Landor >> COLLINS >> Malcontent
-    date: August 21st, 2024
+    date: August 2024
     avatar: https://media.licdn.com/dms/image/v2/C5603AQFiAomr11t3VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516353085843?e=1758758400&v=beta&t=KAM9u7YEyf6f_rlZytDkNqwHU6d6eRxrjv5G6M6l4Jc
     content: Vidisha is all the good things. And if I list in alphabetical order...
       she's diligent, intelligent, talented, tasteful, thoughtful... you get the
@@ -30,7 +30,7 @@ testimonials:
   - type: testimonial
     name: Kedaar Naik
     title: Founder & CEO at The Turtle Story
-    date: September 9th, 2024
+    date: September 2024
     avatar: https://media.licdn.com/dms/image/v2/D4D03AQGaivdQrwHrgA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721572302211?e=1758758400&v=beta&t=sx6hCCfA3SlmWeK5jJ9taVnwyn_mN1v32hsrS82KnLY
     content: >-
       Vidisha has been one of the most talented designers we had at The Turtle

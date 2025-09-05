@@ -84,4 +84,18 @@ testimonials:
     title: Branding at The Working Assembly
     date: November 2024
     avatar: https://media.licdn.com/dms/image/v2/D4E03AQHHSD-3ypknOA/profile-displayphoto-shrink_100_100/B4EZYBGJb0HYAc-/0/1743775111466?e=1759968000&v=beta&t=q3FYmiGAXhzXWxRyrFgrEB8xS6dDpiUoJBNe0fSh26k
+  - type: testimonial
+    name: Vaishnavi Nagwekar
+    title: Project and Brand Management | Brand Strategy and Architecture | Aspiring
+      Small Business Owner
+    date: August 2024
+    avatar: https://media.licdn.com/dms/image/v2/D5603AQFa0VI-jPXCKA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714723604222?e=1759968000&v=beta&t=_6gRzyNiI9_8sf6kU0Zl-W7MOWoBFBxs1IRHxF0fA4c
+    content: I have worked and learned with Vidisha! Even though I was a newbie in
+      the job and industry, she taught and inspired me to become a best version
+      of myself professionally and personally. She takes up each challenge
+      creatively, and brings out the most unique approach as the solution. She
+      inspired me to think different! I would give anything to work with her
+      again. She would take one thing at a time giving each problem its own
+      process, yet multi-task her way to perfection for a quick turnaround. She
+      is full of passion, creativity and love for what she does the best!
 ---

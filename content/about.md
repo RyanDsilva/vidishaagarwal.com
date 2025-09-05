@@ -8,8 +8,8 @@ information: I am a multi-faceted brand strategist with a background in design
   disciplines, I seek to create strategy-led brands with intentional and
   purposeful designs.
 image: /images/vidisha_web_headshot-copy.jpg
-clients: ChapStick, Suave, Hotel Polo Towers, GJEPC India, Manchester City
-  Football Club, Lewis Latimer House Museum, Isha Life & more…
+clients: ChapStick, Suave, Hotel Polo Towers, GJEPC India, Manchester City FC,
+  Lewis Latimer House, HA Roth Consulting, Isha Life & more…
 resume:
   resume_text: Resume
   link: "#"
@@ -44,4 +44,17 @@ testimonials:
 
 
       Vidisha truly is an asset to any team, consistently bringing her fine blend of creativity, professionalism, and a client-focused approach.
+  - type: testimonial
+    name: Harshita Rai
+    content: Vidisha has been one of my favourite people to work with. My brand is
+      her baby as much as it is mine as it was the first branding project for
+      her as well. Not only does she understand the creativity and vision of the
+      brand but she also adds to the vision which is something that I love about
+      her. With that said her problem-solving skills & availability at times
+      when the brand needed to quickly change or adapt were admirable. I would
+      highly recommend her talent! She is full of passion, creativity,
+      discipline & adaptability.
+    avatar: https://media.licdn.com/dms/image/v2/C4D03AQFofzRL0sYVGQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1655118276038?e=1759968000&v=beta&t=YNwMkDZCnQlKXsY33KSN_AcwQiDouUb_-_uqhcoqLQQ
+    title: Founder & CEO at The Skin Diet Company
+    date: August 2024
 ---

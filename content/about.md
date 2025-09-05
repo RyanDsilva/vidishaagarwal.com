@@ -71,4 +71,17 @@ testimonials:
     date: August 2024
     title: Head - Space design, The Turtle story
     name: Ar. Ketaki Paunikar
+  - type: testimonial
+    content: Vidisha has an expansive and nuanced way of thinking that allows her to
+      attack a problem from seemingly hidden perspectives. We worked together
+      over the course of our these at the Masters in Branding program. During
+      that time, she was always on top of everything we had to do, and was great
+      at delegating tasks to team members as well. I have had a wonderful
+      experience working with her and would do so again in a heartbeat, given
+      the opportunity. She is an incredibly valuable thinker and executer in any
+      team she is a part of!
+    name: Stuti Sukhani
+    title: Branding at The Working Assembly
+    date: November 2024
+    avatar: https://media.licdn.com/dms/image/v2/D4E03AQHHSD-3ypknOA/profile-displayphoto-shrink_100_100/B4EZYBGJb0HYAc-/0/1743775111466?e=1759968000&v=beta&t=q3FYmiGAXhzXWxRyrFgrEB8xS6dDpiUoJBNe0fSh26k
 ---

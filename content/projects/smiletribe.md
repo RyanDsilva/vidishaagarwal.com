@@ -1,7 +1,7 @@
 ---
 index: 3
 name: Smiletribe
-title: "Smiletribe: Brand Strategy & Identity"
+title: Smiletribe
 date: Client Project with The Turtle Story, Mumbai
 category: Design, Strategy
 cover_image: /images/screenshot-2024-08-06-at-3.04.12 pm.png
@@ -33,108 +33,99 @@ body_sections:
     header: Positioning The Brand
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          In India, the kids clothing market is saturated with brands that focus on trendy looks and market trends rather than the kids' comfort and development. A new age of parents are growing conscious of this and opting for simpler, meaningful comfort clothing for their children.
+        lwidth: 1/2
+        content_data: In India, the kids clothing market is saturated with brands that
+          focus on trendy looks and market trends rather than the kids' comfort
+          and development. A new age of parents are growing conscious of this
+          and opting for simpler, meaningful comfort clothing for their
+          children.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-3.08.12 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-3.08.12 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          While there are some brands that promise superior quality clothing, they are priced at a premium. Smiletribe is uniquely positioned to provide the best quality clothing with comparably affordable prices. It can build an image as a brand that is built to nurture the kid and elevate clothing to an experience that contributes to the development of the child.
+        lwidth: 1/2
+        content_data: While there are some brands that promise superior quality
+          clothing, they are priced at a premium. Smiletribe is uniquely
+          positioned to provide the best quality clothing with comparably
+          affordable prices. It can build an image as a brand that is built to
+          nurture the kid and elevate clothing to an experience that contributes
+          to the development of the child.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-3.10.42 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-3.10.42 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          As Smiletribe is set on a mission to prioritise the children and encourage them to truly express themselves, it must be guided by the following values:
+        lwidth: 1/2
+        content_data: "As Smiletribe is set on a mission to prioritise the children and
+          encourage them to truly express themselves, it must be guided by the
+          following values:"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-3.54.44 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-3.54.44 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The tone of voice for the brand must communicate this ethos.
+        lwidth: 1/2
+        content_data: The tone of voice for the brand must communicate this ethos.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-4.18.41 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-4.18.41 pm.png)"
   - type: section
     header: Identity Design
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          A comprehensive identity design system was created to express the brand's values and beliefs through every touchpoint.
+        lwidth: 1/2
+        content_data: A comprehensive identity design system was created to express the
+          brand's values and beliefs through every touchpoint.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-4.25.32 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-4.25.32 pm.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-4.31.51 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-4.31.51 pm.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-4.35.43 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-4.35.43 pm.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-4.45.59 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-4.45.59 pm.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-09-at-4.44.51 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-09-at-4.44.51 pm.png)"
   - type: section
     header: Packaging Collateral Design
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-08-15-at-3.24.14 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-08-15-at-3.24.14 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-08-15-at-3.24.23 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-08-15-at-3.24.23 pm.png)"
   - type: section
     header: Website Design
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The website design was created keeping in mind the colourful and playful nature of the brand identity.
+        lwidth: 1/2
+        content_data: The website design was created keeping in mind the colourful and
+          playful nature of the brand identity.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-15-at-3.30.48 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-15-at-3.30.48 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-08-15-at-3.35.13 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-08-15-at-3.35.13 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-08-15-at-3.42.40 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-08-15-at-3.42.40 pm.png)"
   - type: section
     header: Mascot Design
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The mascot was inspired by the imaginary characters that children create with their imagination.
+        lwidth: 1/2
+        content_data: The mascot was inspired by the imaginary characters that children
+          create with their imagination.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-15-at-3.45.20 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-15-at-3.45.20 pm.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-08-15-at-3.48.28 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-08-15-at-3.48.28 pm.png)"
 gallery: []
 ---

@@ -52,5 +52,5 @@ body_sections:
       - type: content_block
         lwidth: 1/2
         content_data: "![We have been socialised to believe that grilling is a man's
-          domain. But why?](/images/grilling-is-a-mans-domain.png)"
+          domain. But why?](/images/grilling-is-a-mans-domain_1.png)"
 ---

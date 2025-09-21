@@ -8,11 +8,11 @@ cover_image: /images/screenshot-2024-07-29-at-2.20.37 am.png
 accordion_sections:
   - type: section
     header: The Challenge
-    content: Weber grills experienced a decline in sales as the COVID-19 grilling
-      boom ended and the housing crisis loomed. Additionally, grilling, a deeply
-      gendered activity built upon idealistic nuclear family structures, is
-      losing relevance in culture as gender definitions break away from the
-      binary.
+    content: The World's number one grill manufacturer, Weber grills, experienced a
+      decline in sales as the COVID-19 grilling boom ended and the housing
+      crisis loomed. Additionally, grilling, a deeply gendered activity built
+      upon idealistic nuclear family structures, is losing relevance in culture
+      as gender definitions break away from the binary.
   - type: section
     content: >-
       Brand Strategist and Designer: Problem analysis, Research, Repositioning,

@@ -38,4 +38,12 @@ accordion_sections:
       to culture today while retaining its age-old legacy, consequently
       reclaiming market share, driving sales growth, and elevating customer
       engagement.
+body_sections:
+  - type: section
+    header: Watch
+    content:
+      - type: content_block
+        lwidth: full
+        content_data: " Weber: SVA Masters in Branding Thesis Premier 2024"
+    video: 5MENQJT9Jx4&t=3642s
 ---

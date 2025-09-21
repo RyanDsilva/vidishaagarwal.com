@@ -1,7 +1,7 @@
 ---
 index: 1
 name: Lewis Latimer House
-title: "Lewis Latimer House: Redefining a museum"
+title: "Lewis Latimer House: Rebranding"
 date: Client Project with SVA Masters in Branding Honors Program
 category: Design, Strategy
 cover_image: /images/llh-export.png
@@ -35,30 +35,33 @@ body_sections:
     header: Accolades
     content:
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/asset-9-2x.png)
+        lwidth: full
+        content_data: "![](/images/asset-9-2x.png)"
   - type: section
     header: Background
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: 1/2
         content_data: >-
-          Located in Flushing, Queens, the Lewis Latimer House Museum honors the life of Lewis Howard Latimer, a self-taught polymath who helped develop major 19th-century inventions, including Edison's incandescent light bulb.
+          Located in Flushing, Queens, the Lewis Latimer House Museum honors the
+          life of Lewis Howard Latimer, a self-taught polymath who helped
+          develop major 19th-century inventions, including Edison's incandescent
+          light bulb.
 
 
           For years, the brand honored Latimer's life as the inspiration for a noble mission: helping close the gap in equitable patenting for minority innovators. ***However, this limited its relevance among a broader audience.***
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/asset-1.png)
+        lwidth: 1/2
+        content_data: "![](/images/asset-1.png)"
   - type: section
     header: Discovery
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: 1/2
         content_data: >-
-          Despite his circumstances, Latimer demonstrated immense bravery and courage - qualities that will always be needed in society, no matter how much progress has been made socially or technologically.
+          Despite his circumstances, Latimer demonstrated immense bravery and
+          courage - qualities that will always be needed in society, no matter
+          how much progress has been made socially or technologically.
 
 
           ***Lewis Latimer's most powerful gift wasn't his inventions; it was his fearless approach to life and learning.***
@@ -66,28 +69,27 @@ body_sections:
     header: The Lewis Latimer Mindset
     content:
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/llm-animation.gif)
+        lwidth: full
+        content_data: "![](/images/llm-animation.gif)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2025-07-04-at-10.31.39 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2025-07-04-at-10.31.39 pm.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          This offered a powerful new anchor to ***evolve the brand*** and its operational model.
+        lwidth: full
+        content_data: This offered a powerful new anchor to ***evolve the brand*** and
+          its operational model.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2025-07-04-at-10.37.11 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2025-07-04-at-10.37.11 pm.png)"
   - type: section
     header: Solution
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: 1/2
         content_data: >-
-          To reposition the brand from a ***static museum*** to a ***dynamic "Open House"*** that creates a space where Latimer's mindset comes to life.
+          To reposition the brand from a ***static museum*** to a ***dynamic
+          "Open House"*** that creates a space where Latimer's mindset comes to
+          life.
 
 
           The House empowers underrepresented thinkers by providing a thinking playground to nurture their own Lewis Latimer Mindset. A dynamic space of exploration, experimentation, and collaboration.
@@ -95,62 +97,55 @@ body_sections:
 
           In turn, the House expands its lens beyond equitable patenting, ***granting it the flexibility to increase its impact*** through active engagement.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2025-07-04-at-10.44.45 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2025-07-04-at-10.44.45 pm.png)"
   - type: section
     header: Visual Expression
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The visual identity reflects Latimer's ***kaleidoscopic philosophy,*** embodying a fluid and ever-evolving perspective that invites people to see, think, and engage in new and unexpected ways.
+        lwidth: 1/2
+        content_data: The visual identity reflects Latimer's ***kaleidoscopic
+          philosophy,*** embodying a fluid and ever-evolving perspective that
+          invites people to see, think, and engage in new and unexpected ways.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2025-07-09-at-9.00.17 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2025-07-09-at-9.00.17 pm.png)"
   - type: section
     header: Visual Identity System
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ***The logo*** is a visual representation of Latimer's profound belief in fostering collaborative environments to generate innovation. Using kaleidoscopic fragments to form the L, a geometric sans-serif, and a Victorian-esque serif inspired by the home, the logo connects seemingly disparate elements to create a cohesive unit.
+        lwidth: 1/2
+        content_data: "***The logo*** is a visual representation of Latimer's profound
+          belief in fostering collaborative environments to generate innovation.
+          Using kaleidoscopic fragments to form the L, a geometric sans-serif,
+          and a Victorian-esque serif inspired by the home, the logo connects
+          seemingly disparate elements to create a cohesive unit."
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/asset-3-2x.png)
+        lwidth: 1/2
+        content_data: "![](/images/asset-3-2x.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/llh-logo-animation-1-.gif)
+        lwidth: full
+        content_data: "![](/images/llh-logo-animation-1-.gif)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/llh-exports.png)
+        lwidth: full
+        content_data: "![](/images/llh-exports.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/asset-5-2x.png)
+        lwidth: 1/2
+        content_data: "![](/images/asset-5-2x.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/llh-export-2-09.png)
+        lwidth: 1/2
+        content_data: "![](/images/llh-export-2-09.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/asset-6-2x.png)
+        lwidth: 1/2
+        content_data: "![](/images/asset-6-2x.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2025-07-09-at-9.08.49 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2025-07-09-at-9.08.49 pm.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/asset-7-2x.png)
+        lwidth: full
+        content_data: "![](/images/asset-7-2x.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/asset-8-2x.png)
+        lwidth: full
+        content_data: "![](/images/asset-8-2x.png)"
 gallery: []
 ---

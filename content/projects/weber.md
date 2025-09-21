@@ -40,7 +40,7 @@ accordion_sections:
       engagement.
 body_sections:
   - type: section
-    header: Watch
+    header: Watch on Youtube
     content:
       - type: content_block
         lwidth: full

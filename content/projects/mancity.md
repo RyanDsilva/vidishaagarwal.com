@@ -1,7 +1,7 @@
 ---
 index: 2
 name: Man City
-title: "Manchester City FC: Entering USA Market Strategy"
+title: "MCFC: Entering USA"
 date: Pitched to MCFC via SVA MPS Branding
 category: Strategy
 cover_image: /images/mcfc-cover.jpg
@@ -31,21 +31,21 @@ accordion_sections:
       brand image of inclusion and accessibility.
 body_sections:
   - type: section
-    header: "Situation"
+    header: Situation
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          Soccer is gaining popularity as a sport in The United States and will continue to do so as the US hosts the 2024 Copa America, 2025 Club World Cup, 2026 FIFA World Cup and  2028 Summer Olympics.
+        lwidth: 1/2
+        content_data: Soccer is gaining popularity as a sport in The United States and
+          will continue to do so as the US hosts the 2024 Copa America, 2025
+          Club World Cup, 2026 FIFA World Cup and  2028 Summer Olympics.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/mancity-successmeasure.png)
+        lwidth: full
+        content_data: "![](/images/mancity-successmeasure.png)"
   - type: section
     header: Competitive Landscape
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: 1/2
         content_data: >-
           Competing teams including Manchester United, Chelsea, Arsenal and
           Barcelona are looking to expand their fan bases in The U.S.
@@ -53,49 +53,48 @@ body_sections:
 
           A lot of these teams are targeting audiences like younger people, sneaker-heads, fashion fiends and American football fans, to name a few. This is because these audiences have the most visibility.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/mancity-competitors.png)
+        lwidth: 1/2
+        content_data: "![](/images/mancity-competitors.png)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-4.29.43 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-06-30-at-4.29.43 pm.png)"
   - type: section
     header: The Overlooked
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          There are millions of people in America who feel invisible. People like
-          those with disabilities. People like mothers. People like Immigrants. They
-          go through life every day feeling less than and unimportant.
+        lwidth: 1/2
+        content_data: There are millions of people in America who feel invisible. People
+          like those with disabilities. People like mothers. People like
+          Immigrants. They go through life every day feeling less than and
+          unimportant.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-4.36.36 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-4.36.36 pm.png)"
   - type: section
-    header: "The Insight:\nThe overlooked are the most loyal"
+    header: |-
+      The Insight:
+      The overlooked are the most loyal
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          *When people have constantly been ignored and discounted, all they want is
-          to feel seen; when someone makes them feel like they matter, they love
-          them differently, supporting them in every way they can, defending them
-          when they’re being disparaged and loving them with all their might.*
+        lwidth: 1/2
+        content_data: "*When people have constantly been ignored and discounted, all
+          they want is to feel seen; when someone makes them feel like they
+          matter, they love them differently, supporting them in every way they
+          can, defending them when they’re being disparaged and loving them with
+          all their might.*"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-4.46.27 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-4.46.27 pm.png)"
   - type: section
     header: "The Solution: City Sees You"
     content:
       - type: content_block
-        lwidth: "1/2"
+        lwidth: 1/2
         content_data: >-
           Manchester City as a team knows what it is like to struggle and feel
-          overlooked owing to a history of losing and living in Manchester United's
-          shadow. Now that Man City is at the top, it is time to uplift others.
+          overlooked owing to a history of losing and living in Manchester
+          United's shadow. Now that Man City is at the top, it is time to uplift
+          others.
 
 
           City Sees You is a platform that allows Manchester City to champion the unseen, unheard and overlooked audiences in America that will gain the team their undying loyalty and love.
@@ -103,144 +102,145 @@ body_sections:
 
           To start with, the platform will target people with disabilities, mothers and immigrants
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-4.54.16 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-4.54.16 pm.png)"
   - type: section
     header: Activations
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          Activations will include both short term (immediately implemented within
-          the next 2 years) and long term activations (developed over the next 5
-          years). Each activation will keep three things in mind:
+        lwidth: 1/2
+        content_data: "Activations will include both short term (immediately implemented
+          within the next 2 years) and long term activations (developed over the
+          next 5 years). Each activation will keep three things in mind:"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-5.44.37 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-5.44.37 pm.png)"
   - type: section
     header: City Sees You Campaign
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The City Sees You Campaign will be a series that highlights people from
-          our target audiences, empowering them by giving them the visibility they
-          deserve. It will show how ManCity can support its community through
-          emotional storytelling and connecting to them through the team’s tenets.
+        lwidth: 1/2
+        content_data: The City Sees You Campaign will be a series that highlights people
+          from our target audiences, empowering them by giving them the
+          visibility they deserve. It will show how ManCity can support its
+          community through emotional storytelling and connecting to them
+          through the team’s tenets.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenrecording2024-06-30at6.00.39pm-ezgif.com-video-to-gif-converter.gif)
+        lwidth: full
+        content_data: "![](/images/screenrecording2024-06-30at6.00.39pm-ezgif.com-video\
+          -to-gif-converter.gif)"
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          It will also feautre team members who resonate with these audiences and relate to their problems.
+        lwidth: full
+        content_data: It will also feautre team members who resonate with these
+          audiences and relate to their problems.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.04.07 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-06-30-at-6.04.07 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The team’s mission of striving for the best while remaining true to their values will be communicated throughout the campaign alongside the phrase “City Sees You". While those will remain the same, images and other messages with change based on the audience and their pain points.
+        lwidth: 1/2
+        content_data: The team’s mission of striving for the best while remaining true
+          to their values will be communicated throughout the campaign alongside
+          the phrase “City Sees You". While those will remain the same, images
+          and other messages with change based on the audience and their pain
+          points.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          This campaign will exist through various mediums including streaming platforms, social media platforms and out of home marketing such as billboards and digital displays. The City Sees You campaign will let audiences know Man City sees them, understands them, and is here for them, thus raising awareness for ManCity and acting as the first step in creating emotional connections with them.
+        lwidth: 1/2
+        content_data: This campaign will exist through various mediums including
+          streaming platforms, social media platforms and out of home marketing
+          such as billboards and digital displays. The City Sees You campaign
+          will let audiences know Man City sees them, understands them, and is
+          here for them, thus raising awareness for ManCity and acting as the
+          first step in creating emotional connections with them.
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-07-28-at-4.40.27 pm.png)
-
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-07-28-at-4.40.27 pm.png)"
   - type: section
     header: "Cohort 1: The Disabled"
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          Many newer stadiums are accessible but still have obstacles. ManCity can
-          improve existing soccer venues to reduce logistical burdens for people
-          with disabilities.
+        lwidth: 1/2
+        content_data: Many newer stadiums are accessible but still have obstacles.
+          ManCity can improve existing soccer venues to reduce logistical
+          burdens for people with disabilities.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.11.05 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-6.11.05 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ManCity could explore adaptive football, adjusting rules or creating a new style to include people of all abilities. They could also help those with disabilities find, fund, or create the often expensive and non-mass-produced equipment needed to play football.
+        lwidth: 1/2
+        content_data: ManCity could explore adaptive football, adjusting rules or
+          creating a new style to include people of all abilities. They could
+          also help those with disabilities find, fund, or create the often
+          expensive and non-mass-produced equipment needed to play football.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.11.29 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-6.11.29 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          Long-term engagement could enhance the football experience by introducing sensory activities focused on textures, colors, and smells. This inclusive activity would engage everyone, not just sports enthusiasts, and could especially appeal to people with certain disabilities without being exclusive to them.
+        lwidth: 1/2
+        content_data: Long-term engagement could enhance the football experience by
+          introducing sensory activities focused on textures, colors, and
+          smells. This inclusive activity would engage everyone, not just sports
+          enthusiasts, and could especially appeal to people with certain
+          disabilities without being exclusive to them.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-08-06-at-3.07.40 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-08-06-at-3.07.40 pm.png)"
   - type: section
     header: "Cohort 2: Single Moms"
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          In the short term, Mom City could offer moms a place to relax and meet
-          others while their kids are trained by world-class athletes. ManCity could
-          provide chairs, snacks, mocktails, and reclining massagers. Additionally,
-          moms could participate in fun family activities to alleviate any guilt
-          about being away from their children.
+        lwidth: 1/2
+        content_data: In the short term, Mom City could offer moms a place to relax and
+          meet others while their kids are trained by world-class athletes.
+          ManCity could provide chairs, snacks, mocktails, and reclining
+          massagers. Additionally, moms could participate in fun family
+          activities to alleviate any guilt about being away from their
+          children.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.28.22 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-6.28.22 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          In the long term, the 'Moms in Manchester' sweepstakes could let people nominate single mothers to win an all-expenses-paid trip to Manchester for their family. Winners would watch a game from a stadium suite with free food and drinks, and explore the city, enjoying a relaxing vacation without planning hassles.
+        lwidth: 1/2
+        content_data: In the long term, the 'Moms in Manchester' sweepstakes could let
+          people nominate single mothers to win an all-expenses-paid trip to
+          Manchester for their family. Winners would watch a game from a stadium
+          suite with free food and drinks, and explore the city, enjoying a
+          relaxing vacation without planning hassles.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.28.37 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-6.28.37 pm.png)"
   - type: section
     header: "Cohort 3: ESL Students"
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The 'City Culture Club' would bring together diverse communities to share
-          their passion for the team, both online and offline. It would encourage
-          participation in activities like watch parties, game nights, and local
-          football games.
+        lwidth: 1/2
+        content_data: The 'City Culture Club' would bring together diverse communities
+          to share their passion for the team, both online and offline. It would
+          encourage participation in activities like watch parties, game nights,
+          and local football games.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.34.33 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-6.34.33 pm.png)"
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          In the long run, this can expand to 'Cityzen World,' an open space for global fans to connect, interact, and support each other. Activities like cultural sports and potlucks would celebrate diversity. Seminars and workshops would introduce people to new cultures and allow them to share problems and solutions.
+        lwidth: 1/2
+        content_data: In the long run, this can expand to 'Cityzen World,' an open space
+          for global fans to connect, interact, and support each other.
+          Activities like cultural sports and potlucks would celebrate
+          diversity. Seminars and workshops would introduce people to new
+          cultures and allow them to share problems and solutions.
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.34.48 pm.png)
+        lwidth: 1/2
+        content_data: "![](/images/screenshot-2024-06-30-at-6.34.48 pm.png)"
   - type: section
     header: Conclusion
     content:
       - type: content_block
-        lwidth: "1/2"
-        content_data: >-
-          The City Sees You platform will have Man City engage with **The
-          Overlooked.**
-          Because when people feel invisible, **being seen is all they want.**
+        lwidth: 1/2
+        content_data: The City Sees You platform will have Man City engage with **The
+          Overlooked.** Because when people feel invisible, **being seen is all
+          they want.**
       - type: content_block
-        lwidth: "full"
-        content_data: >-
-          ![](/images/screenshot-2024-06-30-at-6.41.20 pm.png)
+        lwidth: full
+        content_data: "![](/images/screenshot-2024-06-30-at-6.41.20 pm.png)"
     video: ""
 gallery: []
 ---

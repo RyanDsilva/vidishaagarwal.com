@@ -99,7 +99,7 @@ testimonials:
       process, yet multi-task her way to perfection for a quick turnaround. She
       is full of passion, creativity and love for what she does the best!
   - type: testimonial
-    name: Tom Guarriello
+    name: Dr. Tom Guarriello
     title: Psychologist. Founding Faculty, Masters in Branding Program SVA. Co-host
       of BrandBox.
     date: August 2024
@@ -124,4 +124,25 @@ testimonials:
       A few weeks ago, Vidisha asked to become one of my two Teaching Assistants for the Fall, 2024 semester. I enthusiastically accepted her request and look forward to her being a strong member of my teaching team and a key resource for students. 
 
       Vidisha is an intelligent, creative, enthusiastic, conscientious young woman. She is open to new ideas and eager to learn. Her warm, engaging personality quickly puts others at ease, making her an ideal teammate. She would be a valuable addition to strategic or implementation teams in practically any setting. I give her my highest recommendation.
+  - type: testimonial
+    name: Hayes Roth
+    title: Principal/Founder, HA Roth Consulting LLC
+    date: September 2025
+    avatar: https://media.licdn.com/dms/image/v2/C4E03AQHwF2plJeR3JQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517736977739?e=1761177600&v=beta&t=3Wk_afOLQeI2sMJNNibGokPslsNfcEA-vxQCai5oAak
+    content: I was introduced to Vidisha by my friend and former colleague Lulu
+      Raghavan, President of APAC for Landor, and was immediately impressed by
+      Vidisha's keen interest in all aspects of branding. While initially she
+      approached me for general career advice, I soon had a brand positioning
+      project with a small college where I thought Vidisha could be very helpful
+      in doing some competitive analysis for me. Her diligence, strategic
+      insights and thoughtful contributions to the project were both highly
+      professional and extremely contributory to its ultimate success. Vidisha
+      is that rare young person in our field who has actual design chops of her
+      own but is also able to think strategically, communicate clearly and
+      analyze data effectively. I'm sure there will be many pathways open to her
+      in time but she will be a strong asset to whatever client and/or
+      organization engages her. On top of all of that, she also happens to be an
+      extremely nice and considerate person and a true pleasure to work with.
+      I'm grateful for the time we worked together and am very much looking
+      forward to see where her interests and considerable talents take her!
 ---

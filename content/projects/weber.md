@@ -2,7 +2,7 @@
 index: 6
 name: Weber
 title: Weber
-date: Thesis Project at SVA MPS Branding
+date: Thesis Project at SVA Masters in Branding
 category: Strategy
 cover_image: /images/screenshot-2024-07-29-at-2.20.37 am.png
 accordion_sections:

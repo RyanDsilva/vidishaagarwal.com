@@ -2,7 +2,7 @@
 index: 2
 name: Man City
 title: Manchester City FC
-date: Pitched to MCFC via SVA MPS Branding
+date: Pitched to MCFC via SVA Masters in Branding
 category: Strategy
 cover_image: /images/mcfc-cover.jpg
 accordion_sections:

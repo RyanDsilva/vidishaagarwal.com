@@ -8,11 +8,9 @@ cover_image: /images/screenshot-2024-07-29-at-2.20.37 am.png
 accordion_sections:
   - type: section
     header: The Challenge
-    content: The World's number one grill manufacturer, Weber grills, experienced a
-      decline in sales as the COVID-19 grilling boom ended and the housing
-      crisis loomed. Additionally, grilling, a deeply gendered activity built
-      upon idealistic nuclear family structures, is losing relevance in culture
-      as gender definitions break away from the binary.
+    content: Investigate gendered perceptions of grilling and reimagine it through a
+      more inclusive lens to build a brand that reflects today’s diverse and
+      evolving consumer identities.
   - type: section
     content: >-
       Brand Strategist and Designer: Problem analysis, Research, Repositioning,
@@ -40,10 +38,19 @@ accordion_sections:
       engagement.
 body_sections:
   - type: section
-    header: Watch on Youtube
+    header: Background
     content:
       - type: content_block
-        lwidth: full
-        content_data: " Weber: SVA Masters in Branding Thesis Premier 2024"
-    video: 5MENQJT9Jx4&t=3642s
+        lwidth: 1/2
+        content_data: The World's number one grill manufacturer, Weber grills,
+          experienced a decline in sales as the COVID-19 grilling boom ended and
+          the housing crisis loomed. Weber’s core grill-enthusiast audience is
+          aging, while interest among younger consumers remains limited.
+          Grilling, a deeply gendered activity built upon idealistic nuclear
+          family structures, is losing relevance in culture as gender
+          definitions break away from the binary.
+      - type: content_block
+        lwidth: 1/2
+        content_data: "![We have been socialised to believe that grilling is a man's
+          domain. But why?](/images/grilling-is-a-mans-domain.png)"
 ---

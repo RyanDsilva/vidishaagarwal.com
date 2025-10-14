@@ -28,6 +28,27 @@ testimonials:
       idea. And she constantly demonstrates the ability to make larger
       connections. It was a great pleasure meeting and working with her.
   - type: testimonial
+    name: Hayes Roth
+    title: Principal/Founder, HA Roth Consulting LLC
+    date: September 2025
+    avatar: https://media.licdn.com/dms/image/v2/C4E03AQHwF2plJeR3JQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517736977739?e=1761177600&v=beta&t=3Wk_afOLQeI2sMJNNibGokPslsNfcEA-vxQCai5oAak
+    content: I was introduced to Vidisha by my friend and former colleague Lulu
+      Raghavan, President of APAC for Landor, and was immediately impressed by
+      Vidisha's keen interest in all aspects of branding. While initially she
+      approached me for general career advice, I soon had a brand positioning
+      project with a small college where I thought Vidisha could be very helpful
+      in doing some competitive analysis for me. Her diligence, strategic
+      insights and thoughtful contributions to the project were both highly
+      professional and extremely contributory to its ultimate success. Vidisha
+      is that rare young person in our field who has actual design chops of her
+      own but is also able to think strategically, communicate clearly and
+      analyze data effectively. I'm sure there will be many pathways open to her
+      in time but she will be a strong asset to whatever client and/or
+      organization engages her. On top of all of that, she also happens to be an
+      extremely nice and considerate person and a true pleasure to work with.
+      I'm grateful for the time we worked together and am very much looking
+      forward to see where her interests and considerable talents take her!
+  - type: testimonial
     name: Kedaar Naik
     title: Founder & CEO at The Turtle Story
     date: September 2024
@@ -125,24 +146,20 @@ testimonials:
 
       Vidisha is an intelligent, creative, enthusiastic, conscientious young woman. She is open to new ideas and eager to learn. Her warm, engaging personality quickly puts others at ease, making her an ideal teammate. She would be a valuable addition to strategic or implementation teams in practically any setting. I give her my highest recommendation.
   - type: testimonial
-    name: Hayes Roth
-    title: Principal/Founder, HA Roth Consulting LLC
+    name: Amelia Nash
+    title: Strategy + Design | RGD, BDes, MPS Branding
     date: September 2025
-    avatar: https://media.licdn.com/dms/image/v2/C4E03AQHwF2plJeR3JQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517736977739?e=1761177600&v=beta&t=3Wk_afOLQeI2sMJNNibGokPslsNfcEA-vxQCai5oAak
-    content: I was introduced to Vidisha by my friend and former colleague Lulu
-      Raghavan, President of APAC for Landor, and was immediately impressed by
-      Vidisha's keen interest in all aspects of branding. While initially she
-      approached me for general career advice, I soon had a brand positioning
-      project with a small college where I thought Vidisha could be very helpful
-      in doing some competitive analysis for me. Her diligence, strategic
-      insights and thoughtful contributions to the project were both highly
-      professional and extremely contributory to its ultimate success. Vidisha
-      is that rare young person in our field who has actual design chops of her
-      own but is also able to think strategically, communicate clearly and
-      analyze data effectively. I'm sure there will be many pathways open to her
-      in time but she will be a strong asset to whatever client and/or
-      organization engages her. On top of all of that, she also happens to be an
-      extremely nice and considerate person and a true pleasure to work with.
-      I'm grateful for the time we worked together and am very much looking
-      forward to see where her interests and considerable talents take her!
+    avatar: https://media.licdn.com/dms/image/v2/D4E03AQH5CqNii7nH2g/profile-displayphoto-shrink_400_400/B4EZX9YJYdHcAg-/0/1743712720769?e=1763596800&v=beta&t=CEiLnMfy_-uynL0vzYJ5erk3DWeIDG9EO2cADQS6goY
+    content: >-
+      I had the pleasure of working with Vidisha in the Masters in Branding
+      program, where she worked as a Content Strategist and supported me in
+      developing social media content and strategy. From day one, she brought
+      creativity, initiative, and a sharp understanding of how to translate
+      complex ideas into engaging digital storytelling.
+
+
+      Vidisha not only crafted thoughtful, on-brand content but also approached strategy with a level of curiosity and professionalism that stood out. She asked smart questions, identified opportunities to grow our reach, and consistently delivered high-quality work. Her ability to balance big-picture thinking with the details of execution made her an invaluable collaborator.
+
+
+      Beyond her skills, she’s an absolute joy to work with — collaborative and deeply committed to producing work that resonates. I have no doubt she’ll make a meaningful impact wherever she goes next, and I highly recommend her for any team looking for a creative thinker and strategic doer in branding and communications.
 ---

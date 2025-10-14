@@ -22,7 +22,7 @@ testimonials:
     name: Mark Kingsley
     title: Ogilvy >> Landor >> COLLINS >> Malcontent
     date: August 2024
-    avatar: https://media.licdn.com/dms/image/v2/C5603AQFiAomr11t3VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516353085843?e=1758758400&v=beta&t=KAM9u7YEyf6f_rlZytDkNqwHU6d6eRxrjv5G6M6l4Jc
+    avatar: https://media.licdn.com/dms/image/v2/C5603AQFiAomr11t3VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516353085843?e=1763596800&v=beta&t=0P83cWc-nP85yl_mcaiXJS3OcSkf8w-erYZqpwJtHDM
     content: Vidisha is all the good things. And if I list in alphabetical order...
       she's diligent, intelligent, talented, tasteful, thoughtful... you get the
       idea. And she constantly demonstrates the ability to make larger
@@ -52,7 +52,7 @@ testimonials:
     name: Kedaar Naik
     title: Founder & CEO at The Turtle Story
     date: September 2024
-    avatar: https://media.licdn.com/dms/image/v2/D4D03AQGaivdQrwHrgA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721572302211?e=1758758400&v=beta&t=sx6hCCfA3SlmWeK5jJ9taVnwyn_mN1v32hsrS82KnLY
+    avatar: https://media.licdn.com/dms/image/v2/D4D03AQGaivdQrwHrgA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721572302211?e=1763596800&v=beta&t=QY_vLFOknAkpkY01EfEGW_5zjH8S8pJ1r2JfqWHr6Kg
     content: >-
       Vidisha has been one of the most talented designers we had at The Turtle
       Story. Her passion and energy were contagious, uplifting the entire team
@@ -75,7 +75,7 @@ testimonials:
       when the brand needed to quickly change or adapt were admirable. I would
       highly recommend her talent! She is full of passion, creativity,
       discipline & adaptability.
-    avatar: https://media.licdn.com/dms/image/v2/C4D03AQFofzRL0sYVGQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1655118276038?e=1759968000&v=beta&t=YNwMkDZCnQlKXsY33KSN_AcwQiDouUb_-_uqhcoqLQQ
+    avatar: https://media.licdn.com/dms/image/v2/C4D03AQFofzRL0sYVGQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1655118276038?e=1763596800&v=beta&t=D9AcM7hH_4FKVqe_FHJmcWVBn8aPFQcvpwGptDvgNsQ
     title: Founder & CEO at The Skin Diet Company
     date: August 2024
   - type: testimonial
@@ -88,7 +88,7 @@ testimonials:
       Vidisha has a great eye for detail and coordinates exceptionally well with vendors. During the JCK, Las Vegas event, her ability to truly grasp the space and understand the intricacies of the project contributed immensely in making it a smooth experience . She didn’t just look at the big picture; she saw the details, ensuring that everything aligned perfectly.
 
       Vidisha brings passion, vision, and a deep understanding of her work to the table, making her an invaluable asset to any team. I highly recommend her to anyone seeking someone who can both lead and contribute meaningfully to any project.
-    avatar: https://media.licdn.com/dms/image/v2/C5603AQG8pRLJMh0kzQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517745188034?e=1759968000&v=beta&t=vjFaJkami1G1jy2Uv4ZsKUSLg1p_se61LwieHe4x7Yw
+    avatar: https://media.licdn.com/dms/image/v2/C5603AQG8pRLJMh0kzQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517745188012?e=1763596800&v=beta&t=abD6Na9KG-TTEQMtZHHl_vaObGM6dwJRjx7WklUaz78
     date: August 2024
     title: Head - Space design, The Turtle story
     name: Ar. Ketaki Paunikar
@@ -104,13 +104,13 @@ testimonials:
     name: Stuti Sukhani
     title: Branding at The Working Assembly
     date: November 2024
-    avatar: https://media.licdn.com/dms/image/v2/D4E03AQHHSD-3ypknOA/profile-displayphoto-shrink_100_100/B4EZYBGJb0HYAc-/0/1743775111466?e=1759968000&v=beta&t=q3FYmiGAXhzXWxRyrFgrEB8xS6dDpiUoJBNe0fSh26k
+    avatar: https://media.licdn.com/dms/image/v2/D4E03AQHHSD-3ypknOA/profile-displayphoto-shrink_800_800/B4EZYBGJb0HYAk-/0/1743775111466?e=1763596800&v=beta&t=CR1YIub-2UUFIuIxalx3XIDRM4kpgLhABhWXn_68w_c
   - type: testimonial
     name: Vaishnavi Nagwekar
     title: Project and Brand Management | Brand Strategy and Architecture | Aspiring
       Small Business Owner
     date: August 2024
-    avatar: https://media.licdn.com/dms/image/v2/D5603AQFa0VI-jPXCKA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714723604222?e=1759968000&v=beta&t=_6gRzyNiI9_8sf6kU0Zl-W7MOWoBFBxs1IRHxF0fA4c
+    avatar: https://media.licdn.com/dms/image/v2/D5603AQFa0VI-jPXCKA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714723604222?e=1763596800&v=beta&t=yOPhTfKCa7ohUosjf0dTA_wzsSz_Il0dpVXCogmmNWQ
     content: I have worked and learned with Vidisha! Even though I was a newbie in
       the job and industry, she taught and inspired me to become a best version
       of myself professionally and personally. She takes up each challenge
@@ -124,7 +124,7 @@ testimonials:
     title: Psychologist. Founding Faculty, Masters in Branding Program SVA. Co-host
       of BrandBox.
     date: August 2024
-    avatar: https://media.licdn.com/dms/image/v2/C4E03AQGxYTibiMFYHQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1593551416265?e=1759968000&v=beta&t=SSgrrbXCGO_K8-bHzyFsy0DV8EOE09Tfw8IZTjJbtx0
+    avatar: https://media.licdn.com/dms/image/v2/C4E03AQGxYTibiMFYHQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1593551416265?e=1763596800&v=beta&t=CiisF-0pXee3Pd01wS_wRfFvL5ObcAbm1GvhINLIlBc
     content: >-
       Vidisha Agarwal entered our Masters in Branding program at the School of
       Visual Arts in September, 2023. I teach a course called, “The Meaning of

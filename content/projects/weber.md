@@ -56,4 +56,5 @@ body_sections:
   - type: section
     video: 5MENQJT9Jx4&t=3642s
     header: Watch Thesis Presentation
+    content: []
 ---

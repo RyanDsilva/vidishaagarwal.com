@@ -4,20 +4,20 @@ title: Digital Art
 image: /images/play2.png
 alt: digital art
 href: /play/digital-art
-caption: ""
+caption: what is this
 show_tape: true
 tape_edge: right
 tape_rotate: 0
 size: xs
 ratio: portrait
-rotate: 0
+rotate: -1
 x: 725
 y: 300
-z: 0
+z: -2
 date: Pitched to MCFC via SVA Masters in Branding
 category: Strategy
 link: /#/
-link_text: "View"
+link_text: View
 accordion_sections:
   - type: section
     content: Analyse Amul through an anthropological lens and create a brand

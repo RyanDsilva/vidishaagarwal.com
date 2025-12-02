@@ -5,6 +5,8 @@ title: Weber
 date: Thesis Project at SVA Masters in Branding
 category: Strategy
 cover_image: /images/screenshot-2024-07-29-at-2.20.37 am.png
+link: ""
+link_text: ""
 accordion_sections:
   - type: section
     header: The Challenge

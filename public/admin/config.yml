@@ -140,6 +140,8 @@ collections:
       - { label: "Project Date", name: "date", widget: "string", required: false }
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Cover Image", name: "cover_image", widget: "image" }
+      - { label: "Case Study Link", name: "link", widget: "string", required: false }
+      - { label: "Case Study Link Text", name: "link_text", widget: "string", required: false }
       - name: accordion_sections
         label: Accordion Sections
         widget: list
@@ -206,3 +208,51 @@ collections:
       - { label: "X Position (px)", name: "x", widget: "number", value_type: "int", default: 0 }
       - { label: "Y Position (px)", name: "y", widget: "number", value_type: "int", default: 0 }
       - { label: "Z-Index", name: "z", widget: "number", value_type: "int", default: 1, required: false }
+      - { label: "Project Date", name: "date", widget: "string", required: false }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Case Study Link", name: "link", widget: "string", required: false }
+      - { label: "Case Study Link Text", name: "link_text", widget: "string", required: false }
+      - name: accordion_sections
+        label: Accordion Sections
+        widget: list
+        types:
+          - name: section
+            label: Section
+            widget: object
+            summary: "{{fields.header}}"
+            fields:
+              - { name: header, label: Header, widget: string }
+              - { name: content, label: Content, widget: markdown }
+      - name: body_sections
+        label: Body Sections
+        widget: list
+        types:
+          - name: section
+            label: Section
+            widget: object
+            summary: "{{fields.header}}"
+            fields:
+              - { name: header, label: Header, widget: string }
+              - name: content
+                label: Content
+                widget: list
+                types:
+                  - name: content_block
+                    label: Content Block
+                    widget: object
+                    summary: "{{fields.content}}"
+                    fields:
+                      - { name: content_data, label: Content Data, widget: markdown }
+                      - {
+                          name: lwidth,
+                          label: Layout Width,
+                          widget: string,
+                          default: "full",
+                        }
+              - { name: image, label: Image, widget: image, required: false }
+              - { name: video, label: Video ID, widget: string, required: false }
+      - name: gallery
+        label: Gallery
+        required: false
+        widget: list
+        field: { label: Image, name: image, widget: image }

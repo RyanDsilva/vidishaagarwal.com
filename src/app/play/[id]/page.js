@@ -10,12 +10,12 @@ import { YouTubeEmbed } from "@next/third-parties/google";
 
 
 async function fetchProject(id) {
-  const projects = getAllItems("projects");
+  const projects = getAllItems("play");
   return projects.find((project) => project.id === id);
 }
 
 export async function generateStaticParams() {
-  const projects = getAllItems("projects");
+  const projects = getAllItems("play");
   return projects.map((project) => ({
     id: project.id,
   }));
@@ -40,7 +40,7 @@ export default async function Project({ params }) {
           height={400}
           sizes="100vw"
           priority={true}
-          src={`${projectData.cover_image}`}
+          src={`${projectData.image}`}
         ></Image>
       </section>
       <section className="flex flex-col justify-between gap-8 mb-6 md:md-12 md:flex-row">

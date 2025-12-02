@@ -5,6 +5,8 @@ title: Amul
 date: Case Study for MPS Branding, SVA
 category: Strategy
 cover_image: /images/screenshot-2024-07-28-at-4.55.08 pm.png
+link: ""
+link_text: "View"
 accordion_sections:
   - type: section
     content: Analyse Amul through an anthropological lens and create a brand

@@ -5,6 +5,8 @@ title: PayPal
 date: Case Study for MPS Branding, SVA
 category: Strategy
 cover_image: /images/asset-3.png
+link: ""
+link_text: ""
 accordion_sections:
   - type: section
     header: The Challenge

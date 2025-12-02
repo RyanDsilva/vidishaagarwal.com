@@ -5,6 +5,8 @@ title: Manchester City FC
 date: Pitched to MCFC via SVA Masters in Branding
 category: Strategy
 cover_image: /images/mcfc-cover.jpg
+link: ""
+link_text: "View"
 accordion_sections:
   - type: section
     header: The Challenge

@@ -5,6 +5,8 @@ title: Smiletribe
 date: Client Project with The Turtle Story, Mumbai
 category: Design, Strategy
 cover_image: /images/screenshot-2024-08-06-at-3.04.12 pm.png
+link: ""
+link_text: ""
 accordion_sections:
   - type: section
     header: The Challenge

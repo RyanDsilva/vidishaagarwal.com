@@ -5,6 +5,8 @@ title: Lewis Latimer House
 date: Client Project with SVA Masters in Branding Honors Program
 category: Design, Strategy
 cover_image: /images/llh-export.png
+link: ""
+link_text: "View"
 accordion_sections:
   - type: section
     header: The Challenge

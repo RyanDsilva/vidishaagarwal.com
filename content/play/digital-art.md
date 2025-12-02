@@ -4,7 +4,7 @@ title: Digital Art
 image: /images/play2.png
 alt: digital art
 href: /play/digital-art
-caption: what is this
+caption: ""
 show_tape: true
 tape_edge: right
 tape_rotate: 0

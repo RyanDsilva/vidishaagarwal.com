@@ -57,5 +57,5 @@ body_sections:
           domain. But why?](/images/grilling-is-a-mans-domain_1.png)"
   - type: section
     header: Video
-    video: 5MENQJT9Jx4&t=4105s
+    video: 5MENQJT9Jx4
 ---

@@ -3,7 +3,7 @@ index: 6
 name: Weber
 title: Weber
 date: Thesis Project at SVA Masters in Branding
-category: Strategy
+category: Strategy, Design
 cover_image: /images/cover-grilling.png
 link: ""
 link_text: ""

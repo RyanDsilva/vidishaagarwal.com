@@ -109,8 +109,8 @@ body_sections:
 
           It is a statement that attests to the brand's ambition: to be the centerpiece around which all kinds of families gather and bond.
       - type: content_block
-        lwidth: 1/3
-        content_data: video manifesto
+        lwidth: full
+        content_data: "![](/images/uncover-the-love.png)"
       - type: content_block
         lwidth: 2/3
         content_data: SM + Subway poster
@@ -123,6 +123,7 @@ body_sections:
       - type: content_block
         lwidth: full
         content_data: website
+    video: ""
   - type: section
     header: Store Experience
     content:

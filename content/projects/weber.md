@@ -112,10 +112,10 @@ body_sections:
         lwidth: 2/3
         content_data: "![](/images/uncover-the-love.png)"
       - type: content_block
-        lwidth: 1/3
+        lwidth: 1/4
         content_data: "![Social media mockup](/images/social-media.png)"
       - type: content_block
-        lwidth: full
+        lwidth: 3/4
         content_data: "> ![]()"
       - type: content_block
         lwidth: 2/3

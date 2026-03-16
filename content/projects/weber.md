@@ -109,7 +109,7 @@ body_sections:
 
           It is a statement that attests to the brand's ambition: to be the centerpiece around which all kinds of families gather and bond.
       - type: content_block
-        lwidth: 2/3
+        lwidth: full
         content_data: "![](/images/uncover-the-love.png)"
       - type: content_block
         lwidth: 1/3

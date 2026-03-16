@@ -100,7 +100,7 @@ body_sections:
     header: Campaign
     content:
       - type: content_block
-        lwidth: 1/2
+        lwidth: 1/3
         content_data: >-
           Uncover the Love is a campaign that encapsulates the brand's new
           positioning, encouraging audiences to express their love to those they
@@ -109,7 +109,7 @@ body_sections:
 
           It is a statement that attests to the brand's ambition: to be the centerpiece around which all kinds of families gather and bond.
       - type: content_block
-        lwidth: full
+        lwidth: 2/3
         content_data: "![](/images/uncover-the-love.png)"
       - type: content_block
         lwidth: 1/3

@@ -61,23 +61,17 @@ body_sections:
         lwidth: 1/3
         content_data: "![](/images/1950_s_ad_480x480.webp)"
       - type: content_block
-        lwidth: 1/3
+        lwidth: 1/2
         content_data: However, the definition of family is changing. There has been a
           30% decline in nuclear family households since the 1970s.  With
           changing family structures, grilling is losing relevance in culture as
           gender definitions and roles break away from the binary.
       - type: content_block
-        lwidth: 2/3
-        content_data: image
-      - type: content_block
-        lwidth: 1/3
+        lwidth: 1/2
         content_data: The nuclear family audience that Weber has been targeting since
           1952 cannot sustain its business. Weber must look beyond the nuclear
           family with its rigid gender norms, to stay relevant to the culture
           today.
-      - type: content_block
-        lwidth: 2/3
-        content_data: image
     header: Gender and Grilling
   - type: section
     header: Repositioning Weber

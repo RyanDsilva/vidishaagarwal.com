@@ -109,20 +109,20 @@ body_sections:
 
           It is a statement that attests to the brand's ambition: to be the centerpiece around which all kinds of families gather and bond.
       - type: content_block
-        lwidth: full
+        lwidth: 2/3
         content_data: "![](/images/uncover-the-love.png)"
       - type: content_block
         lwidth: 1/3
         content_data: "![Social media mockup](/images/social-media.png)"
       - type: content_block
-        lwidth: full
-        content_data: campaign guidelines
+        lwidth: 2/3
+        content_data: "![campaign guidelines](/images/campaign-guidelines.png)"
       - type: content_block
         lwidth: full
+        content_data: "> ![]()"
+      - type: content_block
+        lwidth: 1/3
         content_data: phrases
-      - type: content_block
-        lwidth: full
-        content_data: "![ssubway mockup](/images/subway-mockup.png)"
     video: ""
   - type: section
     header: Store Experience

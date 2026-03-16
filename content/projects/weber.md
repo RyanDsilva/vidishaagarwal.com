@@ -51,15 +51,15 @@ body_sections:
   - type: section
     content:
       - type: content_block
-        lwidth: 2/3
+        lwidth: 1/3
         content_data: Grilling is considered a deeply gendered activity built on
           idealized nuclear family structures in America in the 50's. It's a
           classic family pastime with a perfect family in their backyard with
           kids on the table, the wife preparing sides and setting up the table,
           and the "man" or the father handling the grill.
       - type: content_block
-        lwidth: 1/3
-        content_data: "![](/images/1950_s_ad_480x480.webp)"
+        lwidth: 2/3
+        content_data: "![](/images/nuclear-family.jpg)"
       - type: content_block
         lwidth: 1/2
         content_data: However, the definition of family is changing. There has been a

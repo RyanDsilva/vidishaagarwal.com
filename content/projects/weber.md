@@ -115,9 +115,6 @@ body_sections:
         lwidth: 1/3
         content_data: "![Social media mockup](/images/social-media.png)"
       - type: content_block
-        lwidth: 2/3
-        content_data: "![campaign guidelines](/images/campaign-guidelines.png)"
-      - type: content_block
         lwidth: full
         content_data: campaign guidelines
       - type: content_block

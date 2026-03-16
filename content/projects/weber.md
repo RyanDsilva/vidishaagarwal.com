@@ -117,12 +117,6 @@ body_sections:
       - type: content_block
         lwidth: 2/3
         content_data: "![subway](/images/subway-mockup.png)"
-      - type: content_block
-        lwidth: 2/3
-        content_data: "> ![subway]()"
-      - type: content_block
-        lwidth: 1/3
-        content_data: phrases
     video: ""
   - type: section
     header: Store Experience

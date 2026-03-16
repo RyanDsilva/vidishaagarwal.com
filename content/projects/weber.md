@@ -117,7 +117,7 @@ body_sections:
       - type: content_block
         lwidth: 2/3
         content_data: |-
-          a
+          
 
           ![ssubway mockup](/images/subway-mockup.png)
       - type: content_block

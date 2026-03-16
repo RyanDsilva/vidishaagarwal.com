@@ -116,10 +116,10 @@ body_sections:
         content_data: "![Social media mockup](/images/social-media.png)"
       - type: content_block
         lwidth: 2/3
-        content_data: "> ![]()"
+        content_data: "> ![subway](/images/subway-mockup.png)"
       - type: content_block
         lwidth: 2/3
-        content_data: "> ![subway](/images/subway-mockup.png)"
+        content_data: "> ![]()"
       - type: content_block
         lwidth: 1/3
         content_data: phrases

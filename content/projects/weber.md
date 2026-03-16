@@ -82,11 +82,11 @@ body_sections:
           To move beyond traditional gender stereotypes, Weber must center its
           brand on the true essence of the grill: gathering. The ritual isn’t
           defined by who stands over the flame, but by the community built
-          around it—the shared stories, the connection, and the collective
+          around it: the shared stories, the connection, and the collective
           experience of a meal made with love.
 
 
-          To grow, Weber must move beyond the middle-aged male demographic and embrace "Spirited Connectors"—a psychographic audience focused on bringing people together through shared experiences.
+          To grow, Weber must move beyond the middle-aged male demographic and embrace "Spirited Connectors", a psychographic audience focused on bringing people together through shared experiences.
       - type: content_block
         lwidth: 2/3
         content_data: image

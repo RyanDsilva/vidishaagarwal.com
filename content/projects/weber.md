@@ -52,26 +52,21 @@ body_sections:
     content:
       - type: content_block
         lwidth: 1/3
-        content_data: Grilling is considered a deeply gendered activity built on
-          idealized nuclear family structures in America in the 50's. It's a
-          classic family pastime with a perfect family in their backyard with
-          kids on the table, the wife preparing sides and setting up the table,
-          and the "man" or the father handling the grill.
+        content_data: >-
+          Grilling is considered a deeply gendered activity built on idealized
+          nuclear family structures in America in the 50's. It's a classic
+          family pastime with a perfect family in their backyard with kids on
+          the table, the wife preparing sides and setting up the table, and the
+          "man" or the father handling the grill.
+
+
+          However, the definition of family is changing. There has been a 30% decline in nuclear family households since the 1970s.  With changing family structures, grilling is losing relevance in culture as gender definitions and roles break away from the binary.
+
+
+          The nuclear family audience that Weber has been targeting since 1952 cannot sustain its business. Weber must look beyond the nuclear family with its rigid gender norms, to stay relevant to the culture today.
       - type: content_block
         lwidth: 2/3
         content_data: "![](/images/nuclear-family.jpg)"
-      - type: content_block
-        lwidth: 1/2
-        content_data: However, the definition of family is changing. There has been a
-          30% decline in nuclear family households since the 1970s.  With
-          changing family structures, grilling is losing relevance in culture as
-          gender definitions and roles break away from the binary.
-      - type: content_block
-        lwidth: 1/2
-        content_data: The nuclear family audience that Weber has been targeting since
-          1952 cannot sustain its business. Weber must look beyond the nuclear
-          family with its rigid gender norms, to stay relevant to the culture
-          today.
     header: Gender and Grilling
   - type: section
     header: Repositioning Weber

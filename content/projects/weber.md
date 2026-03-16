@@ -100,7 +100,7 @@ body_sections:
     header: Campaign
     content:
       - type: content_block
-        lwidth: full
+        lwidth: 1/2
         content_data: >-
           Uncover the Love is a campaign that encapsulates the brand's new
           positioning, encouraging audiences to express their love to those they
@@ -112,8 +112,14 @@ body_sections:
         lwidth: full
         content_data: "![](/images/uncover-the-love.png)"
       - type: content_block
+        lwidth: 1/3
+        content_data: "![Social media mockup](/images/social-media.png)"
+      - type: content_block
         lwidth: 2/3
-        content_data: SM + Subway poster
+        content_data: |-
+          a
+
+          ![ssubway mockup](/images/subway-mockup.png)
       - type: content_block
         lwidth: full
         content_data: campaign guidelines
@@ -122,7 +128,7 @@ body_sections:
         content_data: phrases
       - type: content_block
         lwidth: full
-        content_data: website
+        content_data: "![ssubway mockup](/images/subway-mockup.png)"
     video: ""
   - type: section
     header: Store Experience

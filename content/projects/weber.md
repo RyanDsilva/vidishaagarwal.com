@@ -92,10 +92,10 @@ body_sections:
         content_data: image
       - type: content_block
         lwidth: full
-        content_data: |-
-          The new positioning that captures this evolution is:
-
-          Image
+        content_data: "The new positioning that captures this evolution is:"
+      - type: content_block
+        lwidth: full
+        content_data: "![](/images/weber_pos-statement.png)"
   - type: section
     header: Campaign
     content:

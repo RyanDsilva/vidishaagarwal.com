@@ -89,7 +89,7 @@ body_sections:
           To grow, Weber must move beyond the middle-aged male demographic and embrace "Spirited Connectors", a psychographic audience focused on bringing people together through shared experiences.
       - type: content_block
         lwidth: 2/3
-        content_data: image
+        content_data: "![](/images/spirited-connectors.png)"
       - type: content_block
         lwidth: full
         content_data: "The new positioning that captures this evolution is:"

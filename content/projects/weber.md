@@ -48,14 +48,10 @@ body_sections:
           experienced a 32% decline in market share since 2020. The struggles
           reflect the aging core grill-enthusiast audience and dwindling while
           interest among younger consumers.
-      - type: content_block
-        lwidth: 1/2
-        content_data: "![We have been socialised to believe that grilling is a man's
-          domain. But why?](/images/grilling-is-a-mans-domain_1.png)"
   - type: section
     content:
       - type: content_block
-        lwidth: 2/3
+        lwidth: 1/2
         content_data: Grilling is considered a deeply gendered activity built on
           idealized nuclear family structures in America in the 50's. It's a
           classic family pastime with a perfect family in their backyard with
